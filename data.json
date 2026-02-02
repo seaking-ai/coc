@@ -1,5 +1,125 @@
 [
   {
+    "id": "48071b4d-ce90-4bf5-91fe-aeb1f0459529",
+    "title": "18-2-1",
+    "image": "/images/layout_1770018223555.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAIwAAAAAjYQfSPjUtihE5mq1W3sIM&platform=tencent",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALFUpnh7jBXi7KDv3hbHcfh",
+    "tags": [
+      "18本",
+      "有精致台",
+      "冲杯",
+      "国服",
+      "国际服",
+      "隐身塔"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-02-02T07:43:44.119Z"
+  },
+  {
+    "id": "321be807-7619-43a0-b676-06d190e71379",
+    "title": "18-2-1",
+    "image": "/images/layout_1770018200929.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAIwAAAAAkM6nfxaLksEnEgZiLZyBU&platform=tencent",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAAgAAAAMQ2YTsa0t2AOYygryNOs5N&th=MWN9RVk",
+    "tags": [
+      "18本",
+      "有精致台",
+      "冲杯",
+      "国服",
+      "国际服",
+      "狂暴塔"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-02-02T07:43:21.499Z"
+  },
+  {
+    "id": "e1a56745-4d6d-4121-a193-6e6d91261e81",
+    "title": "18-2-1",
+    "image": "/images/layout_1770018181796.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAAwAAAAAj-xQa1ujS9FCDVvDhVqtM&platform=tencent",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALJW9v3gzmtpWT19rclngGR",
+    "tags": [
+      "18本",
+      "有精致台",
+      "冲杯",
+      "毒药塔",
+      "国服",
+      "国际服"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-02-02T07:43:02.305Z"
+  },
+  {
+    "id": "4f59a09f-9c27-4c64-9833-7b3dbcd2ac8d",
+    "title": "18-2-1",
+    "image": "/images/layout_1770018164023.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAIwAAAAAkO2tXG3z-B9MmrmOv-8aH&platform=tencent",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAVwAAAAHggkOHR5aVKF31T6iblWQa",
+    "tags": [
+      "18本",
+      "有精致台",
+      "冲杯",
+      "毒药塔",
+      "国服",
+      "国际服"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-02-02T07:42:44.645Z"
+  },
+  {
+    "id": "698e0e76-67d2-43e4-9dfc-7a18f73ac77d",
+    "title": "18-2-1",
+    "image": "/images/layout_1770018143341.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAIwAAAAAkMdx4ejFOEcZSyTde92oI&platform=tencent",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAARQAAAAI0V0-jVBGYukyPtmmVCGHy",
+    "tags": [
+      "18本",
+      "有精致台",
+      "冲杯",
+      "国服",
+      "国际服",
+      "毒药塔"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-02-02T07:42:23.981Z"
+  },
+  {
+    "id": "36688ad1-eaac-495b-8f10-e0dfe7f9fb9a",
+    "title": "18-2-1",
+    "image": "/images/layout_1770018124507.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAIwAAAAAkIqetoJy1MHOqYutTJWQn&platform=tencent",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAKQAAAAKZ-NRWr92vdbsHGDGMViUK",
+    "tags": [
+      "18本",
+      "狂暴塔",
+      "有精致台",
+      "冲杯",
+      "国服",
+      "国际服"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-02-02T07:42:05.146Z"
+  },
+  {
+    "id": "b836c318-7c58-4a46-ac6b-4169777ad47b",
+    "title": "18-2-1",
+    "image": "/images/layout_1770018105841.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAIwAAAAAkN-iP0-8EAzyjjC57iPq0&platform=tencent",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAATQAAAAH5D0E2V3SZcMPf6Q3EHNjH",
+    "tags": [
+      "国服",
+      "国际服",
+      "18本",
+      "狂暴塔",
+      "毒药塔",
+      "有精致台",
+      "冲杯"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-02-02T07:41:46.450Z"
+  },
+  {
     "id": "200b9f62-8a14-4fd1-a031-2721e817c168",
     "title": "18本防陨石",
     "image": "/images/layout_1769771625548.webp",
