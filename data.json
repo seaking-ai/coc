@@ -133,8 +133,9 @@
       "有精致台",
       "冲杯"
     ],
-    "description": "源自：b站coc星辉",
-    "createdAt": "2026-02-10T06:16:52.373Z"
+    "description": "源自：b站coc星辉\r\n2026-02-10测试，国际服链接可用",
+    "createdAt": "2026-02-10T06:16:52.373Z",
+    "updatedAt": "2026-02-10T06:31:32.786Z"
   },
   {
     "id": "d7ebc210-95cf-48d7-b97f-96481b1161c3",
@@ -185,8 +186,9 @@
       "国际服",
       "毒药塔"
     ],
-    "description": "源自：b站coc星辉",
-    "createdAt": "2026-02-08T05:41:49.763Z"
+    "description": "源自：b站coc星辉\r\n2026-02-10测试，国际服链接可用",
+    "createdAt": "2026-02-08T05:41:49.763Z",
+    "updatedAt": "2026-02-10T06:31:01.226Z"
   },
   {
     "id": "9ab053c0-9eea-4937-b1d2-1d7c6282413f",
@@ -3154,9 +3156,9 @@
       "狂暴塔",
       "有精致台"
     ],
-    "description": "源自：b站coc星辉",
+    "description": "源自：b站coc星辉\r\n2026-02-10测试，国际服链接可用",
     "createdAt": "2026-01-30T02:04:09.000Z",
-    "updatedAt": "2026-01-30T06:50:16.015Z"
+    "updatedAt": "2026-02-10T06:29:25.102Z"
   },
   {
     "id": "a83ba5d5-5970-4746-94e1-843a0bec7bcd",
@@ -3172,20 +3174,19 @@
       "毒药塔",
       "有精致台"
     ],
-    "description": "源自：b站coc星辉",
+    "description": "源自：b站coc星辉\r\n2026-02-10测试，国际服链接可用",
     "createdAt": "2026-01-30T02:03:52.178Z",
-    "updatedAt": "2026-01-30T06:50:34.787Z"
+    "updatedAt": "2026-02-10T06:28:51.962Z"
   },
   {
     "id": "1fc4f854-0be1-42e2-ac31-34fa6f47d446",
     "title": "17-11.13",
     "image": "/images/layout_1769738610961.webp",
     "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH17%3AWB%3AAAAAPQAAAAAhK7zHrCkK1NDH6O0N-KF3&platform=tencent",
-    "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AWB%3AA AAACwAAAAK3_YgradLhsDqNU4gI9mds",
+    "internationalLink": "",
     "tags": [
       "17本",
       "国服",
-      "国际服",
       "冲杯",
       "狂暴塔",
       "毒药塔",
@@ -3193,7 +3194,7 @@
     ],
     "description": "源自：b站coc星辉",
     "createdAt": "2026-01-30T02:03:31.435Z",
-    "updatedAt": "2026-01-30T06:50:42.290Z"
+    "updatedAt": "2026-02-10T06:30:01.019Z"
   },
   {
     "id": "c54501e0-a211-4af1-8c80-b97aa4de0b06",
@@ -3210,9 +3211,9 @@
       "隐身塔",
       "有精致台"
     ],
-    "description": "源自：b站coc星辉",
+    "description": "源自：b站coc星辉\r\n2026-02-10测试，国际服链接可用",
     "createdAt": "2026-01-30T01:56:14.282Z",
-    "updatedAt": "2026-01-30T06:50:58.290Z"
+    "updatedAt": "2026-02-10T06:30:34.606Z"
   },
   {
     "id": "ffcd04d1-9d93-4cae-996f-f63b4b893006",
