@@ -1,5 +1,108 @@
 [
   {
+    "id": "b6b6ac53-d24b-4e28-a00e-6e0b2b67d16e",
+    "title": "18-2-10",
+    "image": "/images/layout_1770873299383.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAIwAAAAAkP56utuPrhe3RPQGD4Np7&platform=tencent",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAUQAAAAHqVHsXMiA3N6o_iE_aYaZy",
+    "tags": [
+      "18本",
+      "有精致台",
+      "冲杯",
+      "国服",
+      "国际服",
+      "狂暴塔"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-02-12T05:14:59.908Z"
+  },
+  {
+    "id": "58fb0d24-dfdb-4e35-b9ea-613fd5dae539",
+    "title": "18-2-10",
+    "image": "/images/layout_1770873278413.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAAwAAAAAkBHP555HgN8yNG1KFg-O-&platform=tencent",
+    "internationalLink": "https://link.clashofclans.com/cn/?action=OpenLayout&id=TH18%3AHV%3AAAAARwAAAAI2PZOTkFE_l4eNP7RFXRBR",
+    "tags": [
+      "18本",
+      "有精致台",
+      "冲杯",
+      "毒药塔",
+      "国服",
+      "国际服"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-02-12T05:14:38.943Z"
+  },
+  {
+    "id": "06e34905-a848-476a-8760-f94f97e9c0df",
+    "title": "18-2-10",
+    "image": "/images/layout_1770873263511.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAIwAAAAAkZixVtSmHbnr2afRP4Ly-&platform=tencent",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAVQAAAAHqbnYJ9kLGKeXekr3j2LS7",
+    "tags": [
+      "18本",
+      "有精致台",
+      "冲杯",
+      "国服",
+      "国际服",
+      "毒药塔"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-02-12T05:14:23.998Z"
+  },
+  {
+    "id": "41b51c77-c5f8-419a-9693-5d1004b606d5",
+    "title": "18-2-10",
+    "image": "/images/layout_1770873248209.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAIwAAAAAkP5_mzs6IbUrPCpnprYQI&platform=tencent",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAEAAAAALCrDH1VMEgyaObXU8PcYfO",
+    "tags": [
+      "18本",
+      "有精致台",
+      "冲杯",
+      "国服",
+      "国际服",
+      "狂暴塔"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-02-12T05:14:08.691Z"
+  },
+  {
+    "id": "5f0f6a47-e25c-4696-a1f6-14435b2734bf",
+    "title": "18-2-10",
+    "image": "/images/layout_1770873232342.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAAwAAAAAkH35VhCDLQdBLRVsdCUBu&platform=tencent",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAEwAAAAK4IGE5fMf-WKXEqtM_1P79",
+    "tags": [
+      "18本",
+      "有精致台",
+      "冲杯",
+      "国服",
+      "国际服",
+      "狂暴塔",
+      "隐身塔"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-02-12T05:13:52.887Z"
+  },
+  {
+    "id": "d85783ec-207a-4067-99ab-514f4797528b",
+    "title": "18-2-10",
+    "image": "/images/layout_1770873214248.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAAwAAAAAkSmr95GjqYD1enjD_Z1MX&platform=tencent",
+    "internationalLink": "https://link.clashofclans.com/fa/?action=OpenLayout&id=TH18%3AWB%3AAAAABAAAAAMItD83K9n0b-jH8ZB1U3wa",
+    "tags": [
+      "国服",
+      "国际服",
+      "18本",
+      "毒药塔",
+      "有精致台",
+      "冲杯"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-02-12T05:13:34.764Z"
+  },
+  {
     "id": "4d7c1f30-460b-423e-9475-a7ef4b410b99",
     "title": "18-2-9",
     "image": "/images/layout_1770704373786.webp",
@@ -274,8 +377,9 @@
       "有精致台",
       "冲杯"
     ],
-    "description": "源自：b站coc星辉",
-    "createdAt": "2026-02-08T05:40:01.077Z"
+    "description": "源自：b站coc星辉\r\n2026-02-12测试，国际服链接可用",
+    "createdAt": "2026-02-08T05:40:01.077Z",
+    "updatedAt": "2026-02-12T05:24:22.029Z"
   },
   {
     "id": "e6bfbc35-3484-469f-8924-3a2e267807e6",
