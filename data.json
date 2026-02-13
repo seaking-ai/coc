@@ -1,5 +1,129 @@
 [
   {
+    "id": "9da4daa1-0009-4683-8114-f50c504b39a9",
+    "title": "2026-2-13",
+    "image": "/images/layout_1770946730872.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAJAAAAAAkb_Kb1Q9wz6PpXqu_v4Rx&platform=tencent",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAARwAAAAI1jYWc3diXTIJHVAJ70f3k",
+    "tags": [
+      "冲杯",
+      "毒药塔",
+      "国际服",
+      "国服",
+      "18本"
+    ],
+    "description": "源自：b站部落冲突XO",
+    "createdAt": "2026-02-13T01:38:51.434Z"
+  },
+  {
+    "id": "c603d5bb-e503-4ea6-ab40-7dbd1f5f2141",
+    "title": "2026-2-13",
+    "image": "/images/layout_1770946716473.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH17%3AWB%3AAAAAQwAAAAAj2J_mgqTy0Ai8XGTFS76r&platform=tencent",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH17%3AWB%3AAAAAVAAAAAHpihRoyRXO9355KFVjr0ao",
+    "tags": [
+      "冲杯",
+      "毒药塔",
+      "国服",
+      "国际服",
+      "17本"
+    ],
+    "description": "源自：b站部落冲突XO",
+    "createdAt": "2026-02-13T01:38:36.942Z"
+  },
+  {
+    "id": "aac06c00-60e9-44bb-9ad9-ebccdd3669a6",
+    "title": "2026-2-13",
+    "image": "/images/layout_1770946699215.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH16%3AWB%3AAAAAPQAAAAAjmIlNV226mzrCS6DthkQR&platform=tencent",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH16%3AWB%3AAAAAQgAAAAJFTI6nGs6Y2SfC3E_UDZ_S",
+    "tags": [
+      "冲杯",
+      "国际服",
+      "国服",
+      "毒药塔",
+      "16本"
+    ],
+    "description": "源自：b站部落冲突XO",
+    "createdAt": "2026-02-13T01:38:19.759Z"
+  },
+  {
+    "id": "6d41ab4b-0153-4411-8ea4-d3800f8b8b83",
+    "title": "2026-2-13",
+    "image": "/images/layout_1770946552524.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH15%3AWB%3AAAAANgAAAAAj5fwOK8kUhrLDpwEy-inn&platform=tencent",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH15%3AWB%3AAAAAWAAAAAHf15GlWuBeibYMTMCZ-sMv",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "15本",
+      "狂暴塔"
+    ],
+    "description": "源自：b站部落冲突XO",
+    "createdAt": "2026-02-13T01:35:53.000Z"
+  },
+  {
+    "id": "f74da02b-081b-4e96-9947-10d923fe7971",
+    "title": "2026-2-13",
+    "image": "/images/layout_1770946532311.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH14%3AWB%3AAAAAPAAAAAAjohsgjPMwEhaKRHkqbyYR&platform=tencent",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH14%3AWB%3AAAAASwAAAAH5RnI3rMEIBkhtx8SnflYd",
+    "tags": [
+      "冲杯",
+      "国际服",
+      "国服",
+      "14本"
+    ],
+    "description": "源自：b站部落冲突XO",
+    "createdAt": "2026-02-13T01:35:32.792Z"
+  },
+  {
+    "id": "ef96b647-9f6b-4177-8a17-62a435211d04",
+    "title": "2026-2-13",
+    "image": "/images/layout_1770946507906.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAALQAAAAAkCXTBWC1FTlnfzbyd5N-Z&platform=tencent",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH13%3AWB%3AAAAAEAAAAALCUle5OffQlg_zmrB3V7BC",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "13本"
+    ],
+    "description": "源自：b站部落冲突XO",
+    "createdAt": "2026-02-13T01:35:08.462Z"
+  },
+  {
+    "id": "5d7e367a-2962-4565-99ea-d824d099e5fd",
+    "title": "2026-2-13",
+    "image": "/images/layout_1770946493062.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH12%3AWB%3AAAAAMgAAAAAjs7kinqHm33CyGLeCRFvW&platform=tencent",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH12%3AWB%3AAAAAGAAAAAKkkwK4OFRVuLtYbSLQbf3f",
+    "tags": [
+      "冲杯",
+      "国际服",
+      "国服",
+      "12本"
+    ],
+    "description": "源自：b站部落冲突XO",
+    "createdAt": "2026-02-13T01:34:53.625Z"
+  },
+  {
+    "id": "1c809248-2977-4240-9cb0-3e0ce523431f",
+    "title": "2026-2-13",
+    "image": "/images/layout_1770946471863.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH11%3AWB%3AAAAAAAAAAAAjfU2tm_F4PzxNOv4qfOIp&platform=tencent",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH11%3AWB%3AAAAAJgAAAAKlLvLXTVnhSqXtkeI6BHQF",
+    "tags": [
+      "国服",
+      "11本",
+      "国际服",
+      "冲杯"
+    ],
+    "description": "源自：b站部落冲突XO",
+    "createdAt": "2026-02-13T01:34:32.424Z"
+  },
+  {
     "id": "27ba7193-02e6-4fe0-93ee-43d3749b171a",
     "title": "18-2-12",
     "image": "/images/layout_1770944777955.webp",
