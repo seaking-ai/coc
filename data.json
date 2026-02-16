@@ -148,8 +148,9 @@
       "毒药塔",
       "16本"
     ],
-    "description": "源自：b站部落冲突XO",
-    "createdAt": "2026-02-13T01:38:19.759Z"
+    "description": "源自：b站部落冲突XO\r\n2026-02-16测试，国际服链接可用",
+    "createdAt": "2026-02-13T01:38:19.759Z",
+    "updatedAt": "2026-02-16T11:06:38.189Z"
   },
   {
     "id": "6d41ab4b-0153-4411-8ea4-d3800f8b8b83",
@@ -3314,9 +3315,9 @@
       "毒药塔",
       "2026-02-08测试，国服链接可用"
     ],
-    "description": "源自：b站部落冲突XO\r\n2026-02-08测试，国服链接可用",
+    "description": "源自：b站部落冲突XO\r\n2026-02-08测试，国服链接可用\r\n2026-02-16测试，国际服链接可用",
     "createdAt": "2026-01-30T02:57:26.498Z",
-    "updatedAt": "2026-02-08T11:26:51.117Z"
+    "updatedAt": "2026-02-16T11:07:24.702Z"
   },
   {
     "id": "e834251c-9865-4f7b-a73d-6afc1cbdbdd4",
@@ -3488,64 +3489,9 @@
       "联赛",
       "狂暴塔"
     ],
-    "description": "源自：b站coc星辉",
+    "description": "源自：b站coc星辉\r\n2026-02-16测试，国际服链接可用",
     "createdAt": "2026-01-30T02:46:36.323Z",
-    "updatedAt": "2026-02-08T05:55:56.084Z"
-  },
-  {
-    "id": "7303bd6e-8538-49d2-b6a9-7f2a784e9dac",
-    "title": "16-09.03",
-    "image": "/images/layout_1769741182563.webp",
-    "chinaLink": "",
-    "internationalLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH16%3AWB%3AAAAANQAAAAIokG9ppVgm4GJTi6Am9oi2",
-    "tags": [
-      "16本",
-      "国际服",
-      "冲杯",
-      "部落战",
-      "联赛",
-      "狂暴塔",
-      "隐身塔"
-    ],
-    "description": "源自：b站coc星辉",
-    "createdAt": "2026-01-30T02:46:23.096Z",
-    "updatedAt": "2026-02-08T05:55:30.978Z"
-  },
-  {
-    "id": "90be40f0-23e9-4790-a249-0418d8fa7870",
-    "title": "16-09.03",
-    "image": "/images/layout_1769741167876.webp",
-    "chinaLink": "",
-    "internationalLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH16%3AWB%3AAAAAMAAAAAI4298xNnT4iuiTqHGdoLk6",
-    "tags": [
-      "16本",
-      "国际服",
-      "冲杯",
-      "部落战",
-      "联赛",
-      "隐身塔"
-    ],
-    "description": "源自：b站coc星辉",
-    "createdAt": "2026-01-30T02:46:08.361Z",
-    "updatedAt": "2026-02-08T05:56:17.853Z"
-  },
-  {
-    "id": "aab1fd5c-d797-4960-a9b0-782cc4de57b1",
-    "title": "16-09.03",
-    "image": "/images/layout_1769741153319.webp",
-    "chinaLink": "",
-    "internationalLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH16%3AWB%3AAAAANQAAAAIpzRbUxg18pE4rkZ-fMcPF",
-    "tags": [
-      "16本",
-      "国际服",
-      "冲杯",
-      "部落战",
-      "联赛",
-      "隐身塔"
-    ],
-    "description": "源自：b站coc星辉",
-    "createdAt": "2026-01-30T02:45:53.820Z",
-    "updatedAt": "2026-02-08T05:56:53.584Z"
+    "updatedAt": "2026-02-16T11:08:09.566Z"
   },
   {
     "id": "d61a9d61-2b60-4e1a-861e-cdead0d30df5",
