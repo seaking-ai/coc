@@ -203,8 +203,9 @@
       "国际服",
       "17本"
     ],
-    "description": "源自：b站部落冲突XO",
-    "createdAt": "2026-02-13T01:38:36.942Z"
+    "description": "源自：b站部落冲突XO\r\n2026-02-21测试，国际服链接可用",
+    "createdAt": "2026-02-13T01:38:36.942Z",
+    "updatedAt": "2026-02-21T09:27:48.807Z"
   },
   {
     "id": "aac06c00-60e9-44bb-9ad9-ebccdd3669a6",
@@ -219,9 +220,9 @@
       "毒药塔",
       "16本"
     ],
-    "description": "源自：b站部落冲突XO\r\n2026-02-16测试，国际服链接可用",
+    "description": "源自：b站部落冲突XO\r\n2026-02-16测试，国际服链接可用\r\n2026-02-21测试，国服链接可用",
     "createdAt": "2026-02-13T01:38:19.759Z",
-    "updatedAt": "2026-02-16T11:06:38.189Z"
+    "updatedAt": "2026-02-21T09:24:11.103Z"
   },
   {
     "id": "6d41ab4b-0153-4411-8ea4-d3800f8b8b83",
@@ -236,8 +237,9 @@
       "15本",
       "狂暴塔"
     ],
-    "description": "源自：b站部落冲突XO",
-    "createdAt": "2026-02-13T01:35:53.000Z"
+    "description": "源自：b站部落冲突XO\r\n2026-02-21测试，国际服链接可用",
+    "createdAt": "2026-02-13T01:35:53.000Z",
+    "updatedAt": "2026-02-21T09:56:21.732Z"
   },
   {
     "id": "f74da02b-081b-4e96-9947-10d923fe7971",
@@ -872,44 +874,43 @@
       "毒药塔",
       "2026-02-08测试，国服链接可用"
     ],
-    "description": "源自：b站ekwaak\r\n2026-02-08测试，国服链接可用",
+    "description": "源自：b站ekwaak\r\n2026-02-08测试，国服链接可用\r\n2026-02-21测试，国际服链接可用",
     "createdAt": "2026-02-07T01:55:04.613Z",
-    "updatedAt": "2026-02-08T11:30:31.418Z"
+    "updatedAt": "2026-02-21T09:28:16.546Z"
   },
   {
     "id": "63e01702-a233-4b2e-8eb4-00bc41ef65dc",
     "title": "2025-04-05",
     "image": "/images/layout_1770429285687.webp",
     "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH17%3AWB%3AAAAANAAAAAAb-o01DITe3b7nKCImny_U&platform=iOS",
-    "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AWB%3AAAAAPwAAAAIglUm3NUImDy74C4ym-zOE",
+    "internationalLink": "",
     "tags": [
       "17本",
       "无精致台",
       "冲杯",
       "国服",
-      "国际服",
       "狂暴塔"
     ],
     "description": "源自：b站ekwaak\r\n2026.2.8测试，国服链接可用",
     "createdAt": "2026-02-07T01:54:46.154Z",
-    "updatedAt": "2026-02-08T05:57:56.064Z"
+    "updatedAt": "2026-02-21T09:28:39.946Z"
   },
   {
     "id": "eed87bdc-3ebd-4e73-9ae2-f7a454e2dfab",
     "title": "2025-04-05",
     "image": "/images/layout_1770429266114.webp",
     "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH17%3AWB%3AAAAANAAAAAAb-nXSqwCl_mmpmB_mFrDl&platform=iOS",
-    "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AHV%3AAAAAPwAAAAIgf4dNmezyuE7fK52JBGxP",
+    "internationalLink": "",
     "tags": [
       "17本",
       "无精致台",
       "冲杯",
       "国服",
-      "国际服",
       "毒药塔"
     ],
     "description": "源自：b站ekwaak",
-    "createdAt": "2026-02-07T01:54:26.604Z"
+    "createdAt": "2026-02-07T01:54:26.604Z",
+    "updatedAt": "2026-02-21T09:50:53.055Z"
   },
   {
     "id": "97b3c378-fc38-4280-afee-db536faa84ab",
@@ -926,44 +927,43 @@
       "狂暴塔",
       "2026-02-08测试，国服链接可用"
     ],
-    "description": "源自：b站ekwaak\r\n2026-02-08测试，国服链接可用",
+    "description": "源自：b站ekwaak\r\n2026-02-08测试，国服链接可用\r\n2026-02-21测试，国际服链接可用",
     "createdAt": "2026-02-07T01:54:10.231Z",
-    "updatedAt": "2026-02-08T11:31:06.151Z"
+    "updatedAt": "2026-02-21T09:28:54.960Z"
   },
   {
     "id": "db6406e1-e6f1-4118-9b10-cb37d74c3cfe",
     "title": "2025-04-05",
     "image": "/images/layout_1770429228643.webp",
     "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH17%3AWB%3AAAAAFwAAAAAco13INGXOi90wBR7I_JWN&platform=tencent",
-    "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AHV%3AAAAAEwAAAAKN8XsxlBMBVxFV1EfI4s-K",
+    "internationalLink": "",
     "tags": [
       "17本",
       "无精致台",
       "冲杯",
       "毒药塔",
-      "国服",
-      "国际服"
+      "国服"
     ],
     "description": "源自：b站ekwaak",
-    "createdAt": "2026-02-07T01:53:49.086Z"
+    "createdAt": "2026-02-07T01:53:49.086Z",
+    "updatedAt": "2026-02-21T09:30:05.686Z"
   },
   {
     "id": "79023d64-54e7-4039-894a-7aca148d9810",
     "title": "2025-04-05",
     "image": "/images/layout_1770429211466.webp",
     "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH17%3AWB%3AAAAANAAAAAAb23ANXldXn66CjIv9KJTx&platform=iOS",
-    "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AHV%3AAAAAVAAAAAHIG4VtsAIMppTiSFLYN_Wh",
+    "internationalLink": "",
     "tags": [
       "17本",
       "无精致台",
       "冲杯",
       "国服",
-      "国际服",
       "毒药塔"
     ],
     "description": "源自：b站ekwaak\r\n2026.2.8测试，国服链接可用",
     "createdAt": "2026-02-07T01:53:31.922Z",
-    "updatedAt": "2026-02-08T05:59:00.087Z"
+    "updatedAt": "2026-02-21T09:50:40.243Z"
   },
   {
     "id": "656b60ce-1502-4af0-8062-06be18abfd30",
@@ -980,8 +980,9 @@
       "国际服",
       "隐身塔"
     ],
-    "description": "源自：b站ekwaak",
-    "createdAt": "2026-02-07T01:53:10.982Z"
+    "description": "源自：b站ekwaak\r\n2026-02-21测试，国际服链接可用",
+    "createdAt": "2026-02-07T01:53:10.982Z",
+    "updatedAt": "2026-02-21T10:09:29.663Z"
   },
   {
     "id": "2ff78bae-81d5-4256-a158-9fc62131fff0",
@@ -998,9 +999,9 @@
       "狂暴塔",
       "2026-02-08测试，国服链接可用"
     ],
-    "description": "源自：b站ekwaak\r\n2026-02-08测试，国服链接可用",
+    "description": "源自：b站ekwaak\r\n2026-02-08测试，国服链接可用\r\n2026-02-21测试，国际服链接可用",
     "createdAt": "2026-02-07T01:52:46.703Z",
-    "updatedAt": "2026-02-08T11:44:17.280Z"
+    "updatedAt": "2026-02-21T10:09:45.391Z"
   },
   {
     "id": "eec9bda6-2791-44e2-acc2-62e7d307357b",
@@ -1017,79 +1018,78 @@
       "毒药塔",
       "2026-02-08测试，国服链接可用"
     ],
-    "description": "源自：b站ekwaak\r\n2026-02-08测试，国服链接可用",
+    "description": "源自：b站ekwaak\r\n2026-02-08测试，国服链接可用\r\n2026-02-21测试，国际服链接可用",
     "createdAt": "2026-02-07T01:52:25.765Z",
-    "updatedAt": "2026-02-08T11:31:33.139Z"
+    "updatedAt": "2026-02-21T09:51:05.513Z"
   },
   {
     "id": "1bf417e6-69fd-4d69-9516-c8b76c3ae110",
     "title": "2025-04-05",
     "image": "/images/layout_1770429127049.webp",
     "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH17%3AWB%3AAAAAFwAAAAAcf2RPhUPLVMzIPka1E0CF&platform=tencent",
-    "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AWB%3AAAAAEwAAAAKNURjFO6Ea9357B7HlRexX",
+    "internationalLink": "",
     "tags": [
       "17本",
       "无精致台",
       "冲杯",
       "国服",
-      "国际服",
       "狂暴塔"
     ],
     "description": "源自：b站ekwaak",
-    "createdAt": "2026-02-07T01:52:07.564Z"
+    "createdAt": "2026-02-07T01:52:07.564Z",
+    "updatedAt": "2026-02-21T09:52:37.975Z"
   },
   {
     "id": "153f3ca4-3590-49cc-9d36-a442bd069f23",
     "title": "2025-04-05",
     "image": "/images/layout_1770429110359.webp",
     "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH17%3AWB%3AAAAAMgAAAAAbWHvQ47nrqc3trVAam935&platform=tencent",
-    "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AWB%3AAAAAEwAAAAKNFoGhAuqJoXcWU2UqolJV",
+    "internationalLink": "",
     "tags": [
       "17本",
       "无精致台",
       "冲杯",
       "毒药塔",
-      "国服",
-      "国际服"
+      "国服"
     ],
     "description": "源自：b站ekwaak",
-    "createdAt": "2026-02-07T01:51:50.825Z"
+    "createdAt": "2026-02-07T01:51:50.825Z",
+    "updatedAt": "2026-02-21T09:49:37.635Z"
   },
   {
     "id": "bce15f43-f462-4b32-adb2-cd2935b8f8b7",
     "title": "2025-04-05",
     "image": "/images/layout_1770429087573.webp",
     "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH17%3AWB%3AAAAAPAAAAAAbX1rTgzwOB9CStcEOMJoy&platform=iOS",
-    "internationalLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH17%3AWB%3AAAAAMAAAAAJR4s1Yc8DXHsJgGiSzLvLm",
+    "internationalLink": "",
     "tags": [
       "17本",
       "无精致台",
       "冲杯",
       "毒药塔",
-      "国服",
-      "国际服"
+      "国服"
     ],
     "description": "源自：b站ekwaak",
-    "createdAt": "2026-02-07T01:51:28.048Z"
+    "createdAt": "2026-02-07T01:51:28.048Z",
+    "updatedAt": "2026-02-21T10:10:17.719Z"
   },
   {
     "id": "480b9c63-a343-483e-8516-8c808737222b",
     "title": "2025-04-05",
     "image": "/images/layout_1770429071008.webp",
     "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH17%3AWB%3AAAAANAAAAAAbqTHwm0WwOSzQW_LKTzik&platform=iOS",
-    "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AWB%3AAAAAPwAAAAIfbahdIlcze3XmyT1501ZQ",
+    "internationalLink": "",
     "tags": [
       "17本",
       "无精致台",
       "冲杯",
       "毒药塔",
       "国服",
-      "国际服",
       "2026-02-08测试，国服链接可用"
     ],
     "description": "源自：b站ekwaak\r\n2026-02-08测试，国服链接可用",
     "createdAt": "2026-02-07T01:51:11.497Z",
-    "updatedAt": "2026-02-08T11:43:26.398Z"
+    "updatedAt": "2026-02-21T09:48:54.317Z"
   },
   {
     "id": "12edc7c6-bd0d-4ee3-a316-1be88705c186",
@@ -1105,8 +1105,9 @@
       "国服",
       "国际服"
     ],
-    "description": "源自：b站ekwaak",
-    "createdAt": "2026-02-07T01:50:55.168Z"
+    "description": "源自：b站ekwaak\r\n2026-02-21测试，国际服链接可用",
+    "createdAt": "2026-02-07T01:50:55.168Z",
+    "updatedAt": "2026-02-21T09:52:51.401Z"
   },
   {
     "id": "3ca62225-9ff8-4844-9eaa-8f93ef52c6fe",
@@ -1122,8 +1123,9 @@
       "国服",
       "国际服"
     ],
-    "description": "源自：b站ekwaak",
-    "createdAt": "2026-02-07T01:50:37.866Z"
+    "description": "源自：b站ekwaak\r\n2026-02-21测试，国际服链接可用",
+    "createdAt": "2026-02-07T01:50:37.866Z",
+    "updatedAt": "2026-02-21T09:31:19.099Z"
   },
   {
     "id": "76686c3f-1811-4bea-a13c-5bd929a4e1fc",
@@ -1139,8 +1141,9 @@
       "国服",
       "国际服"
     ],
-    "description": "源自：b站ekwaak",
-    "createdAt": "2026-02-07T01:50:20.388Z"
+    "description": "源自：b站ekwaak\r\n2026-02-21测试，国际服链接可用",
+    "createdAt": "2026-02-07T01:50:20.388Z",
+    "updatedAt": "2026-02-21T09:51:18.776Z"
   },
   {
     "id": "5f9be8b1-54b9-40a6-8958-630f937f50e3",
@@ -1156,44 +1159,44 @@
       "国际服",
       "毒药塔"
     ],
-    "description": "源自：b站ekwaak",
-    "createdAt": "2026-02-07T01:49:59.189Z"
+    "description": "源自：b站ekwaak\r\n2026-02-21测试，国际服链接可用",
+    "createdAt": "2026-02-07T01:49:59.189Z",
+    "updatedAt": "2026-02-21T09:29:12.148Z"
   },
   {
     "id": "36c4fe12-3fc9-4f48-b671-40bc106be29f",
     "title": "2025-04-05",
     "image": "/images/layout_1770428976639.webp",
     "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH17%3AWB%3AAAAATAAAAAAdod7qTiiC9PGjkhbA1vzN&platform=tencent",
-    "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AHV%3AAAAAPwAAAAIe4ZYzj04Ocyeyyi-Z-93H",
+    "internationalLink": "",
     "tags": [
       "17本",
       "无精致台",
       "冲杯",
       "国服",
-      "国际服",
       "狂暴塔",
       "2026-02-08测试，国服链接可用"
     ],
     "description": "源自：b站ekwaak\r\n2026-02-08测试，国服链接可用",
     "createdAt": "2026-02-07T01:49:37.099Z",
-    "updatedAt": "2026-02-08T11:42:17.111Z"
+    "updatedAt": "2026-02-21T09:31:31.946Z"
   },
   {
     "id": "ad762210-bfe2-45c1-97ab-6694b5bbf733",
     "title": "2025-04-05",
     "image": "/images/layout_1770428954149.webp",
     "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH17%3AWB%3AAAAARgAAAAAbbuRrU9jaivKQpQLyeOta&platform=tencent",
-    "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AWB%3AAAAAVAAAAAHG215SO66d2RrJUz52nyzD",
+    "internationalLink": "",
     "tags": [
       "17本",
       "无精致台",
       "冲杯",
       "毒药塔",
-      "国服",
-      "国际服"
+      "国服"
     ],
     "description": "源自：b站ekwaak",
-    "createdAt": "2026-02-07T01:49:14.653Z"
+    "createdAt": "2026-02-07T01:49:14.653Z",
+    "updatedAt": "2026-02-21T09:33:45.779Z"
   },
   {
     "id": "5473f501-2417-46ef-96f2-98d2c3e14537",
@@ -1209,45 +1212,45 @@
       "国服",
       "国际服"
     ],
-    "description": "源自：b站ekwaak",
-    "createdAt": "2026-02-07T01:48:56.098Z"
+    "description": "源自：b站ekwaak\r\n2026-02-21测试，国际服链接可用",
+    "createdAt": "2026-02-07T01:48:56.098Z",
+    "updatedAt": "2026-02-21T09:32:12.327Z"
   },
   {
     "id": "abc35c37-f098-4c78-b040-1d1cbc5ae9f0",
     "title": "2025-04-05",
     "image": "/images/layout_1770428915319.webp",
     "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH17%3AWB%3AAAAAIQAAAAAbxWZOLtb83IVR1Um791jF&platform=tencent",
-    "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AHV%3AAAAAEwAAAAKMYgbUbiVSSlWRnYsO5U_z",
+    "internationalLink": "",
     "tags": [
       "17本",
       "无精致台",
       "冲杯",
       "国服",
-      "国际服",
       "狂暴塔",
       "毒药塔"
     ],
     "description": "源自：b站ekwaak",
-    "createdAt": "2026-02-07T01:48:35.815Z"
+    "createdAt": "2026-02-07T01:48:35.815Z",
+    "updatedAt": "2026-02-21T09:31:45.877Z"
   },
   {
     "id": "bd1970c1-5d0d-4290-be41-599cf529014f",
     "title": "2025-04-05",
     "image": "/images/layout_1770428891723.webp",
     "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH17%3AWB%3AAAAAIQAAAAAbvVIGLm0KXoTrXHE4e2eS&platform=tencent",
-    "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AWB%3AAAAAVAAAAAHG1jGKYh2Q3ceY-kWiaqIw",
+    "internationalLink": "",
     "tags": [
       "17本",
       "无精致台",
       "冲杯",
       "毒药塔",
-      "国际服",
       "国服",
       "隐身塔"
     ],
     "description": "源自：b站ekwaak\r\n2026-02-13测试，国服链接可用",
     "createdAt": "2026-02-07T01:48:12.194Z",
-    "updatedAt": "2026-02-13T01:19:13.576Z"
+    "updatedAt": "2026-02-21T09:29:28.155Z"
   },
   {
     "id": "7feb839a-5cef-4635-a55e-bb78f8d7ffe7",
@@ -1264,26 +1267,26 @@
       "国际服",
       "2026-02-08测试，国服链接可用"
     ],
-    "description": "源自：b站ekwaak\r\n2026-02-08测试，国服链接可用",
+    "description": "源自：b站ekwaak\r\n2026-02-08测试，国服链接可用\r\n2026-02-21测试，国际服链接可用",
     "createdAt": "2026-02-07T01:47:42.069Z",
-    "updatedAt": "2026-02-08T11:31:58.960Z"
+    "updatedAt": "2026-02-21T09:49:24.506Z"
   },
   {
     "id": "d9460f29-2180-4606-b50e-e353d268ed4e",
     "title": "2025-04-05",
     "image": "/images/layout_1770428767260.webp",
     "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH17%3AHV%3AAAAAPAAAAAAbNAvZIWZwweVIzsQbnOG5&platform=iOS",
-    "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AWB%3AAAAAEwAAAAKMPJfgsuq0FoWcr0Un7hfL",
+    "internationalLink": "",
     "tags": [
       "17本",
       "无精致台",
       "冲杯",
       "毒药塔",
-      "国服",
-      "国际服"
+      "国服"
     ],
     "description": "源自：b站ekwaak",
-    "createdAt": "2026-02-07T01:46:07.802Z"
+    "createdAt": "2026-02-07T01:46:07.802Z",
+    "updatedAt": "2026-02-21T09:31:04.072Z"
   },
   {
     "id": "0ed5b44c-37cc-4c3d-b743-f0dee560bc99",
@@ -1299,8 +1302,9 @@
       "国服",
       "国际服"
     ],
-    "description": "源自：b站ekwaak",
-    "createdAt": "2026-02-07T01:45:23.399Z"
+    "description": "源自：b站ekwaak\r\n2026-02-21测试，国际服链接可用",
+    "createdAt": "2026-02-07T01:45:23.399Z",
+    "updatedAt": "2026-02-21T09:47:55.536Z"
   },
   {
     "id": "732e3ba5-e8ba-408d-962d-21bd66511cb8",
@@ -1342,17 +1346,17 @@
     "title": "2025-04-05",
     "image": "/images/layout_1770428666036.webp",
     "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH17%3AHV%3AAAAAPAAAAAAcAk8wF0wEGd93VO19zwSV&platform=iOS",
-    "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AHV%3AAAAAPwAAAAIiGbQBQbg2wueuae2aCUdS",
+    "internationalLink": "",
     "tags": [
       "17本",
       "无精致台",
       "冲杯",
       "国服",
-      "国际服",
       "毒药塔"
     ],
     "description": "源自：b站ekwaak",
-    "createdAt": "2026-02-07T01:44:26.670Z"
+    "createdAt": "2026-02-07T01:44:26.670Z",
+    "updatedAt": "2026-02-21T09:31:59.294Z"
   },
   {
     "id": "11597513-bcf3-4f24-b6ee-749036191610",
@@ -1368,8 +1372,9 @@
       "国际服",
       "狂暴塔"
     ],
-    "description": "源自：b站ekwaak",
-    "createdAt": "2026-02-07T01:44:06.131Z"
+    "description": "源自：b站ekwaak\r\n2026-02-21测试，国际服链接可用",
+    "createdAt": "2026-02-07T01:44:06.131Z",
+    "updatedAt": "2026-02-21T09:30:50.273Z"
   },
   {
     "id": "b2572bea-4e0a-4c78-bd22-ee24685c06ec",
@@ -1385,8 +1390,9 @@
       "国服",
       "国际服"
     ],
-    "description": "源自：b站ekwaak",
-    "createdAt": "2026-02-07T01:43:48.624Z"
+    "description": "源自：b站ekwaak\r\n2026-02-21测试，国际服链接可用",
+    "createdAt": "2026-02-07T01:43:48.624Z",
+    "updatedAt": "2026-02-21T09:50:09.751Z"
   },
   {
     "id": "047f6928-51cb-4b04-bf24-86ed18a9ecf1",
@@ -1421,9 +1427,9 @@
       "狂暴塔",
       "2026-02-08测试，国服链接可用"
     ],
-    "description": "源自：b站ekwaak\r\n2026-02-08测试，国服链接可用",
+    "description": "源自：b站ekwaak\r\n2026-02-08测试，国服链接可用\r\n2026-02-21测试，国际服链接可用",
     "createdAt": "2026-02-07T01:43:08.101Z",
-    "updatedAt": "2026-02-08T11:14:38.658Z"
+    "updatedAt": "2026-02-21T09:30:19.981Z"
   },
   {
     "id": "1d3808ee-a166-4bde-8053-439e75320bf6",
@@ -1439,9 +1445,9 @@
       "无精致台",
       "冲杯"
     ],
-    "description": "源自：b站ekwaak\r\n2026-02-08测试，国服链接可用",
+    "description": "源自：b站ekwaak\r\n2026-02-08测试，国服链接可用\r\n2026-02-21测试，国际服链接可用",
     "createdAt": "2026-02-07T01:42:48.764Z",
-    "updatedAt": "2026-02-08T11:15:41.953Z"
+    "updatedAt": "2026-02-21T09:29:44.530Z"
   },
   {
     "id": "8a86b3e3-f73d-4b9c-abf6-80d3f23dbb59",
@@ -1881,8 +1887,9 @@
       "冲杯",
       "防火龙"
     ],
-    "description": "源自B站：精悍的小呆瓜。",
-    "createdAt": "2026-01-30T10:40:08.759Z"
+    "description": "源自B站：精悍的小呆瓜。\r\n2026-02-21测试，国际服链接可用",
+    "createdAt": "2026-01-30T10:40:08.759Z",
+    "updatedAt": "2026-02-21T09:33:27.518Z"
   },
   {
     "id": "40935d28-566e-4689-9905-809a9455bb04",
@@ -2182,8 +2189,9 @@
       "国际服",
       "娱乐"
     ],
-    "description": "源自：B站部落冲突XO",
-    "createdAt": "2026-01-30T08:24:09.105Z"
+    "description": "源自：B站部落冲突XO\r\n2026-02-21测试，国际服链接可用",
+    "createdAt": "2026-01-30T08:24:09.105Z",
+    "updatedAt": "2026-02-21T09:47:41.845Z"
   },
   {
     "id": "06abbe61-ca67-4815-af5b-168c199b88ee",
@@ -2245,8 +2253,9 @@
       "种树",
       "15本"
     ],
-    "description": "源自：b站部落冲突XO\r\n图片是16本，但是链接是15本的",
-    "createdAt": "2026-01-30T08:09:02.897Z"
+    "description": "源自：b站部落冲突XO\r\n图片是16本，但是链接是15本的\r\n2026-02-21测试，国际服链接可用\r\n2026-02-21测试，国际服链接可用",
+    "createdAt": "2026-01-30T08:09:02.897Z",
+    "updatedAt": "2026-02-21T09:55:27.745Z"
   },
   {
     "id": "190211dd-f3ca-4ba8-9fa2-66c9acbe9842",
@@ -2262,8 +2271,9 @@
       "狂暴塔",
       "15本"
     ],
-    "description": "源自：b站部落冲突XO\r\n图片是16本，但是链接是15本的",
-    "createdAt": "2026-01-30T08:08:38.250Z"
+    "description": "源自：b站部落冲突XO\r\n图片是16本，但是链接是15本的\r\n2026-02-21测试，国际服链接可用",
+    "createdAt": "2026-01-30T08:08:38.250Z",
+    "updatedAt": "2026-02-21T09:54:47.995Z"
   },
   {
     "id": "67eb8799-3023-4163-9d25-5daefe1bf73e",
@@ -2279,76 +2289,74 @@
       "种树",
       "狂暴塔"
     ],
-    "description": "源自：b站部落冲突XO\r\n2026-02-08测试，国服链接可用",
+    "description": "源自：b站部落冲突XO\r\n2026-02-08测试，国服链接可用\r\n2026-02-21测试，国际服链接可用",
     "createdAt": "2026-01-30T08:07:49.791Z",
-    "updatedAt": "2026-02-08T11:13:17.028Z"
+    "updatedAt": "2026-02-21T08:48:08.303Z"
   },
   {
     "id": "8a19f98b-9aca-491a-b6a5-89db61186520",
     "title": "2024-01-20",
     "image": "/images/layout_1769760426001.webp",
     "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH16%3AWB%3AAAAAMQAAAAAQY5_78wR_PwDFs3IeJRBk&platform=tencent",
-    "internationalLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH16%3AHV%3AAAAANQAAAAIWYyz5OMlHNIG3cUmFPs9a",
+    "internationalLink": "",
     "tags": [
       "16本",
       "国服",
-      "国际服",
       "娱乐",
       "种树",
       "2026-02-08测试，国服链接可用"
     ],
     "description": "源自：b站部落冲突XO\r\n2026-02-08测试，国服链接可用",
     "createdAt": "2026-01-30T08:07:06.416Z",
-    "updatedAt": "2026-02-08T11:14:06.836Z"
+    "updatedAt": "2026-02-21T09:24:46.861Z"
   },
   {
     "id": "396cd2c2-163c-4a7a-a40e-ea972825d7bf",
     "title": "2024-01-20",
     "image": "/images/layout_1769760399965.webp",
     "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH16%3AWB%3AAAAAMQAAAAAQXVNzP7jhGkoxsSQTeBnt&platform=tencent",
-    "internationalLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH16%3AHV%3AAAAANQAAAAIWehSZ-obTZy8UpTrnRSMQ",
+    "internationalLink": "",
     "tags": [
       "16本",
       "国服",
-      "国际服",
       "娱乐",
       "种树"
     ],
-    "description": "源自：b站部落冲突XO",
-    "createdAt": "2026-01-30T08:06:40.370Z"
+    "description": "源自：b站部落冲突XO\r\n2026-02-21测试，国服链接可用",
+    "createdAt": "2026-01-30T08:06:40.370Z",
+    "updatedAt": "2026-02-21T09:25:07.139Z"
   },
   {
     "id": "6c702367-3f16-4986-92fb-44fe33288436",
     "title": "2024-01-20 心心相印",
     "image": "/images/layout_1769760364355.webp",
     "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH16%3AWB%3AAAAAMQAAAAAQXTEU6v4ogZEu0XlafPHB&platform=tencent",
-    "internationalLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH16%3AHV%3AAAAANQAAAAIWYaj7EEc5t7Bi664JN8YJ",
+    "internationalLink": "",
     "tags": [
       "16本",
       "国服",
-      "国际服",
       "娱乐"
     ],
     "description": "源自：b站部落冲突XO",
-    "createdAt": "2026-01-30T08:06:04.851Z"
+    "createdAt": "2026-01-30T08:06:04.851Z",
+    "updatedAt": "2026-02-21T10:07:43.916Z"
   },
   {
     "id": "3fa2c587-91a2-43ee-aaa2-c5dd070b797c",
     "title": "2024-01-20",
     "image": "/images/layout_1769760325747.webp",
     "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH16%3AWB%3AAAAAMQAAAAAQXSijaysDTxVaQBEjXmvf&platform=tencent",
-    "internationalLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH16%3AHV%3AAAAANQAAAAIWYSxicZH6VgTCtlGhZLsy",
+    "internationalLink": "",
     "tags": [
       "16本",
       "国服",
-      "国际服",
       "娱乐",
       "种树",
       "2026-02-08测试，国服链接可用"
     ],
     "description": "源自：b站部落冲突XO\r\n2026-02-08测试，国服链接可用",
     "createdAt": "2026-01-30T08:05:26.271Z",
-    "updatedAt": "2026-02-08T11:25:35.252Z"
+    "updatedAt": "2026-02-21T09:27:24.815Z"
   },
   {
     "id": "33e607b1-28b7-4dfa-8e8c-bdfa8ae010bc",
@@ -2363,8 +2371,9 @@
       "娱乐",
       "种树"
     ],
-    "description": "源自：b站部落冲突XO",
-    "createdAt": "2026-01-30T08:04:57.862Z"
+    "description": "源自：b站部落冲突XO\r\n2026-02-21测试，国际服链接可用",
+    "createdAt": "2026-01-30T08:04:57.862Z",
+    "updatedAt": "2026-02-21T09:27:08.085Z"
   },
   {
     "id": "f8d3ca34-3595-4918-bddb-577668846f2a",
@@ -2512,11 +2521,10 @@
     "title": "17-06-02",
     "image": "/images/layout_1769757654964.webp",
     "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH17%3AWB%3AAAAABwAAAAAeKm9QUo1wvQVU06daGBmG&platform=tencent",
-    "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AWB%3AAAAACQAAAAK6UuQ0IObK3hTWd3Undyaj",
+    "internationalLink": "",
     "tags": [
       "17本",
       "国服",
-      "国际服",
       "毒药塔",
       "无精致台",
       "冲杯",
@@ -2524,7 +2532,8 @@
       "联赛"
     ],
     "description": "源自：b站coc星辉",
-    "createdAt": "2026-01-30T07:20:55.638Z"
+    "createdAt": "2026-01-30T07:20:55.638Z",
+    "updatedAt": "2026-02-21T09:47:12.091Z"
   },
   {
     "id": "41d34d68-de91-4971-98ba-3d89d18d7713",
@@ -2767,9 +2776,9 @@
       "毒药塔",
       "有精致台"
     ],
-    "description": "源自：b站coc星辉",
+    "description": "源自：b站coc星辉\r\n2026-02-21测试，国际服链接可用",
     "createdAt": "2026-01-30T04:39:33.309Z",
-    "updatedAt": "2026-01-30T06:39:34.730Z"
+    "updatedAt": "2026-02-21T09:53:09.575Z"
   },
   {
     "id": "f0fbf066-3911-459f-9235-c9906409a2b8",
@@ -2787,20 +2796,19 @@
       "毒药塔",
       "有精致台"
     ],
-    "description": "源自：b站coc星辉",
+    "description": "源自：b站coc星辉\r\n2026-02-21测试，国际服链接可用",
     "createdAt": "2026-01-30T04:39:19.094Z",
-    "updatedAt": "2026-01-30T06:39:52.117Z"
+    "updatedAt": "2026-02-21T09:50:25.116Z"
   },
   {
     "id": "8ac1e922-5fc6-46a6-9203-9debc4db88c6",
     "title": "17-11-10",
     "image": "/images/layout_1769747944021.webp",
     "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH17%3AWB%3AAAAAMgAAAAAg-I6YRT3c6QomALx8ReGE&platform=tencent",
-    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH17%3AHV%3AAAAADQAAAAK2ROWqP2o28ohegEj0DWtB",
+    "internationalLink": "",
     "tags": [
       "17本",
       "国服",
-      "国际服",
       "冲杯",
       "部落战",
       "联赛",
@@ -2810,7 +2818,7 @@
     ],
     "description": "源自：b站coc星辉",
     "createdAt": "2026-01-30T04:39:04.425Z",
-    "updatedAt": "2026-01-30T06:40:08.669Z"
+    "updatedAt": "2026-02-21T09:32:29.289Z"
   },
   {
     "id": "842c2832-3891-4547-ad20-ea1c6e61c6a4",
@@ -2828,9 +2836,9 @@
       "狂暴塔",
       "有精致台"
     ],
-    "description": "源自：b站coc星辉",
+    "description": "源自：b站coc星辉\r\n2026-02-21测试，国际服链接可用",
     "createdAt": "2026-01-30T04:38:44.262Z",
-    "updatedAt": "2026-01-30T06:40:21.497Z"
+    "updatedAt": "2026-02-21T10:09:58.683Z"
   },
   {
     "id": "fd84cf9e-f954-4ee6-a832-049984a3cb54",
@@ -2848,9 +2856,9 @@
       "毒药塔",
       "有精致台"
     ],
-    "description": "源自：b站coc星辉",
+    "description": "源自：b站coc星辉\r\n2026-02-21测试，国际服链接可用",
     "createdAt": "2026-01-30T04:38:27.328Z",
-    "updatedAt": "2026-01-30T06:40:42.146Z"
+    "updatedAt": "2026-02-21T09:47:26.990Z"
   },
   {
     "id": "e2d67519-c899-453b-80c8-44418c30b9dc",
@@ -2974,9 +2982,9 @@
       "狂暴塔",
       "有精致台"
     ],
-    "description": "源自：b站部落冲突XO",
+    "description": "源自：b站部落冲突XO\r\n2026-02-21测试，国际服链接可用",
     "createdAt": "2026-01-30T04:25:40.026Z",
-    "updatedAt": "2026-01-30T06:41:07.131Z"
+    "updatedAt": "2026-02-21T09:30:32.824Z"
   },
   {
     "id": "c7a3591e-4940-4237-9b19-aa5099177ca1",
@@ -2993,9 +3001,9 @@
       "毒药塔",
       "2026-02-08测试，国服链接可用"
     ],
-    "description": "源自：b站部落冲突XO\r\n2026-02-08测试，国服链接可用",
+    "description": "源自：b站部落冲突XO\r\n2026-02-08测试，国服链接可用\r\n2026-02-21测试，国际服链接可用",
     "createdAt": "2026-01-30T04:25:24.861Z",
-    "updatedAt": "2026-02-08T11:24:29.639Z"
+    "updatedAt": "2026-02-21T09:26:44.857Z"
   },
   {
     "id": "30e7a492-6376-4978-b0ee-33f7a85856a0",
@@ -3011,9 +3019,9 @@
       "15本",
       "狂暴塔"
     ],
-    "description": "源自：b站部落冲突XO",
+    "description": "源自：b站部落冲突XO\r\n2026-02-21测试，国际服链接可用",
     "createdAt": "2026-01-30T04:25:09.643Z",
-    "updatedAt": "2026-01-30T07:02:02.729Z"
+    "updatedAt": "2026-02-21T09:56:40.078Z"
   },
   {
     "id": "cab21058-5510-4f55-aa76-06a7930588e1",
@@ -3113,9 +3121,9 @@
       "毒药塔",
       "2026-02-08测试，国服链接可用"
     ],
-    "description": "源自：b站部落冲突XO\r\n2026-02-08测试，国服链接可用",
+    "description": "源自：b站部落冲突XO\r\n2026-02-08测试，国服链接可用\r\n2026-02-21测试，国际服链接可用",
     "createdAt": "2026-01-30T04:15:49.211Z",
-    "updatedAt": "2026-02-08T11:24:57.841Z"
+    "updatedAt": "2026-02-21T09:26:30.209Z"
   },
   {
     "id": "a188c589-2803-4ac4-b1bc-190753b9d3dc",
@@ -3132,9 +3140,9 @@
       "狂暴塔",
       "毒药塔"
     ],
-    "description": "源自：b站部落冲突XO",
+    "description": "源自：b站部落冲突XO\r\n2026-02-21测试，国际服链接可用",
     "createdAt": "2026-01-30T04:15:34.516Z",
-    "updatedAt": "2026-01-30T07:02:11.221Z"
+    "updatedAt": "2026-02-21T09:54:17.741Z"
   },
   {
     "id": "26ebed89-3553-4de5-a0bc-cff61123e8d2",
@@ -3220,9 +3228,9 @@
       "无精致台",
       "2026-02-08测试，国服链接可用"
     ],
-    "description": "源自：b站部落冲突XO\r\n2026-02-08测试，国服链接可用",
+    "description": "源自：b站部落冲突XO\r\n2026-02-08测试，国服链接可用\r\n2026-02-21测试，国际服链接可用",
     "createdAt": "2026-01-30T03:12:23.969Z",
-    "updatedAt": "2026-02-08T11:42:39.967Z"
+    "updatedAt": "2026-02-21T09:46:53.319Z"
   },
   {
     "id": "01437ef8-9e51-4455-af00-33a46a433650",
@@ -3240,9 +3248,9 @@
       "狂暴塔",
       "2026-02-08测试，国服链接可用"
     ],
-    "description": "源自：b站部落冲突XO\r\n2026-02-08测试，国服链接可用",
+    "description": "源自：b站部落冲突XO\r\n2026-02-08测试，国服链接可用\r\n2026-02-21测试，国际服链接可用",
     "createdAt": "2026-01-30T03:12:05.102Z",
-    "updatedAt": "2026-02-08T11:27:28.299Z"
+    "updatedAt": "2026-02-21T09:26:13.256Z"
   },
   {
     "id": "92434a58-fd50-415e-b7a4-c76ed7f11971",
@@ -3260,9 +3268,9 @@
       "毒药塔",
       "2026-02-08测试，国服链接可用"
     ],
-    "description": "源自：b站部落冲突XO\r\n2026-02-08测试，国服链接可用",
+    "description": "源自：b站部落冲突XO\r\n2026-02-08测试，国服链接可用\r\n2026-02-21测试，国际服链接可用",
     "createdAt": "2026-01-30T03:11:47.713Z",
-    "updatedAt": "2026-02-08T11:36:37.421Z"
+    "updatedAt": "2026-02-21T09:55:14.361Z"
   },
   {
     "id": "d1bbb4c6-c50f-40d8-92a6-2332fbd4a708",
@@ -3365,9 +3373,9 @@
       "狂暴塔",
       "无精致台"
     ],
-    "description": "源自：b站部落冲突XO",
+    "description": "源自：b站部落冲突XO\r\n2026-02-21测试，国际服链接可用",
     "createdAt": "2026-01-30T02:57:47.921Z",
-    "updatedAt": "2026-01-30T06:49:51.256Z"
+    "updatedAt": "2026-02-21T09:53:22.247Z"
   },
   {
     "id": "061c0994-055e-44de-af72-8b5e0d8786ae",
@@ -3406,9 +3414,9 @@
       "毒药塔",
       "隐身塔"
     ],
-    "description": "源自：b站部落冲突XO",
+    "description": "源自：b站部落冲突XO\r\n2026-02-21测试，国际服链接可用",
     "createdAt": "2026-01-30T02:57:03.860Z",
-    "updatedAt": "2026-01-30T07:02:28.733Z"
+    "updatedAt": "2026-02-21T09:57:48.354Z"
   },
   {
     "id": "29de316d-d1fa-4340-ba88-ac37ddc4018c",
@@ -3482,69 +3490,65 @@
     "id": "ba656cb1-ad1d-414d-a8ac-f954d2d5c3b4",
     "title": "15-11.22",
     "image": "/images/layout_1769741311663.webp",
-    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH15%3AHV%3AAAAAHwAAAAJF1BWzUO_Im1ac284S4i9F",
-    "internationalLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH15%3AHV%3AAAAAXQAAAAAO9OoEeJlrYNGgq745Jcl0&platform=iOS",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH15%3AHV%3AAAAAXQAAAAAO9OoEeJlrYNGgq745Jcl0&platform=iOS",
+    "internationalLink": "",
     "tags": [
-      "国服",
-      "国际服",
       "冲杯",
       "15本",
-      "狂暴塔"
+      "狂暴塔",
+      "国服"
     ],
     "description": "源自：b站coc星辉",
     "createdAt": "2026-01-30T02:48:32.118Z",
-    "updatedAt": "2026-01-30T07:02:35.533Z"
+    "updatedAt": "2026-02-21T09:57:33.988Z"
   },
   {
     "id": "aba29e7b-ed9d-431f-9b38-1c3a3f4236b9",
     "title": "15-11.22",
     "image": "/images/layout_1769741299666.webp",
     "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH15%3AHV%3AAAAAXQAAAAAO9RD1xv99TlKYG1mAM_sB&platform=iOS",
-    "internationalLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH15%3AHV%3AAAAAHwAAAAJF1Py8tSG6zjMPgz2ulYrv",
+    "internationalLink": "",
     "tags": [
       "国服",
-      "国际服",
       "冲杯",
       "15本",
       "狂暴塔"
     ],
     "description": "源自：b站coc星辉",
     "createdAt": "2026-01-30T02:48:20.083Z",
-    "updatedAt": "2026-01-30T07:02:51.301Z"
+    "updatedAt": "2026-02-21T09:54:32.619Z"
   },
   {
     "id": "9e3577f6-8c07-4ea6-baca-4453daf18a21",
     "title": "15-11.22",
     "image": "/images/layout_1769741279384.webp",
     "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH15%3AHV%3AAAAAXQAAAAAO9Q5E_P4KxKvgJSxu20Yg&platform=iOS",
-    "internationalLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH15%3AHV%3AAAAAHwAAAAJF1A9LEtxO0iKgmyXa39Kp",
+    "internationalLink": "",
     "tags": [
       "国服",
-      "国际服",
       "冲杯",
       "15本",
       "狂暴塔"
     ],
     "description": "源自：b站coc星辉",
     "createdAt": "2026-01-30T02:47:59.886Z",
-    "updatedAt": "2026-01-30T07:03:00.655Z"
+    "updatedAt": "2026-02-21T09:55:43.256Z"
   },
   {
     "id": "b266527a-3170-488d-b41f-7e51163674d3",
     "title": "15-11.22",
     "image": "/images/layout_1769741264047.webp",
     "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH15%3AHV%3AAAAAXQAAAAAO9Ka7COpNb4vQD1Fj0GeY&platform=iOS",
-    "internationalLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH15%3AHV%3AAAAAHwAAAAJFztbCe6rduFevnMTZewRr",
+    "internationalLink": "",
     "tags": [
       "国服",
-      "国际服",
       "冲杯",
       "15本",
       "狂暴塔"
     ],
     "description": "源自：b站coc星辉",
     "createdAt": "2026-01-30T02:47:44.442Z",
-    "updatedAt": "2026-01-30T07:03:07.113Z"
+    "updatedAt": "2026-02-21T09:56:03.349Z"
   },
   {
     "id": "dbf9e90d-3146-4c50-b455-1ea2f4988eb6",
@@ -3569,18 +3573,17 @@
     "title": "17-11.13",
     "image": "/images/layout_1769738661346.webp",
     "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH17%3AWB%3AAAAAIwAAAAAh9XfE7ATzlSwRled635a3&platform=tencent",
-    "internationalLink": "https://link.clashofclans.com/jp/?action=OpenLayout&id=TH17%3AWB%3AAAAAPAAAAAJALF3WKyeW4a_7idKDiuyA",
+    "internationalLink": "",
     "tags": [
       "17本",
       "国服",
-      "国际服",
       "冲杯",
       "毒药塔",
       "有精致台"
     ],
     "description": "源自：b站coc星辉\r\n2026-02-08测试，国服链接可用",
     "createdAt": "2026-01-30T02:04:21.809Z",
-    "updatedAt": "2026-02-08T11:15:23.979Z"
+    "updatedAt": "2026-02-21T09:33:08.369Z"
   },
   {
     "id": "119b532d-ae2a-46cb-a7de-c3611246b7b6",
