@@ -23084,10 +23084,9 @@
     "title": "18-2-20",
     "image": "/images/layout_1771809450298.webp",
     "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAIwAAAAAkicHkJEEffnag4UyVpjyM&platform=tencent",
-    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAOAAAAA",
+    "internationalLink": "",
     "tags": [
       "国服",
-      "国际服",
       "18本",
       "狂暴塔",
       "有精致台",
@@ -25176,7 +25175,8 @@
         0
       ],
       "size": 64
-    }
+    },
+    "updatedAt": "2026-02-23T10:30:13.659Z"
   },
   {
     "id": "2be306d5-123e-4a08-b553-45373836c170",
