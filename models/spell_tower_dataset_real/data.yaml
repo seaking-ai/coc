@@ -1,0 +1,12 @@
+# 法术塔检测数据集配置
+path: D:\Projects\react\coc\models\spell_tower_dataset_real
+train: images/train
+val: images/val
+test:  # 可选
+
+# 类别
+nc: 3  # 类别数量
+names:
+  0: 毒药塔
+  1: 狂暴塔
+  2: 隐身塔

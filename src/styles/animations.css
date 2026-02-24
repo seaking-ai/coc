@@ -1,0 +1,190 @@
+/* 阵型卡片淡入动画 */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* 阵型卡片淡出动画 */
+@keyframes fadeOutDown {
+  from {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  to {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+}
+
+/* 侧边栏滑入动画 */
+@keyframes slideInRight {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+/* 侧边栏滑出动画 */
+@keyframes slideOutRight {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(100%);
+  }
+}
+
+/* 遮罩层淡入动画 */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* 遮罩层淡出动画 */
+@keyframes fadeOut {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+/* 阵型卡片动画类 */
+.layout-card-enter {
+  animation: fadeInUp 0.3s ease-out forwards;
+}
+
+.layout-card-exit {
+  animation: fadeOutDown 0.3s ease-in forwards;
+}
+
+/* 侧边栏动画类 */
+.drawer-enter {
+  animation: slideInRight 0.3s ease-out forwards;
+}
+
+.drawer-exit {
+  animation: slideOutRight 0.3s ease-in forwards;
+}
+
+/* 遮罩层动画类 */
+.overlay-enter {
+  animation: fadeIn 0.3s ease-out forwards;
+}
+
+.overlay-exit {
+  animation: fadeOut 0.3s ease-in forwards;
+}
+
+/* 阵型卡片悬停效果 */
+.layout-card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.layout-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+}
+
+/* 按钮悬停效果 */
+.button-hover {
+  transition: all 0.2s ease;
+}
+
+/* 标签按钮动画 */
+.tag-button {
+  transition: all 0.2s ease;
+}
+
+.tag-button:hover {
+  transform: scale(1.05);
+}
+
+/* 服务器切换按钮动画 */
+.server-button {
+  transition: all 0.3s ease;
+}
+
+.server-button:active {
+  transform: scale(0.95);
+}
+
+/* 随机展示切换动画 */
+.random-grid {
+  transition: opacity 0.3s ease;
+}
+
+.random-grid.fade-out {
+  opacity: 0;
+}
+
+.random-grid.fade-in {
+  opacity: 1;
+}
+
+/* Toast 动画 */
+@keyframes toastEnter {
+  from {
+    opacity: 0;
+    transform: translateX(-50%) translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+}
+
+.animate-toast-enter {
+  animation: toastEnter 0.3s ease-out forwards;
+}
+
+/* 移动端性能优化 */
+@media (max-width: 768px) {
+  /* 减少动画复杂度 */
+  .drawer-enter {
+    animation: slideInRight 0.2s ease-out forwards;
+  }
+
+  .drawer-exit {
+    animation: slideOutRight 0.2s ease-in forwards;
+  }
+
+  .overlay-enter {
+    animation: fadeIn 0.2s ease-out forwards;
+  }
+
+  .overlay-exit {
+    animation: fadeOut 0.2s ease-in forwards;
+  }
+
+  /* 禁用复杂的悬停效果 */
+  .layout-card:hover {
+    transform: none;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  }
+
+  /* 优化滚动性能 */
+  .overflow-y-auto {
+    -webkit-overflow-scrolling: touch;
+    overscroll-behavior: contain;
+  }
+
+  /* 减少阴影复杂度 */
+  .shadow-xl,
+  .shadow-2xl {
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  }
+}

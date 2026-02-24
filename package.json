@@ -1,0 +1,41 @@
+{
+  "name": "coc-layouts",
+  "private": true,
+  "version": "1.0.0",
+  "homepage": "https://seaking-ai.github.io/coc/",
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently \"vite\" \"node server.js\" \"npm run dev:python\"",
+    "dev:python": "powershell -Command \"Start-Process -NoNewWindow -FilePath 'E:\\anaconda\\envs\\pytorch\\python.exe' -ArgumentList 'scripts/spell_tower_server.py'\"",
+    "build": "vite build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages  -d dist",
+    "preview": "vite preview",
+    "server": "node server.js"
+  },
+  "dependencies": {
+    "@techstark/opencv-js": "^4.12.0-release.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "form-data": "^4.0.5",
+    "multer": "^1.4.5-lts.1",
+    "node-fetch": "^2.7.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.20.0",
+    "sharp": "^0.33.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.43",
+    "@types/react-dom": "^18.2.17",
+    "@vitejs/plugin-react": "^4.2.1",
+    "autoprefixer": "^10.4.16",
+    "concurrently": "^8.2.2",
+    "cross-env": "^10.1.0",
+    "gh-pages": "^6.3.0",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.3.6",
+    "vite": "^5.0.8"
+  }
+}
