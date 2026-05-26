@@ -8133,9 +8133,9 @@
       "狂暴塔",
       "国际服"
     ],
-    "description": "2026-03-30测试，国际服链接可用",
+    "description": "2026-05-26测试，国际服链接可用",
     "createdAt": "2026-02-24T11:26:00.277Z",
-    "updatedAt": "2026-03-30T09:34:17.982Z"
+    "updatedAt": "2026-05-26T09:55:31.584Z"
   },
   {
     "id": "124ddf74-d9a3-4e21-accc-642243e7a15f",
@@ -8150,9 +8150,9 @@
       "毒药塔",
       "国际服"
     ],
-    "description": "2026-03-30测试，国际服链接可用",
+    "description": "2026-05-26测试，国际服链接可用",
     "createdAt": "2026-02-24T11:25:26.514Z",
-    "updatedAt": "2026-03-30T09:42:16.013Z"
+    "updatedAt": "2026-05-26T09:55:42.596Z"
   },
   {
     "id": "5393aa22-7267-4544-b106-e912e179b3b7",
@@ -8167,9 +8167,9 @@
       "毒药塔",
       "国际服"
     ],
-    "description": "2026-03-30测试，国际服链接可用",
+    "description": "2026-05-26测试，国际服链接可用",
     "createdAt": "2026-02-24T11:25:16.817Z",
-    "updatedAt": "2026-03-30T09:40:20.559Z"
+    "updatedAt": "2026-05-26T09:55:57.271Z"
   },
   {
     "id": "c75eb31b-f385-42fe-a495-975057a6dfd6",
@@ -8185,9 +8185,9 @@
       "狂暴塔",
       "国际服"
     ],
-    "description": "2026-03-30测试，国际服链接可用",
+    "description": "2026-05-26测试，国际服链接可用",
     "createdAt": "2026-02-24T11:25:07.667Z",
-    "updatedAt": "2026-03-30T09:42:28.283Z"
+    "updatedAt": "2026-05-26T09:56:07.725Z"
   },
   {
     "id": "f4a04b7b-3d5a-4dea-82e5-2190f64cb5c4",
@@ -8202,9 +8202,9 @@
       "无精致台",
       "冲杯"
     ],
-    "description": "2026-03-30测试，国际服链接可用",
+    "description": "2026-05-26测试，国际服链接可用",
     "createdAt": "2026-02-24T11:24:56.712Z",
-    "updatedAt": "2026-03-30T09:41:02.384Z"
+    "updatedAt": "2026-05-26T09:56:20.208Z"
   },
   {
     "id": "751dedc2-5f88-41f0-936a-e3cc7e3e1038",
@@ -40992,9 +40992,9 @@
       "国际服",
       "17本"
     ],
-    "description": "源自：b站部落冲突XO\r\n2026-04-01测试，国服链接可用\r\n2026-03-30测试，国际服链接可用",
+    "description": "源自：b站部落冲突XO\r\n2026-04-01测试，国服链接可用\r\n2026-05-26测试，国际服链接可用",
     "createdAt": "2026-02-13T01:38:36.942Z",
-    "updatedAt": "2026-04-01T15:20:13.371Z",
+    "updatedAt": "2026-05-26T09:53:43.654Z",
     "hash": {
       "global": "95000c20b38cbbde4eff73256787398d1a72c2780ff39a79e80f65aeeb1f012c146dbfd1386cafc0d5ab581ec7c9686184b35dda12b9e2566b33e8bf965ec7cc95ca80cf624c5fb8174fd5abc9e0765ce93be1991ec65c606a46785d97d1c3bb9398d1cff8e57f1c6b933e4c71f13aeeb52cce5bf131ff134ecd07ca7a6b1379",
       "regions": [
@@ -42437,9 +42437,9 @@
       "毒药塔",
       "16本"
     ],
-    "description": "源自：b站部落冲突XO\r\n2026-03-30测试，国际服链接可用\r\n2026-02-21测试，国服链接可用",
+    "description": "源自：b站部落冲突XO\r\n2026-05-26测试，国际服链接可用\r\n2026-02-21测试，国服链接可用",
     "createdAt": "2026-02-13T01:38:19.759Z",
-    "updatedAt": "2026-03-30T09:40:50.704Z",
+    "updatedAt": "2026-05-26T09:56:31.872Z",
     "hash": {
       "global": "80000100e34c9d8c1572347ea76934a37a3a86497e8d073d2dbdfa9d5e823a4b39964163f2ed676e80dc89ee9e7f1b40f0073b8d14a2cb5ba570909591d729b196cf4bc05a16ab0e50d6a3169ccad4da896bdf3a6f89fc4f10f7df6c33371bd6197f1b23dbe5b349726b932b3b1bc2b1695edb37033ecd4df1f79cf39972ddbd",
       "regions": [
@@ -77141,19 +77141,18 @@
     "title": "18-2-9",
     "image": "/images/layout_1770704211617.webp",
     "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAARwAAAAAkMrBmfKCn3VmAAo2-SUS6&platform=tencent",
-    "internationalLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALK_rpeas4KVB-s3OQOodJD",
+    "internationalLink": "",
     "tags": [
       "国服",
-      "国际服",
       "18本",
       "狂暴塔",
       "有精致台",
       "冲杯",
       "第一期"
     ],
-    "description": "源自：b站coc星辉\r\n2026-02-10测试，国际服链接可用",
+    "description": "源自：b站coc星辉",
     "createdAt": "2026-02-10T06:16:52.373Z",
-    "updatedAt": "2026-04-03T17:07:44.084150Z",
+    "updatedAt": "2026-05-26T09:50:53.757Z",
     "hash": {
       "global": "55100898e802c52951deae39ff437c5c589fa49bd7457ecb5a9ab1c767c7b0e05ee641d868ff7ce24fcc4439adf37d064325676eb4519952925195bb206ea97f165b3b61e428f8dfd2ec72faa73e8359312ecb41d4b7da6ffa431debcdb45afcd93e0e54cf2d02f69d6518e63e0ea5e066980b6392ccd099630449b1f86037c6",
       "regions": [
@@ -81483,19 +81482,18 @@
     "title": "18-2-8",
     "image": "/images/layout_1770529309280.webp",
     "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAQQAAAAAj_7PcX_q11mI2qlSEvjJw&platform=tencent",
-    "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AHV%3AAAAAGAAAAAKl2sNY5gvXAZJvX-hsgLCR",
+    "internationalLink": "",
     "tags": [
       "18本",
       "有精致台",
       "冲杯",
       "国服",
-      "国际服",
       "毒药塔",
       "第一期"
     ],
-    "description": "源自：b站coc星辉\r\n2026-02-10测试，国际服链接可用",
+    "description": "源自：b站coc星辉",
     "createdAt": "2026-02-08T05:41:49.763Z",
-    "updatedAt": "2026-04-03T17:07:44.084150Z",
+    "updatedAt": "2026-05-26T09:51:11.767Z",
     "hash": {
       "global": "54521c73ea02fc2c545aa392f669acc55a9f961cf754fa6852da970b656f999d5ee1649eae9cfc8b5b85c9e999f3d9490eb421babf52784e0bc675ef103b319721d91b682a9f845150a6ed7ec789ad2fb47d9d73617b17e07679ede336f5227a621e192cf89dc3cfc5a989603da640709e90c9c8c6d8c712a1b2f927731c4691",
       "regions": [
@@ -88730,9 +88728,9 @@
       "冲杯",
       "第一期"
     ],
-    "description": "源自：b站coc星辉\r\n2026-02-12测试，国际服链接可用",
+    "description": "源自：b站coc星辉\r\n2026-05-26测试，国际服链接可用",
     "createdAt": "2026-02-08T05:40:01.077Z",
-    "updatedAt": "2026-04-03T17:07:44.084150Z",
+    "updatedAt": "2026-05-26T09:51:28.200Z",
     "hash": {
       "global": "d5448b36c88a96ad5413f8ef5fefd27f56ef9a475e6c73be42eeb73e5fe94f4b0bed705e0ded53f335a91f47211931ed9428ba57818c1b9774a2626ce5cb5ec0dc6863a4f5119ba64f5c64833cddda24e68306a494e4a2340fe358141b12bc81d3c19c2b307ef61f00b46f3fcd4e1df7a5abd1b864b9cec2ca7eb9d8b6de02d2",
       "regions": [
@@ -97414,9 +97412,9 @@
       "毒药塔",
       "2026-02-08测试，国服链接可用"
     ],
-    "description": "源自：b站ekwaak\r\n2026-04-01测试，国服链接可用\r\n2026-03-30测试，国际服链接可用",
+    "description": "源自：b站ekwaak\r\n2026-04-01测试，国服链接可用\r\n2026-05-26测试，国际服链接可用",
     "createdAt": "2026-02-07T01:55:04.613Z",
-    "updatedAt": "2026-04-01T15:20:24.735Z",
+    "updatedAt": "2026-05-26T09:53:59.351Z",
     "hash": {
       "global": "f1543b0453346b49d14fc1f14436a7b1b2f7a9cf9c93ca76a889ec7113464a63b218c61bd996a5d28778db20ff785a33ca1b89abd92d29d250e9e391f90941e7316ad6036c6f06b872a25c98baceeb1db5326b40df15aaa4703464c5f4ab52759c462b1b785d89846c1272b1e6785cc699078d395ca992d2c53dcfe3e9994907",
       "regions": [
@@ -101751,9 +101749,9 @@
       "狂暴塔",
       "2026-02-08测试，国服链接可用"
     ],
-    "description": "源自：b站ekwaak\r\n2026-04-01测试，国服链接可用\r\n2026-03-30测试，国际服链接可用",
+    "description": "源自：b站ekwaak\r\n2026-04-01测试，国服链接可用\r\n2026-05-26测试，国际服链接可用",
     "createdAt": "2026-02-07T01:54:10.231Z",
-    "updatedAt": "2026-04-01T15:20:47.545Z",
+    "updatedAt": "2026-05-26T09:54:11.885Z",
     "hash": {
       "global": "e41451b2d34765a691d59cb948f7588ef2bc9c2881a973daadb387201c37246ee09a4beff9951b31a315b3877250772834663eb99b86f6c0cc93cb559cd68f9754dea42268a5ae413d66d9b9f669113639a7b3dbbc1a5c8ed316157b6cd78519248adda7646a44b3e97d6cdb4b8989363b1be4d775699cab5cfe950dd525eae8",
       "regions": [
@@ -106088,9 +106086,9 @@
       "国际服",
       "隐身塔"
     ],
-    "description": "源自：b站ekwaak\r\n2026-04-01测试，国服链接可用\r\n2026-03-30测试，国际服链接可用",
+    "description": "源自：b站ekwaak\r\n2026-04-01测试，国服链接可用\r\n2026-05-26测试，国际服链接可用",
     "createdAt": "2026-02-07T01:53:10.982Z",
-    "updatedAt": "2026-04-01T15:21:09.666Z",
+    "updatedAt": "2026-05-26T09:54:35.402Z",
     "hash": {
       "global": "55717d34552238c6d4c2cf52c248bdcffa37e107931223daaa28fc965c097929bbf42f364773c9e27323500dfd282320dcc2fb41d2ed3c18582c61e65f40f6619aab4f98c9cf48b383906bc82fb4c67cd32d31e32d53eb9213dc9b66f4b72a67004cfdd4831badeb6dde42360be133e22dbccd78c62d2da814f44ea7033f3878",
       "regions": [
@@ -107535,9 +107533,9 @@
       "狂暴塔",
       "2026-02-08测试，国服链接可用"
     ],
-    "description": "源自：b站ekwaak\r\n2026-04-01测试，国服链接可用\r\n2026-03-30测试，国际服链接可用",
+    "description": "源自：b站ekwaak\r\n2026-04-01测试，国服链接可用\r\n2026-05-26测试，国际服链接可用",
     "createdAt": "2026-02-07T01:52:46.703Z",
-    "updatedAt": "2026-04-01T15:21:21.538Z",
+    "updatedAt": "2026-05-26T09:54:23.763Z",
     "hash": {
       "global": "71453ca551e468cad459a2c7c91606a5fb1e02cb34b129bcb8e988740cc3d84dab85a903b71d0ed2bb92dc8df74e1b6c4f521652b6961b2dc5a56462dfc124f258ae1b4b72ec37acf1aa41e330c2c84b1f320b50bd6873b5da18db89da3116ec696983269e44e2dbbc6788c9d674cfa4e2424e3a3fa873709e6497ece0b13ae7",
       "regions": [
@@ -108982,9 +108980,9 @@
       "毒药塔",
       "2026-02-08测试，国服链接可用"
     ],
-    "description": "源自：b站ekwaak\r\n2026-04-01测试，国服链接可用\r\n2026-04-01测试，国际服链接可用",
+    "description": "源自：b站ekwaak\r\n2026-04-01测试，国服链接可用\r\n2026-05-26测试，国际服链接可用",
     "createdAt": "2026-02-07T01:52:25.765Z",
-    "updatedAt": "2026-04-01T15:21:34.644Z",
+    "updatedAt": "2026-05-26T09:54:47.454Z",
     "hash": {
       "global": "d0592167568bb641d74d9ee17ada631bbab6015920f96632aac906926c366665691e72557d89473954cbe8ede329b83046acb8f59a1c70ce33a74f1d67ce56ad1dd0eb32a6d5da364d6c20e909ad01dbcf5cb2c60c40dc991bb606c143f75b248fa327a421c5dbb9fcf38f91071cf7a2478096b2386c7fd9ca722b6c25439b87",
       "regions": [
@@ -116209,9 +116207,9 @@
       "国服",
       "国际服"
     ],
-    "description": "源自：b站ekwaak\r\n2026-03-30测试，国际服链接可用",
+    "description": "源自：b站ekwaak\r\n2026-05-26测试，国际服链接可用",
     "createdAt": "2026-02-07T01:50:55.168Z",
-    "updatedAt": "2026-03-30T09:29:56.970Z",
+    "updatedAt": "2026-05-26T09:55:01.455Z",
     "hash": {
       "global": "d140393e563b9f1fd64e636c53a0e732fa76b57784cec7dcb9e5c9af6b634d029db6ca316dc94724511a27077b6cbbb819697ad8e3a5b6a346b2c764923b96614c95ecb928b34c94fc0bae623908f61b9f11eb5bf1a2646cf11b0f163845f8147a1ee71dc7359363ef9b88ed8ccdd606d6b5dcb24e5f7ab163fd130705ff06a5",
       "regions": [
@@ -117655,9 +117653,9 @@
       "国服",
       "国际服"
     ],
-    "description": "源自：b站ekwaak\r\n2026-03-30测试，国际服链接可用\r\n2026-04-01测试，国服链接可用",
+    "description": "源自：b站ekwaak\r\n2026-05-26测试，国际服链接可用\r\n2026-04-01测试，国服链接可用",
     "createdAt": "2026-02-07T01:50:37.866Z",
-    "updatedAt": "2026-04-01T15:22:17.990Z",
+    "updatedAt": "2026-05-26T09:55:13.310Z",
     "hash": {
       "global": "8153222a56ea658a54ca8d27c2eabc81a27d53648a876579aa0d607d19439f08b994f093dd69619f56cb06c67aa932e65c8c9c7cc295f99b73bd3a592f3fc2e4c9699f17a474df275f4cacda6ba7905bd57ea32c61a27219f6d32dd9ca3e53373def38f54f874cb93e69efddc175322fd2e3829ea5b516f41a3e20360b4ad3e3",
       "regions": [
@@ -218883,9 +218881,9 @@
       "娱乐",
       "种树"
     ],
-    "description": "源自：b站部落冲突XO\r\n2026-03-30测试，国际服链接可用\r\n2026-02-23测试，国服链接可用",
+    "description": "源自：b站部落冲突XO\r\n2026-05-26测试，国际服链接可用\r\n2026-02-23测试，国服链接可用",
     "createdAt": "2026-01-30T08:04:57.862Z",
-    "updatedAt": "2026-03-30T09:42:53.783Z",
+    "updatedAt": "2026-05-26T09:57:07.928Z",
     "hash": {
       "global": "8143f6b6ea9b07ca80bd094da84dbd80157b9b0fa13f6df405a626c1a1ff717a1691d92ae1d468000693ba5c845a2e5afd8f359227199cf90253f068bc92b5097cb0d15b0bf6757ad12e477384eb78fa6659b682b4b8f4afd3b6cba90eda4ea40b48f7373afb1eadf3b58b79cd7e3a756362cfb4432d8c76ddadbe9a80c455ed",
       "regions": [
@@ -256514,9 +256512,9 @@
       "毒药塔",
       "2026-02-08测试，国服链接可用"
     ],
-    "description": "源自：b站部落冲突XO\r\n2026-02-08测试，国服链接可用\r\n2026-03-30测试，国际服链接可用",
+    "description": "源自：b站部落冲突XO\r\n2026-02-08测试，国服链接可用\r\n2026-05-26测试，国际服链接可用",
     "createdAt": "2026-01-30T04:25:24.861Z",
-    "updatedAt": "2026-03-30T09:39:53.701Z",
+    "updatedAt": "2026-05-26T09:57:59.720Z",
     "hash": {
       "global": "d10044004e966c8e5bffbf5ba72287cb2f8dd198c58fc2f66c9b1777c6c2d49f1c273ef68b9d387b422bdb5a8f6df9f6d9e51d2ec6e277e43a49cf252547872bb06dab5e58ec18ccff261316fb10134f4bcc9ecd2795c5b0b534ac37f56827b1c74e3c9c39dcebe45e3c6cc24ee30fb42db4be783a5ba3159b1bd0e457d23e38",
       "regions": [
@@ -266630,9 +266628,9 @@
       "毒药塔",
       "2026-02-08测试，国服链接可用"
     ],
-    "description": "源自：b站部落冲突XO\r\n2026-02-08测试，国服链接可用\r\n2026-03-30测试，国际服链接可用",
+    "description": "源自：b站部落冲突XO\r\n2026-02-08测试，国服链接可用\r\n2026-05-26测试，国际服链接可用",
     "createdAt": "2026-01-30T04:15:49.211Z",
-    "updatedAt": "2026-03-30T09:43:07.685Z",
+    "updatedAt": "2026-05-26T09:57:47.287Z",
     "hash": {
       "global": "d11cd6e230bc84d253fb81c90bde3c252bb3bde595cd474d4c5dc2ca23262b63c5f2fb73926761b2618cdb2667f0999083e30eb1991a3ecdee6f40b2b3addc91ee34a75b24dcef398ddc759968653cd6f40f1f056439d8ca6d4ac1fb9b03daf5933b6f1c3491e1697825cf434c0760aca676fc9ceb8c767ded98766fe7d30a63",
       "regions": [
@@ -276754,9 +276752,9 @@
       "狂暴塔",
       "2026-02-08测试，国服链接可用"
     ],
-    "description": "源自：b站部落冲突XO\r\n2026-02-08测试，国服链接可用\r\n2026-03-30测试，国际服链接可用",
+    "description": "源自：b站部落冲突XO\r\n2026-02-08测试，国服链接可用\r\n2026-05-26测试，国际服链接可用",
     "createdAt": "2026-01-30T03:12:05.102Z",
-    "updatedAt": "2026-03-30T09:41:14.178Z",
+    "updatedAt": "2026-05-26T09:57:33.966Z",
     "hash": {
       "global": "9551a8155c2763a7554e28cc3259fc987a5ae768506f54bc098de14ed85b60d949fefc9b8348737564360573cc2372dc81ce69655a8f9a6fe36e3cb7b2d965e918e5b21cc748c3b2063b1cfd1dfed729b4e60eca35364ba62bcdb15f9bbc4db41d69e7abf9d6cb35ece91b438924b5ce9e843663fcb99babd66d1a9ca556ab53",
       "regions": [
@@ -288325,9 +288323,9 @@
       "毒药塔",
       "2026-02-08测试，国服链接可用"
     ],
-    "description": "源自：b站部落冲突XO\r\n2026-02-08测试，国服链接可用\r\n2026-03-30测试，国际服链接可用",
+    "description": "源自：b站部落冲突XO\r\n2026-02-08测试，国服链接可用\r\n2026-05-26测试，国际服链接可用",
     "createdAt": "2026-01-30T02:57:26.498Z",
-    "updatedAt": "2026-03-30T09:42:40.691Z",
+    "updatedAt": "2026-05-26T09:57:21.300Z",
     "hash": {
       "global": "d52459421f50e6f65f644f09ff100df0fe4123b8a40337caf8646e1880623bdbacb5cbcc8581dab3144637aca1b726da2d9ced028d2bc3bfa1e7425134bc56d2a489b96f3cee0b459d92d667297b0b7ed0b636b135e8b3668edb71e7c6b5ce4990db9b6425ae5ef46ee3543bff9f9427248ccf9f73cc63329273b3957aced1a4",
       "regions": [
@@ -299890,9 +299888,9 @@
       "毒药塔",
       "有精致台"
     ],
-    "description": "源自：b站coc星辉\r\n2026-03-30测试，国际服链接可用",
+    "description": "源自：b站coc星辉\r\n2026-05-26测试，国际服链接可用",
     "createdAt": "2026-01-30T02:03:52.178Z",
-    "updatedAt": "2026-03-30T09:26:06.129Z",
+    "updatedAt": "2026-05-26T09:58:54.089Z",
     "hash": {
       "global": "956e06d1efe6856a600c61e9b8407b904da19e0e0172c536028fcbb881571ecc66560f978f30fa3499f35b39a4fe6db960602932cf366619d9e427d9ee23c8347b2ed968463304e7e3f325a72ff496546a6490b433b0c75b916ccc1aee3dd3686c3de2588e72b28fcd6395a7cc8d4cda8e7fa2dc7147103b4a39b0719ce04e0e",
       "regions": [
@@ -302783,9 +302781,9 @@
       "隐身塔",
       "有精致台"
     ],
-    "description": "源自：b站coc星辉\r\n2026-03-30测试，国际服链接可用",
+    "description": "源自：b站coc星辉\r\n2026-05-26测试，国际服链接可用",
     "createdAt": "2026-01-30T01:56:14.282Z",
-    "updatedAt": "2026-03-30T09:27:00.112Z",
+    "updatedAt": "2026-05-26T09:58:40.654Z",
     "hash": {
       "global": "c104ae1e7a83201415647471e45ab7df91bb2db3a1435a2f1681b213234e25d808736b340e34ae1ebb80dec866eb49b90ed37ffbe86bd736b1f9d813c5d6f22227ec08fcbc0d1e0df25b60f04ee6c91c97bcef1bf0acb87a3ab354e334d219d00f70ab0c5b09d8e187ac7733c82912cfdab6c639c3f3396e8f09a7079b47a6ee",
       "regions": [
@@ -323041,9 +323039,9 @@
       "有精致台",
       "第一期"
     ],
-    "description": "源自：b站coc星辉",
+    "description": "源自：b站coc星辉\r\n2026-05-26测试，国际服链接可用",
     "createdAt": "2026-01-30T01:14:49.972Z",
-    "updatedAt": "2026-04-03T17:07:44.084150Z",
+    "updatedAt": "2026-05-26T09:53:08.192Z",
     "hash": {
       "global": "d5546633fa60a4e1d5551e667b62c9ba5212059c5f74f3934a10a4b945f93b09ceb4e7d9de08c70a683b22db02fbf5e4da726dfd8af1215c8dbe29c587ea17213c06b9eb98029a5677f1ea5b1fce2e59c29b85d8f12c19976029e6b9f721e2c3708d5c3742c6f8733d24fe963f2c528674c92c7d741f5e06a29bcf2835f6d231",
       "regions": [
@@ -324488,9 +324486,9 @@
       "有精致台",
       "第一期"
     ],
-    "description": "源自：b站coc星辉",
+    "description": "源自：b站coc星辉\r\n2026-05-26测试，国际服链接可用",
     "createdAt": "2026-01-30T01:13:56.510Z",
-    "updatedAt": "2026-04-03T17:07:44.084150Z",
+    "updatedAt": "2026-05-26T09:52:55.156Z",
     "hash": {
       "global": "d54556e6fe42b72d5454b321fff4b24bda4588ff7d4297865ace2be771e3c226c5626adc5e99d19a5cf615ea069dadd959f43cdaebd8111b4bed39952c9e459e0ac9d36abf1226c552f60d2f49e8c827197c6691bc762a4e4b256f721212e35b91d1e6d8f71e5ad9ca1f358fb1934db4de00f74fd8647ed7a7752645b32f3cde",
       "regions": [
@@ -325936,9 +325934,9 @@
       "有精致台",
       "第一期"
     ],
-    "description": "源自：b站coc星辉",
+    "description": "源自：b站coc星辉\r\n2026-05-26测试，国际服链接可用",
     "createdAt": "2026-01-30T01:13:20.822Z",
-    "updatedAt": "2026-04-03T17:07:44.084150Z",
+    "updatedAt": "2026-05-26T09:52:42.556Z",
     "hash": {
       "global": "55552313fb0885b1555492f2f3e187a75a9480ed55f2d900521289867df49ac14af26cf35ad8dca9744b4d67089dd4e052f94fd82b5d11700d2cb56c23e847274ac3f6db33ca8f5131eb8eec30cec95b47a73566dc62a149683df9eeda33f4767add5c8a1f13de13c4827780f91f4c7a07f3274bd4a76a1ef2398704d30f7cf3",
       "regions": [
@@ -327384,9 +327382,9 @@
       "有精致台",
       "第一期"
     ],
-    "description": "源自：b站coc星辉",
+    "description": "源自：b站coc星辉\r\n2026-05-26测试，国际服链接可用",
     "createdAt": "2026-01-30T01:12:52.734Z",
-    "updatedAt": "2026-04-03T17:07:44.084150Z",
+    "updatedAt": "2026-05-26T09:52:28.979Z",
     "hash": {
       "global": "f4553193f8836f0ed4550d365eebab4694251be77fc5c62c529726664de0c71f78c5ae2dde38e9d38afa9cd3268ccb595ee6caa78b18a0c209785fa109e58e36d717a8c3c3621e82df277a340903323d311607c0a51638d0d26fb0915a279033f1aada0db654b827be1a70d86949ba7fce23bacce3ce943373debc41dc6dd6f7",
       "regions": [
@@ -328832,9 +328830,9 @@
       "有精致台",
       "第一期"
     ],
-    "description": "源自：b站coc星辉",
+    "description": "源自：b站coc星辉\r\n2026-05-26测试，国际服链接可用",
     "createdAt": "2026-01-30T01:10:13.909Z",
-    "updatedAt": "2026-04-03T17:07:44.084150Z",
+    "updatedAt": "2026-05-26T09:52:12.414Z",
     "hash": {
       "global": "7555229babe2b37bd541c587858fea6b5ab0d824bd50d1e6f414a80534d4e9e157791a9da9ddec20555c8af1e34992535720c62bb57362a34368ef6e1493eb7413337441bd703982d0bcf1f3c027000a7c0047a6f96ddcbdc9f62cb66ce1474593483b4b83b59ed11e4a4fdc8e62752534a74d112c7e20b83e82d9dab43df4f2",
       "regions": [
@@ -330279,9 +330277,9 @@
       "有精致台",
       "第一期"
     ],
-    "description": "源自：b站coc星辉",
+    "description": "源自：b站coc星辉\r\n2026-05-26测试，国际服链接可用",
     "createdAt": "2026-01-30T01:08:34.353Z",
-    "updatedAt": "2026-04-03T17:07:44.084150Z",
+    "updatedAt": "2026-05-26T09:51:58.634Z",
     "hash": {
       "global": "200d1bb6780cb0228413761cf921450ad04afb4737f103f7806cd8f0f600a1f8d91a3e99063d14e3768f9787f16f0550e073e8c25dc21a8ae6f68f369bb661c55caf15054b167daed5a756aaf64f02a4597861a996f1a5f4b9f3ed87e2ce56689a650caa14b9b5b157cde62236b40b2ce8a8453cb873ad4e63c0e59a5bd394d4",
       "regions": [
