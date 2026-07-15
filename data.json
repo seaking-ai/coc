@@ -1,5 +1,929 @@
 [
   {
+    "id": "bd110b21-fd0f-471b-b39a-887b083ccca7",
+    "title": "2026.6.16.7",
+    "image": "/images/layout_1784103923530.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAAXQAAAAAm5BhF8LeEZr82sIRaPs2j",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "毒药塔",
+      "有精致台",
+      "第二期",
+      "熔岩发射器",
+      "18本"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T08:25:23.798Z"
+  },
+  {
+    "id": "ed83c18c-f7df-4b17-a07f-0eb7bce7db97",
+    "title": "2026.6.16.6",
+    "image": "/images/layout_1784103923129.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAAXQAAAAAm5BY4HxI30Gw6vc02cpvH",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "狂暴塔",
+      "有精致台",
+      "第二期",
+      "熔岩发射器",
+      "18本"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T08:25:23.327Z"
+  },
+  {
+    "id": "4afa903b-d5a6-476b-bddc-370917466caf",
+    "title": "2026.6.16.5",
+    "image": "/images/layout_1784103922724.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAAXQAAAAAm5BUKDRaVRYMZoZ0hpu0D",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "隐身塔",
+      "狂暴塔",
+      "有精致台",
+      "第二期",
+      "熔岩发射器",
+      "18本"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T08:25:22.935Z"
+  },
+  {
+    "id": "41d82952-2972-453d-b6b6-bc08a0d9bd2a",
+    "title": "2026.6.16.4",
+    "image": "/images/layout_1784103922305.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAAXQAAAAAm5BQ-PmFDxm1dTfHlqx1E",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "毒药塔",
+      "有精致台",
+      "第二期",
+      "熔岩发射器",
+      "18本"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T08:25:22.507Z"
+  },
+  {
+    "id": "964f1c03-f656-46b4-b865-f12550b0cacb",
+    "title": "2026.6.16.3",
+    "image": "/images/layout_1784103921920.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAAXQAAAAAm5BOOUbGEjrU7050t9Bd2",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "狂暴塔",
+      "有精致台",
+      "第二期",
+      "熔岩发射器",
+      "18本"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T08:25:22.119Z"
+  },
+  {
+    "id": "a18daafb-6056-448e-9c8c-fb737b716b40",
+    "title": "2026.6.16.2",
+    "image": "/images/layout_1784103921506.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAAXQAAAAAm5BKvL1CxziWNqpCjuDZK",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "狂暴塔",
+      "有精致台",
+      "第二期",
+      "熔岩发射器",
+      "18本"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T08:25:21.718Z"
+  },
+  {
+    "id": "f298d132-4c97-4d74-a46f-0f40dd57ab22",
+    "title": "2026.6.16.1",
+    "image": "/images/layout_1784103921101.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAAXQAAAAAm5BGOopfYw2eMX1e-P0ZP",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "狂暴塔",
+      "18本",
+      "有精致台",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T08:25:21.313Z"
+  },
+  {
+    "id": "73be26aa-0384-48b1-a3b2-d4e8ac424f19",
+    "title": "2026.6.15.7",
+    "image": "/images/layout_1784103690782.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAAXQAAAAAm3sKM8nFPwJE2CCluAEEK",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T08:21:30.982Z"
+  },
+  {
+    "id": "36ca0174-7672-4d4b-a51d-1ad9daf76c3e",
+    "title": "2026.6.15.6",
+    "image": "/images/layout_1784103690352.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAAXQAAAAAm3r_IQtETEm1cX-9TTvX5",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "有精致台",
+      "毒药塔",
+      "狂暴塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T08:21:30.584Z"
+  },
+  {
+    "id": "c99fdb38-ab4b-48b2-8e05-ff53c1ff8782",
+    "title": "2026.6.15.5",
+    "image": "/images/layout_1784103689942.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAASwAAAAApBPdKGw1vrORJHTETAzyj",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "毒药塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T08:21:30.143Z"
+  },
+  {
+    "id": "0c9b0d4e-461a-4b42-bff7-81b0f8c1cbe9",
+    "title": "2026.6.15.4",
+    "image": "/images/layout_1784103689504.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAVAAAAAAnr-gvcSr4GukFpbESSZUm",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T08:21:29.745Z"
+  },
+  {
+    "id": "0ad571a5-4c73-4959-94a5-68acefbb08f3",
+    "title": "2026.6.15.3",
+    "image": "/images/layout_1784103689013.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAVAAAAAAn2oG37F_1zbXU9aJopdgf",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "第二期",
+      "空中炸弹发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T08:21:29.256Z"
+  },
+  {
+    "id": "61e1785b-ddfe-4192-afd8-c4be2b534bd4",
+    "title": "2026.6.15.2",
+    "image": "/images/layout_1784103688616.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAAwAAAAAnKXgEyev8nojGedvJdQ4p",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T08:21:28.820Z"
+  },
+  {
+    "id": "b0790dbb-7dc8-45a3-9f49-2bbbb1187e3d",
+    "title": "2026.6.15.1",
+    "image": "/images/layout_1784103688154.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAGgAAAAAn1XeZEEgYPDIqv8lBR3fb",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "有精致台",
+      "隐身塔",
+      "第二期",
+      "熔岩发射器",
+      "狂暴塔"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T08:21:28.365Z"
+  },
+  {
+    "id": "2d5ef479-0c6a-4013-bde9-2d62c7217207",
+    "title": "2026.6.14.6",
+    "image": "/images/layout_1784103537011.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAAXQAAAAAm2XKJk2_O2GYBjGJAXLJg",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "",
+    "createdAt": "2026-07-15T08:18:57.225Z"
+  },
+  {
+    "id": "c37a91b0-6570-4273-a5d1-6b1cae1e843d",
+    "title": "2026.6.14.5",
+    "image": "/images/layout_1784103536624.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAAXQAAAAAm2XFO8XDZB0TQPyQf_fL9",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "",
+    "createdAt": "2026-07-15T08:18:56.822Z"
+  },
+  {
+    "id": "8ee32a9e-2e0b-4a10-b37c-9dcf63ed58ce",
+    "title": "2026.6.14.4",
+    "image": "/images/layout_1784103536147.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAAwAAAAAnEpxQLiL8xCJeM16uAxLH",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "有精致台",
+      "毒药塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "",
+    "createdAt": "2026-07-15T08:18:56.354Z"
+  },
+  {
+    "id": "319cbbfb-03e2-4841-8b50-1e57516cf935",
+    "title": "2026.6.14.3",
+    "image": "/images/layout_1784103535659.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAAXQAAAAAm2WwgIgJBdt02vLqdqhDF",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "",
+    "createdAt": "2026-07-15T08:18:55.886Z"
+  },
+  {
+    "id": "b739033a-09de-4328-b2cb-a61d22216904",
+    "title": "2026.6.14.2",
+    "image": "/images/layout_1784103535233.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAAXQAAAAAm2Wq0gnO1WANLdVwsaylc",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "",
+    "createdAt": "2026-07-15T08:18:55.429Z"
+  },
+  {
+    "id": "397a89f5-1a76-4c42-93c0-6fd1d8dae9e0",
+    "title": "2026.6.14.1",
+    "image": "/images/layout_1784103534798.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAAXQAAAAAm2WlcUXDL3W9e732lzHZQ",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "",
+    "createdAt": "2026-07-15T08:18:55.026Z"
+  },
+  {
+    "id": "eaec2abf-6e34-4d69-9f70-c364476bb811",
+    "title": "2026.6.13.8",
+    "image": "/images/layout_1784103395641.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAGgAAAAAnvht7knLNK8DlcoyBCieK",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T08:16:35.844Z"
+  },
+  {
+    "id": "abfd4bd4-7122-4df8-b4e1-894bfbed5557",
+    "title": "2026.6.13.7",
+    "image": "/images/layout_1784103395224.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAGgAAAAAn4LCqwO8ioesHbuiJ_w1C",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T08:16:35.435Z"
+  },
+  {
+    "id": "35b0c9a4-1467-4682-b108-21912e539aa6",
+    "title": "2026.6.13.6",
+    "image": "/images/layout_1784103394645.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAAwAAAAAnFwkPnR_XFX1WS0DGY_z5",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAVQAAAAH2c4D5Q0TQsCaNO7dmENlx",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "第二期",
+      "空中炸弹发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T08:16:34.906Z"
+  },
+  {
+    "id": "3684afc4-8bfe-4598-82b4-29f77adfe8a9",
+    "title": "2026.6.13.5",
+    "image": "/images/layout_1784103394178.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAAwAAAAAnFxa9b__ePmvTj793AEBQ",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAVQAAAAH2cylPeOSicUV2WCQizPQ2",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "隐身塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T08:16:34.417Z"
+  },
+  {
+    "id": "27f0f936-aa37-4dae-9fee-c2a39955bc7d",
+    "title": "2026.6.13.4",
+    "image": "/images/layout_1784103393737.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAAwAAAAAnFyCiVf-8mfIEXAY2yM-N",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAVQAAAAH2cygTLCng2AodcfXK5lT8",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "有精致台",
+      "隐身塔",
+      "毒药塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T08:16:33.941Z"
+  },
+  {
+    "id": "c40a91ae-507d-4a48-a839-9ca8e398f59b",
+    "title": "2026.6.13.3",
+    "image": "/images/layout_1784103393319.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAAwAAAAAnFyY8fHK5WDqAt6TpF7Hj",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAVQAAAAH2cyVbPj2CcNgSBDxxQJeK",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T08:16:33.520Z"
+  },
+  {
+    "id": "eef12a5e-336e-46e5-ba1b-c7354cee133c",
+    "title": "2026.6.13.2",
+    "image": "/images/layout_1784103392902.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAAwAAAAAnF00AevSsKnzucKxczLw1",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAVQAAAAH2crduRM36qJP3R_Oo2g2k",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "有精致台",
+      "毒药塔",
+      "第二期",
+      "空中炸弹发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T08:16:33.110Z"
+  },
+  {
+    "id": "c812950b-1a37-480d-843c-5e389ec6ca3c",
+    "title": "2026.6.13.1",
+    "image": "/images/layout_1784103392452.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAAwAAAAAnFzdU6a_TUMPGqlZpXyTf",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAVQAAAAH2crbsiBVV6rQGooC9UY4S",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "毒药塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T08:16:32.692Z"
+  },
+  {
+    "id": "04a5175c-1f62-431a-bbfe-2abdeefb3aec",
+    "title": "2026.6.12.8",
+    "image": "/images/layout_1784102347095.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAAwAAAAAnEn9m-OfxG_cr9Q98kd74",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAFQAAAAK9xaD-TqIBQSlXjDURTIud",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T07:59:07.297Z"
+  },
+  {
+    "id": "3c90c106-6ae0-4bdb-a03d-807cc61e991d",
+    "title": "2026.6.12.7",
+    "image": "/images/layout_1784102346637.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAMgAAAAAmmG5AWEdIANGkV1eIxubj",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T07:59:06.876Z"
+  },
+  {
+    "id": "58cab29d-b217-4d36-a996-825fa19d7534",
+    "title": "2026.6.12.6",
+    "image": "/images/layout_1784102346243.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAMgAAAAAmmG6Xr-USz2_9SGceyN_F",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAOQAAAAJunXPE4-4Idtc8XIs8Trm1",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "隐身塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T07:59:06.445Z"
+  },
+  {
+    "id": "ac17b07a-1a91-4995-9528-a53a0c1f5b7f",
+    "title": "2026.6.12.5",
+    "image": "/images/layout_1784102345803.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAAwAAAAAnEqcNVB-2FbPHndKu7OCH",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAOAAAAAJ-zHPFzFYPoh4C-cGsfMZt",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "毒药塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T07:59:06.028Z"
+  },
+  {
+    "id": "399731ae-6723-4a00-baef-d5641e2e36c3",
+    "title": "2026.6.12.4",
+    "image": "/images/layout_1784102345372.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAAwAAAAAnEoPL96uezzEtAxXhKmYs",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAUwAAAAH0FBGvX3coKX7pR3HQlTNe",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T07:59:05.592Z"
+  },
+  {
+    "id": "75ce7bfe-7378-4465-ae7d-124e03f77d49",
+    "title": "2026.6.12.3",
+    "image": "/images/layout_1784102344850.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAMgAAAAAmmG7Y_UiI2rp-UZw5MkxP",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAASwAAAAIHuuG1a5ub89O3xqzmTwW1",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "隐身塔",
+      "第二期",
+      "空中炸弹发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T07:59:05.085Z"
+  },
+  {
+    "id": "bdefe263-a3b3-4b40-8a31-e1089443d690",
+    "title": "2026.6.12.2",
+    "image": "/images/layout_1784102344223.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAAwAAAAAnEpoLLwpzBHB7W236DP_a",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAUwAAAAH0FBDAg97sHNGmcan-QGMX",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "毒药塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T07:59:04.616Z"
+  },
+  {
+    "id": "3375fe76-430b-4f32-8d2b-94aa45d1cf98",
+    "title": "2026.6.12.1",
+    "image": "/images/layout_1784102343785.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAAwAAAAAnEpHxHMyQnagoSVghQ4Vo",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAABAAAAAMMWLWCgdNFCOdxrrBq62uj",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T07:59:03.998Z"
+  },
+  {
+    "id": "2d0ba922-302d-468d-bb8e-f61bb615023b",
+    "title": "2026.6.11.8",
+    "image": "/images/layout_1784102160383.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAEwAAAAAno6Ev7UwqaPc_0c5PTLiW",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T07:56:00.593Z"
+  },
+  {
+    "id": "4dcdbaf0-48f5-4bac-b763-5398e820f4d6",
+    "title": "2026.6.11.7",
+    "image": "/images/layout_1784102159976.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAAwAAAAAnCbHvA0rRykWQ5wR5-gsc",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "第二期",
+      "空中炸弹发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T07:56:00.190Z"
+  },
+  {
+    "id": "edecaf9c-84c7-4b68-9ed6-a019bd6389b2",
+    "title": "2026.6.11.6",
+    "image": "/images/layout_1784102159553.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAAwAAAAAnCZ78uMN9QUOFbm5srg3i",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "第二期",
+      "空中炸弹发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T07:55:59.770Z"
+  },
+  {
+    "id": "a800b9f1-b511-401a-8cce-0881615201a9",
+    "title": "2026.6.11.5",
+    "image": "/images/layout_1784102159146.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAADAAAAAAnwiwczcs4fBN-9kIshflR",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T07:55:59.362Z"
+  },
+  {
+    "id": "81e6a329-932f-4ece-89a1-f4d5bb403602",
+    "title": "2026.6.11.4",
+    "image": "/images/layout_1784102158738.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAADAAAAAAnwi2_wBz-4DhBZGP0-qLz",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T07:55:58.945Z"
+  },
+  {
+    "id": "165003d0-00d4-4201-8986-8626b1da6169",
+    "title": "2026.6.11.3",
+    "image": "/images/layout_1784102158340.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAADAAAAAAnwi69f1R-kaqigpgOgTr1",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T07:55:58.540Z"
+  },
+  {
+    "id": "c4abb815-edd7-4628-80bc-b4dc13eba2ad",
+    "title": "2026.6.11.2",
+    "image": "/images/layout_1784102157922.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAADAAAAAAnwjDiM6HU-C9IrCQAjjAC",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "第二期",
+      "空中炸弹发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T07:55:58.129Z"
+  },
+  {
+    "id": "c4f4a5f4-af4c-49bf-b61e-32aeb08ea2e1",
+    "title": "2026.6.11.1",
+    "image": "/images/layout_1784102157491.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAADAAAAAAnwjHfTrIxu9JuMrigg_Yj",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T07:55:57.715Z"
+  },
+  {
+    "id": "d8ff1eec-32e2-41a5-b322-cbb8a9cef828",
+    "title": "2026.6.10.6",
+    "image": "/images/layout_1784102011386.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAAXQAAAAAmwukZ40ddVYP-9jGBGckt",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T07:53:31.615Z"
+  },
+  {
+    "id": "6c165fa4-c377-480e-a72b-e1871af56820",
+    "title": "2026.6.10.5",
+    "image": "/images/layout_1784102010913.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAAXQAAAAAmwuh-LwjNgV3Ff_MGHxYX",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T07:53:31.147Z"
+  },
+  {
+    "id": "21ad1e59-4b08-4452-913f-dc296ff04be1",
+    "title": "2026.6.10.4",
+    "image": "/images/layout_1784102010420.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAAXQAAAAAmwufV2gCarILczEWpSy-j",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "有精致台",
+      "毒药塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T07:53:30.659Z"
+  },
+  {
+    "id": "8cc3d563-dcfb-4048-8944-a88f368e2913",
+    "title": "2026.6.10.3",
+    "image": "/images/layout_1784102009983.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAAXQAAAAAmwudP41LSjNs0GZUtaauq",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T07:53:30.209Z"
+  },
+  {
+    "id": "7d712d48-ecea-45dd-9c3d-149d4f9320b7",
+    "title": "2026.6.10.2",
+    "image": "/images/layout_1784102009489.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAAXQAAAAAmwubUSHuGIozwLeyHsOOf",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T07:53:29.694Z"
+  },
+  {
+    "id": "6a50a697-6431-44ff-a131-087f529954ee",
+    "title": "2026.6.10.1",
+    "image": "/images/layout_1784102008955.webp",
+    "chinaLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAAXQAAAAAmwuXdkS0H6o_nNYZdcibu",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "有精致台",
+      "狂暴塔",
+      "第二期",
+      "熔岩发射器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-07-15T07:53:29.228Z"
+  },
+  {
     "id": "9a09cd35-1824-4459-b17c-17fbcfa03c9a",
     "title": "2026.6.9.8",
     "image": "/images/layout_1782315383118.webp",
