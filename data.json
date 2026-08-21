@@ -1,5 +1,883 @@
 [
   {
+    "id": "0599764a-f38b-48b1-8076-f755f5739833",
+    "title": "2026.8.17.8",
+    "image": "/images/layout_1787323689828.webp",
+    "chinaLink": "TH18:WB:AAAAVwAAAAApdvMzerOho5zL_ZfNOz8_",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "狂暴塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:48:10.024Z"
+  },
+  {
+    "id": "8ebedb97-a64e-4876-a09b-031369fec19b",
+    "title": "2026.8.17.7",
+    "image": "/images/layout_1787323689428.webp",
+    "chinaLink": "TH18:HV:AAAAXQAAAAAogWUP63FxWIhKiXDj5LXF",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "狂暴塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:48:09.633Z"
+  },
+  {
+    "id": "2de0c928-8f56-4735-937d-903ec5059199",
+    "title": "2026.8.17.6",
+    "image": "/images/layout_1787323689013.webp",
+    "chinaLink": "TH18:HV:AAAAXQAAAAAogWIHebQA4jFiUlxSvKfj",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "狂暴塔",
+      "隐身塔",
+      "第三期",
+      "英雄猎台"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:48:09.212Z"
+  },
+  {
+    "id": "7438b321-ff0b-421c-b349-b391582b5379",
+    "title": "2026.8.17.5",
+    "image": "/images/layout_1787323688612.webp",
+    "chinaLink": "TH18:HV:AAAAXQAAAAAogV_Ab0oyyGiN_On7K0ND",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "狂暴塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:48:08.829Z"
+  },
+  {
+    "id": "e34d655c-7820-41f3-928e-354e6cb4ccf7",
+    "title": "2026.8.17.4",
+    "image": "/images/layout_1787323688192.webp",
+    "chinaLink": "TH18:HV:AAAAXQAAAAAogV6KgWW6N-kvHHmvzsgK",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "狂暴塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:48:08.407Z"
+  },
+  {
+    "id": "60ec7857-097a-4340-9e48-8e05ba71ed06",
+    "title": "2026.8.17.3",
+    "image": "/images/layout_1787323687782.webp",
+    "chinaLink": "TH18:HV:AAAAXQAAAAAogV0-NeXWtbwR0s8Wjqer",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "毒药塔",
+      "第三期",
+      "英雄猎台"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:48:08.006Z"
+  },
+  {
+    "id": "cccc8e9d-2158-44f0-ba19-fa4435f67e2e",
+    "title": "2026.8.17.2",
+    "image": "/images/layout_1787323687386.webp",
+    "chinaLink": "TH18:HV:AAAAXQAAAAAogVu4WVshZgyr3bOM00oZ",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "隐身塔",
+      "狂暴塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:48:07.590Z"
+  },
+  {
+    "id": "22f6510b-7c35-439d-acaa-3930df39a9fc",
+    "title": "2026.8.17.1",
+    "image": "/images/layout_1787323686978.webp",
+    "chinaLink": "TH18:HV:AAAAXQAAAAAogVkg_XoFkQDfx2T5bPOR",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "狂暴塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:48:07.186Z"
+  },
+  {
+    "id": "54b734b3-9b6f-4240-93f0-8ec939f01afd",
+    "title": "2026.8.20.5",
+    "image": "/images/layout_1787323568982.webp",
+    "chinaLink": "TH18:WB:AAAAVAAAAAApuKWBWrlvwl3SvxKj24dS",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAALgAAAAKeldAmVH-DaWb4gD84i-W5",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "毒药塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:46:09.184Z"
+  },
+  {
+    "id": "fdb7ef45-aded-4686-8cc1-39087bdb51b2",
+    "title": "2026.8.20.4",
+    "image": "/images/layout_1787323568601.webp",
+    "chinaLink": "TH18:WB:AAAAVAAAAAApuKT0Gu-LRT2MgzDOhCZH",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAALgAAAAKelZ-M9WUO_3RW0uwy6hsv",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "毒药塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:46:08.801Z"
+  },
+  {
+    "id": "a7f340e5-8006-4374-97bc-e46598cdc3df",
+    "title": "2026.8.20.3",
+    "image": "/images/layout_1787323568207.webp",
+    "chinaLink": "TH18:HV:AAAAQgAAAAAoEyDB6Y32o-hMyIZ-f3E5",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "狂暴塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:46:08.402Z"
+  },
+  {
+    "id": "239c4401-9caf-4f26-86fc-26ae13148f02",
+    "title": "2026.8.20.2",
+    "image": "/images/layout_1787323567834.webp",
+    "chinaLink": "TH18:WB:AAAAQQAAAAAoQ6xIzE8pKwlywFfO86gG",
+    "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AWB%3AAAAAEQAAAALaJqiLnDBbp1waUj69sZvY",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "毒药塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:46:08.030Z"
+  },
+  {
+    "id": "451e068d-fe84-44c1-8b80-38ee5b2f2add",
+    "title": "2026.8.20.1",
+    "image": "/images/layout_1787323567405.webp",
+    "chinaLink": "TH18:WB:AAAAQQAAAAAocqZC_z5jh8TSD5eSpXVg",
+    "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AHV%3AAAAAKgAAAAKeIkDWWuqY2JMb8LyhxOaS",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "毒药塔",
+      "第三期",
+      "蛋糕投掷器",
+      "18本"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:46:07.617Z"
+  },
+  {
+    "id": "f8734e37-d25a-483e-af1f-66b432fe4088",
+    "title": "2026.8.15.9",
+    "image": "/images/layout_1787323450519.webp",
+    "chinaLink": "TH18:WB:AAAAAwAAAAAorDAmEmdWvZ0UQpGzgmGX",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "狂暴塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:44:10.750Z"
+  },
+  {
+    "id": "c54c8069-872e-4bc4-aa82-030d630ef2bf",
+    "title": "2026.8.15.8",
+    "image": "/images/layout_1787323450130.webp",
+    "chinaLink": "TH18:WB:AAAAMgAAAAAoLIRBvYnS33dE4x8BTIx6",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAABgAAAAMFfjSfJkrZzFsUr5yJwjyZ",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "狂暴塔",
+      "第三期",
+      "火热蜡烛"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:44:10.338Z"
+  },
+  {
+    "id": "dd4692d6-e4c1-4f07-b202-f361260905d4",
+    "title": "2026.8.15.7",
+    "image": "/images/layout_1787323449740.webp",
+    "chinaLink": "TH18:WB:AAAAAwAAAAAorD6dPLlBLDGd8tWzUlxn",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "狂暴塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:44:09.938Z"
+  },
+  {
+    "id": "e872a996-d46f-4bcc-9e3c-91b945b03687",
+    "title": "2026.8.15.6",
+    "image": "/images/layout_1787323449343.webp",
+    "chinaLink": "TH18:WB:AAAAQQAAAAAoZZu5X7v4AMWcm--8oVGu",
+    "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AWB%3AAAAAMgAAAAKLmFvq8KnTeAzFnCO8Gn-s",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "狂暴塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:44:09.548Z"
+  },
+  {
+    "id": "cad0b980-4e40-42bd-a0c9-94e6bdb01e52",
+    "title": "2026.8.15.5",
+    "image": "/images/layout_1787323448934.webp",
+    "chinaLink": "TH18:WB:AAAAMgAAAAAn-j9VWO7I_3Y3Xe1BHUcW",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAIAAAAAKr6p-LngKhuNSN4loKpOGL",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "毒药塔",
+      "隐身塔",
+      "第三期",
+      "英雄猎台"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:44:09.148Z"
+  },
+  {
+    "id": "bd7ec381-23b6-46c5-b283-d815148789b6",
+    "title": "2026.8.15.4",
+    "image": "/images/layout_1787323448543.webp",
+    "chinaLink": "TH18:WB:AAAAVAAAAAApmaXSui0L5ABBTR44kLH4",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "狂暴塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:44:08.746Z"
+  },
+  {
+    "id": "16968b80-69b7-481c-9b9c-a2ac3a6245de",
+    "title": "2026.8.15.3",
+    "image": "/images/layout_1787323448145.webp",
+    "chinaLink": "TH18:WB:AAAAMgAAAAAn-j9-JpSOMb_37U3JpBR6",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAABgAAAAMFe58xorMHnuu1aGuOYlMz",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "狂暴塔",
+      "第三期",
+      "火热蜡烛"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:44:08.343Z"
+  },
+  {
+    "id": "959fa869-75a2-4dc4-b2be-0f661fb1f3a9",
+    "title": "2026.8.15.2",
+    "image": "/images/layout_1787323447760.webp",
+    "chinaLink": "TH18:WB:AAAAAwAAAAAorJRisfKv_J_HgBW0u9w6",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "隐身塔",
+      "狂暴塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:44:07.953Z"
+  },
+  {
+    "id": "20483ac8-ef31-4296-9486-f8ad7fe281d4",
+    "title": "2026.8.15.10",
+    "image": "/images/layout_1787323447370.webp",
+    "chinaLink": "TH18:WB:AAAAAwAAAAAorI3ElfS9QaO6VEY6OsUI",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "狂暴塔",
+      "第三期",
+      "火热蜡烛"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:44:07.565Z"
+  },
+  {
+    "id": "53780bcb-8f57-4fb6-88cc-d0be9380325c",
+    "title": "2026.8.15.1",
+    "image": "/images/layout_1787323446972.webp",
+    "chinaLink": "TH18:WB:AAAATwAAAAAqwWccjS9xSE7qvC1-uCVN",
+    "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AWB%3AAAAAOAAAAAKFz5hXi4UEKySwVGZduMOG",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "狂暴塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:44:07.177Z"
+  },
+  {
+    "id": "961d7f46-001c-4d6f-b3e1-5fe15d42bb1d",
+    "title": "2026.8.16.8",
+    "image": "/images/layout_1787323277692.webp",
+    "chinaLink": "TH18:HV:AAAAXQAAAAAoekmN2jnEJNqSmynuuYXM",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "狂暴塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:41:18.080Z"
+  },
+  {
+    "id": "c7f11e55-4644-4911-ac15-6efbc0fbb0e7",
+    "title": "2026.8.16.7",
+    "image": "/images/layout_1787323277280.webp",
+    "chinaLink": "TH18:WB:AAAAAwAAAAAouxVyrIF4vEVx0A-AvMMY",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAVQAAAAH9IxH62kmcNJtcRSVjonQk",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "毒药塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:41:17.484Z"
+  },
+  {
+    "id": "bda1fc90-0948-4a81-9160-56674543f203",
+    "title": "2026.8.16.6",
+    "image": "/images/layout_1787323276904.webp",
+    "chinaLink": "TH18:WB:AAAAAwAAAAAouuu9A_XOrxyjGrH47I96",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAVQAAAAH9IYBWpNrq6JqIrgWlqoMJ",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "第三期",
+      "隐身塔",
+      "火热蜡烛"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:41:17.106Z"
+  },
+  {
+    "id": "4cea57a8-c154-4a1c-8c75-4f876a6547c1",
+    "title": "2026.8.16.5",
+    "image": "/images/layout_1787323276494.webp",
+    "chinaLink": "TH18:WB:AAAATwAAAAArKhcLj0TOY6_Yo6d5VV90",
+    "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AWB%3AAAAAJgAAAAK9SNFCRRLklYeAr6nWamUh",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "狂暴塔",
+      "第三期",
+      "隐身塔",
+      "火热蜡烛"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:41:16.714Z"
+  },
+  {
+    "id": "1abf0b5e-ed51-446d-b6a5-efb45418e8e9",
+    "title": "2026.8.16.4",
+    "image": "/images/layout_1787323276086.webp",
+    "chinaLink": "TH18:WB:AAAAAwAAAAAorBH7ycD1MRisRRdc2Hxb",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "毒药塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:41:16.306Z"
+  },
+  {
+    "id": "43904018-25b4-4c68-a02f-d212c10012b1",
+    "title": "2026.8.16.3",
+    "image": "/images/layout_1787323275697.webp",
+    "chinaLink": "TH18:WB:AAAATwAAAAArKhbLu6JjKFJrefxaiQRx",
+    "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AHV%3AAAAAJgAAAAK9FtDWsi67jP9wALTfVbjL",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "狂暴塔",
+      "第三期",
+      "蛋糕投掷器",
+      "隐身塔"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:41:15.892Z"
+  },
+  {
+    "id": "d1085931-325a-4b91-9fd2-89498416354d",
+    "title": "2026.8.16.2",
+    "image": "/images/layout_1787323275302.webp",
+    "chinaLink": "TH18:WB:AAAAAwAAAAAorByhSXBrkx2SuVkkw5Mc",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "狂暴塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:41:15.513Z"
+  },
+  {
+    "id": "a77abe99-1cb8-404d-9e9f-d2093ad7d997",
+    "title": "2026.8.16.1",
+    "image": "/images/layout_1787323274884.webp",
+    "chinaLink": "TH18:WB:AAAATwAAAAArKhZy75WlS4cniVMlXEBg",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAJgAAAAK9F_XI466LdlxkD5Lyng4_",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "毒药塔",
+      "狂暴塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:41:15.097Z"
+  },
+  {
+    "id": "44466a2f-4249-4e6a-8c0c-17c56412d5f8",
+    "title": "2026.8.18.8",
+    "image": "/images/layout_1787322940712.webp",
+    "chinaLink": "TH18:WB:AAAAAwAAAAAous-9lQBbQoQlRHfb8oSZ",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAVQAAAAH9IxTT0InHrGSVPNz8ckLL",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "狂暴塔",
+      "毒药塔",
+      "第三期",
+      "火热蜡烛"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:35:40.913Z"
+  },
+  {
+    "id": "8e3d128f-11b4-4ca9-863a-f007b76d6c6c",
+    "title": "2026.8.18.7",
+    "image": "/images/layout_1787322940312.webp",
+    "chinaLink": "TH18:WB:AAAAQQAAAAAodjwkbpBVHHTT_Ffe15qg",
+    "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AHV%3AAAAARQAAAAJKLScb8sqb7FuBOx0x_JYb",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "狂暴塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:35:40.529Z"
+  },
+  {
+    "id": "2b7ab48c-cdf7-4a34-819b-452489f1481a",
+    "title": "2026.8.18.6",
+    "image": "/images/layout_1787322939902.webp",
+    "chinaLink": "TH18:WB:AAAAGwAAAAApFm22OcqJ-PXQVSdykZtd",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAKgAAAAKciQztXn9FI0XO08ufaMjy",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "毒药塔",
+      "第三期",
+      "火热蜡烛"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:35:40.111Z"
+  },
+  {
+    "id": "0161e61f-54f3-4e42-a4fd-29c07b4a4377",
+    "title": "2026.8.18.5",
+    "image": "/images/layout_1787322939523.webp",
+    "chinaLink": "TH18:WB:AAAAMgAAAAAn-j9VWO7I_3Y3Xe1BHUcW",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAIAAAAAKr6p-LngKhuNSN4loKpOGL",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "毒药塔",
+      "隐身塔",
+      "第三期",
+      "火热蜡烛"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:35:39.722Z"
+  },
+  {
+    "id": "db1fbbaa-5632-40cd-a90f-a871abd21da9",
+    "title": "2026.8.18.4",
+    "image": "/images/layout_1787322939115.webp",
+    "chinaLink": "TH18:WB:AAAADwAAAAApUdsywq4zZqswbtn4OJtu",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALhOSzCd7kO3H_57jzL3g3p",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "狂暴塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:35:39.326Z"
+  },
+  {
+    "id": "a5526481-97b7-434a-8995-2e2f1c4485f9",
+    "title": "2026.8.18.3",
+    "image": "/images/layout_1787322938726.webp",
+    "chinaLink": "TH18:WB:AAAADwAAAAApUdpe-l-xMRjqqWm-7yYP",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAAQAAAAMiHI_3VRwkthC5y4d-4rtm",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "狂暴塔",
+      "隐身塔",
+      "第三期",
+      "火热蜡烛"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:35:38.923Z"
+  },
+  {
+    "id": "363c9fab-9a0c-4002-bf57-db0188347023",
+    "title": "2026.8.18.2",
+    "image": "/images/layout_1787322938320.webp",
+    "chinaLink": "TH18:WB:AAAAAwAAAAAosYsnlpRRv0stPGRHgevj",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALho1jJes85SgyShcGDpK6I",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "狂暴塔",
+      "隐身塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:35:38.525Z"
+  },
+  {
+    "id": "5ef82b2a-5d3a-4926-a2d4-65baf5f96330",
+    "title": "2026.8.18.1",
+    "image": "/images/layout_1787322937920.webp",
+    "chinaLink": "TH18:WB:AAAAAwAAAAAov8Ta-GvGFAPWv-5hsGxP",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALho4O-ZEV5m5BgO3XJIV9D",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "狂暴塔",
+      "隐身塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:35:38.122Z"
+  },
+  {
+    "id": "7b776654-6a53-492f-bc92-ff3f62a1d1d2",
+    "title": "2026.8.19.9",
+    "image": "/images/layout_1787322788501.webp",
+    "chinaLink": "TH18:WB:AAAAGgAAAAApnWlLRO3F1ca8uMLqQW1i",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "毒药塔",
+      "隐身塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:33:08.700Z"
+  },
+  {
+    "id": "a15c37e2-2352-4978-8556-796916010bf2",
+    "title": "2026.8.19.8",
+    "image": "/images/layout_1787322788090.webp",
+    "chinaLink": "TH18:WB:AAAARgAAAAAovXhmDQcZCajegSKOxrVl",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "狂暴塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:33:08.313Z"
+  },
+  {
+    "id": "305652c3-ec2e-4119-a940-d86b21013032",
+    "title": "2026.8.19.7",
+    "image": "/images/layout_1787322787684.webp",
+    "chinaLink": "TH18:HV:AAAALwAAAAAocGL6EyxUTWSsF05Z4o8x",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAARQAAAAJI5mHk3epZhvBCwEk6LO3G",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "狂暴塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:33:07.890Z"
+  },
+  {
+    "id": "91181480-4ed5-424d-92d9-4d88f1ec69b7",
+    "title": "2026.8.19.6",
+    "image": "/images/layout_1787322787300.webp",
+    "chinaLink": "TH18:HV:AAAALwAAAAAoiuPxaAzvxsKuyz0XcRSz",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "狂暴塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:33:07.502Z"
+  },
+  {
+    "id": "5bbaa397-5582-4656-ade1-91168e7a0c97",
+    "title": "2026.8.19.5",
+    "image": "/images/layout_1787322786898.webp",
+    "chinaLink": "TH18:WB:AAAAMgAAAAAoWTrFhnCt7g1VMJefz1Vt",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAQgAAAAJbKxTLO6xl2fUrDv5kQWFK",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "狂暴塔",
+      "隐身塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:33:07.105Z"
+  },
+  {
+    "id": "ffafe5b4-48b3-4e2c-9227-ec58800c1447",
+    "title": "2026.8.19.4",
+    "image": "/images/layout_1787322786498.webp",
+    "chinaLink": "TH18:WB:AAAAAwAAAAAo1J3sMfdvOQ_ScXg1nqzT",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "狂暴塔",
+      "隐身塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:33:06.704Z"
+  },
+  {
+    "id": "39710a13-3373-4a8a-aca3-e7399b4883f9",
+    "title": "2026.8.19.3",
+    "image": "/images/layout_1787322786104.webp",
+    "chinaLink": "TH18:WB:AAAAMgAAAAAoWQOMd041x6UuX90p3UOI",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAQgAAAAJbKwswTO5lBJY8DTE9t_BC",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "狂暴塔",
+      "隐身塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:33:06.305Z"
+  },
+  {
+    "id": "8ba11cac-d93f-4226-be67-4f25cb070293",
+    "title": "2026.8.19.2",
+    "image": "/images/layout_1787322785707.webp",
+    "chinaLink": "TH18:WB:AAAAVAAAAAAplpMxN7X0bcMg_84bBNMI",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAEwAAAALOBBsveWURIwuOb3voKZpB",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "狂暴塔",
+      "隐身塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:33:05.918Z"
+  },
+  {
+    "id": "80656fe9-672a-455e-a3de-b97ef923a9fa",
+    "title": "2026.8.19.10",
+    "image": "/images/layout_1787322785310.webp",
+    "chinaLink": "TH18:HV:AAAAKgAAAAAo2APyGHDk-RNRIAUVbrW7",
+    "internationalLink": "",
+    "tags": [
+      "冲杯",
+      "国服",
+      "18本",
+      "狂暴塔",
+      "隐身塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:33:05.512Z"
+  },
+  {
+    "id": "454e1645-7e57-4211-b81a-1e44a5a10f8f",
+    "title": "2026.8.19.1",
+    "image": "/images/layout_1787322784903.webp",
+    "chinaLink": "TH18:WB:AAAAMgAAAAAoWPOuO8rpSg5kg9IXYURJ",
+    "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAQgAAAAJbKt_EvnyW1Cdfdo-FyRB6",
+    "tags": [
+      "冲杯",
+      "国服",
+      "国际服",
+      "18本",
+      "毒药塔",
+      "第三期",
+      "蛋糕投掷器"
+    ],
+    "description": "源自：b站coc星辉",
+    "createdAt": "2026-08-21T14:33:05.116Z"
+  },
+  {
     "id": "bd110b21-fd0f-471b-b39a-887b083ccca7",
     "title": "2026.6.16.7",
     "image": "/images/layout_1784103923530.webp",
@@ -9,7 +887,6 @@
       "冲杯",
       "国服",
       "毒药塔",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本"
@@ -27,7 +904,6 @@
       "冲杯",
       "国服",
       "狂暴塔",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本"
@@ -46,7 +922,6 @@
       "国服",
       "隐身塔",
       "狂暴塔",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本"
@@ -64,7 +939,6 @@
       "冲杯",
       "国服",
       "毒药塔",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本"
@@ -82,7 +956,6 @@
       "冲杯",
       "国服",
       "狂暴塔",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本"
@@ -100,7 +973,6 @@
       "冲杯",
       "国服",
       "狂暴塔",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本"
@@ -119,7 +991,6 @@
       "国服",
       "狂暴塔",
       "18本",
-      "有精致台",
       "第二期",
       "熔岩发射器"
     ],
@@ -136,7 +1007,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -154,7 +1024,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "狂暴塔",
       "第二期",
@@ -173,7 +1042,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "毒药塔",
       "第二期",
@@ -192,7 +1060,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -210,7 +1077,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -228,7 +1094,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -246,7 +1111,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "隐身塔",
       "第二期",
       "熔岩发射器",
@@ -265,7 +1129,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -283,7 +1146,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -301,7 +1163,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "熔岩发射器"
@@ -319,7 +1180,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -337,7 +1197,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -355,7 +1214,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -373,7 +1231,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -391,7 +1248,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -410,7 +1266,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -429,7 +1284,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "隐身塔",
       "第二期",
@@ -449,7 +1303,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "隐身塔",
       "毒药塔",
       "第二期",
@@ -469,7 +1322,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -488,7 +1340,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "空中炸弹发射器"
@@ -507,7 +1358,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "毒药塔",
       "第二期",
@@ -527,7 +1377,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -545,7 +1394,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -564,7 +1412,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "隐身塔",
       "第二期",
@@ -584,7 +1431,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "毒药塔",
       "第二期",
@@ -604,7 +1450,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -623,7 +1468,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "隐身塔",
       "第二期",
@@ -643,7 +1487,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "毒药塔",
       "第二期",
@@ -663,7 +1506,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -681,7 +1523,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -699,7 +1540,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -717,7 +1557,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -735,7 +1574,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -753,7 +1591,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -771,7 +1608,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -789,7 +1625,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -807,7 +1642,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -825,7 +1659,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -843,7 +1676,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -861,7 +1693,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "熔岩发射器"
@@ -879,7 +1710,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -897,7 +1727,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -915,7 +1744,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -933,7 +1761,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -952,7 +1779,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "隐身塔",
       "第二期",
@@ -972,7 +1798,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -991,7 +1816,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -1010,7 +1834,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "隐身塔",
       "第二期",
@@ -1030,7 +1853,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -1049,7 +1871,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -1068,7 +1889,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "隐身塔",
       "狂暴塔",
       "第二期",
@@ -1087,7 +1907,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -1105,7 +1924,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "熔岩发射器"
@@ -1123,7 +1941,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -1141,7 +1958,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "隐身塔",
       "第二期",
@@ -1160,7 +1976,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -1178,7 +1993,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -1196,7 +2010,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -1214,7 +2027,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -1232,7 +2044,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "熔岩发射器"
@@ -1250,7 +2061,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -1268,7 +2078,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "隐身塔",
       "第二期",
@@ -1287,7 +2096,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器",
@@ -1306,7 +2114,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "毒药塔",
       "第二期",
@@ -1325,7 +2132,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器",
@@ -1344,7 +2150,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "熔岩发射器",
@@ -1363,7 +2168,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -1381,7 +2185,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -1399,7 +2202,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "熔岩发射器"
@@ -1417,7 +2219,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "熔岩发射器"
@@ -1435,7 +2236,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "熔岩发射器"
@@ -1453,7 +2253,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "隐身塔",
       "第二期",
@@ -1472,7 +2271,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "熔岩发射器"
@@ -1490,7 +2288,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "熔岩发射器"
@@ -1508,7 +2305,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "狂暴塔",
       "第二期",
@@ -1527,7 +2323,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "熔岩发射器"
@@ -1545,7 +2340,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -1564,7 +2358,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -1583,7 +2376,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -1602,7 +2394,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "空中炸弹发射器"
@@ -1621,7 +2412,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -1640,7 +2430,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -1659,7 +2448,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "隐身塔",
       "第二期",
       "熔岩发射器"
@@ -1678,7 +2466,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -1697,7 +2484,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -1715,7 +2501,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "熔岩发射器"
@@ -1734,7 +2519,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "空中炸弹发射器"
@@ -1753,7 +2537,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -1771,7 +2554,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "隐身塔",
       "第二期",
@@ -1790,7 +2572,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -1808,7 +2589,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "隐身塔",
       "第二期",
@@ -1827,7 +2607,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "熔岩发射器"
@@ -1845,7 +2624,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -1863,7 +2641,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -1881,7 +2658,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -1899,7 +2675,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "隐身塔",
       "第二期",
@@ -1918,7 +2693,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -1936,7 +2710,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -1954,7 +2727,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "熔岩发射器"
@@ -1972,7 +2744,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -1990,7 +2761,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -2008,7 +2778,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -2026,7 +2795,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -2044,7 +2812,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "熔岩发射器"
@@ -2062,7 +2829,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "熔岩发射器"
@@ -2080,7 +2846,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -2098,7 +2863,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器",
@@ -2117,7 +2881,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "熔岩发射器"
@@ -2135,7 +2898,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -2153,7 +2915,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "熔岩发射器"
@@ -2171,7 +2932,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "毒药塔",
       "第二期",
@@ -2190,7 +2950,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "熔岩发射器"
@@ -2208,7 +2967,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -2226,7 +2984,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -2245,7 +3002,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "毒药塔",
       "狂暴塔",
       "第二期",
@@ -2265,7 +3021,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "熔岩发射器"
@@ -2283,7 +3038,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "狂暴塔",
       "第二期",
@@ -2303,7 +3057,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -2321,7 +3074,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -2339,7 +3091,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -2357,7 +3108,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "熔岩发射器"
@@ -2375,7 +3125,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -2393,7 +3142,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -2411,7 +3159,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -2429,7 +3176,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -2447,7 +3193,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -2465,7 +3210,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -2483,7 +3227,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -2502,7 +3245,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -2521,7 +3263,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -2540,7 +3281,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -2559,7 +3299,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -2578,7 +3317,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -2596,7 +3334,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -2614,7 +3351,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -2632,7 +3368,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -2650,7 +3385,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -2668,7 +3402,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -2686,7 +3419,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "毒药塔",
       "第二期",
@@ -2705,7 +3437,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -2723,7 +3454,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -2741,7 +3471,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -2759,7 +3488,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "熔岩发射器",
@@ -2778,7 +3506,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -2796,7 +3523,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -2815,7 +3541,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -2834,7 +3559,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -2853,7 +3577,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -2871,7 +3594,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -2889,7 +3611,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -2908,7 +3629,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -2927,7 +3647,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -2946,7 +3665,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -2965,7 +3683,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -2984,7 +3701,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3003,7 +3719,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -3022,7 +3737,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3041,7 +3755,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "毒药塔",
       "狂暴塔",
       "第二期",
@@ -3061,7 +3774,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -3080,7 +3792,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -3099,7 +3810,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -3117,7 +3827,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -3135,7 +3844,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -3153,7 +3861,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3172,7 +3879,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3191,7 +3897,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3210,7 +3915,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "毒药塔",
       "狂暴塔",
       "第二期",
@@ -3230,7 +3934,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -3249,7 +3952,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3267,7 +3969,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3286,7 +3987,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "毒药塔",
       "第二期",
@@ -3306,7 +4006,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3324,7 +4023,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3343,7 +4041,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -3361,7 +4058,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "狂暴塔",
       "第二期",
@@ -3380,7 +4076,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3398,7 +4093,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3416,7 +4110,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "空中炸弹发射器"
@@ -3434,7 +4127,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -3452,7 +4144,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3470,7 +4161,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3488,7 +4178,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3506,7 +4195,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3525,7 +4213,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "毒药塔",
       "狂暴塔",
       "第二期",
@@ -3545,7 +4232,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -3563,7 +4249,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3581,7 +4266,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3599,7 +4283,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3618,7 +4301,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "毒药塔",
       "隐身塔",
       "第二期",
@@ -3638,7 +4320,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3657,7 +4338,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3675,7 +4355,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3693,7 +4372,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3711,7 +4389,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3730,7 +4407,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -3749,7 +4425,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "空中炸弹发射器"
@@ -3768,7 +4443,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -3786,7 +4460,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "隐身塔",
       "第二期",
@@ -3805,7 +4478,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3823,7 +4495,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3841,7 +4512,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3859,7 +4529,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3877,7 +4546,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "空中炸弹发射器"
@@ -3895,7 +4563,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3913,7 +4580,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "隐身塔",
       "第二期",
@@ -3932,7 +4598,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3950,7 +4615,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3968,7 +4632,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -3986,7 +4649,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "毒药塔",
       "第二期",
@@ -4005,7 +4667,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4023,7 +4684,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4041,7 +4701,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4060,7 +4719,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "隐身塔",
       "毒药塔",
       "第二期",
@@ -4079,7 +4737,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4097,7 +4754,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4116,7 +4772,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4135,7 +4790,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4154,7 +4808,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4173,7 +4826,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4192,7 +4844,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "熔岩发射器"
@@ -4211,7 +4862,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4230,7 +4880,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩火炮"
@@ -4249,7 +4898,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4268,7 +4916,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "熔岩发射器"
@@ -4286,7 +4933,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4305,7 +4951,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4324,7 +4969,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "毒药塔",
       "第二期",
@@ -4344,7 +4988,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4362,7 +5005,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "熔岩发射器"
@@ -4380,7 +5022,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "熔岩发射器"
@@ -4398,7 +5039,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "熔岩发射器"
@@ -4417,7 +5057,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4436,7 +5075,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4455,7 +5093,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4473,7 +5110,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4491,7 +5127,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4509,7 +5144,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4527,7 +5161,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "隐身塔",
       "第二期",
@@ -4546,7 +5179,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4564,7 +5196,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "隐身塔",
       "第二期",
@@ -4583,7 +5214,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "熔岩发射器"
@@ -4602,7 +5232,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4621,7 +5250,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4639,7 +5267,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4658,7 +5285,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "毒药塔",
       "狂暴塔",
       "第二期",
@@ -4678,7 +5304,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4697,7 +5322,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "毒药塔",
       "第二期",
@@ -4717,7 +5341,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "毒药塔",
       "隐身塔",
       "第二期",
@@ -4736,7 +5359,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4754,7 +5376,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4772,7 +5393,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4790,7 +5410,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4808,7 +5427,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4826,7 +5444,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -4844,7 +5461,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "隐身塔"
     ],
@@ -4861,7 +5477,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "隐身塔"
     ],
     "description": "源自：b站coc-挽风",
@@ -4892,7 +5507,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔"
     ],
     "description": "源自：b站coc-挽风",
@@ -4908,7 +5522,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔"
     ],
     "description": "源自：b站coc-挽风",
@@ -4924,7 +5537,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔"
     ],
     "description": "源自：b站coc-挽风",
@@ -4940,7 +5552,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔"
     ],
     "description": "源自：b站coc-挽风",
@@ -4956,7 +5567,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔"
     ],
     "description": "源自：b站coc-挽风",
@@ -4972,7 +5582,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔"
     ],
     "description": "源自：b站coc-挽风",
@@ -4988,7 +5597,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔"
     ],
     "description": "源自：b站coc-挽风",
@@ -5004,7 +5612,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔"
     ],
     "description": "源自：b站coc-挽风",
@@ -5020,7 +5627,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "毒药塔",
@@ -5039,7 +5645,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -5057,7 +5662,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -5075,7 +5679,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -5093,7 +5696,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -5111,7 +5713,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -5129,7 +5730,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -5147,7 +5747,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "毒药塔",
       "第二期",
       "熔岩发射器"
@@ -5165,7 +5764,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -5183,7 +5781,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -5201,7 +5798,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -5219,7 +5815,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -5238,7 +5833,6 @@
       "国服",
       "18本",
       "15本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -5256,7 +5850,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩火炮"
@@ -5274,7 +5867,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "毒药塔",
@@ -5293,7 +5885,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩火炮"
@@ -5312,7 +5903,6 @@
       "国服",
       "18本",
       "15本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -5330,7 +5920,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -5348,7 +5937,6 @@
       "冲杯",
       "国服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "第二期",
       "熔岩发射器"
@@ -5364,7 +5952,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AWB%3AAAAAEgAAAALLZRPCR6Zwc0Bx8Qh06ozk",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5383,7 +5970,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAQwAAAAI9SfQiU-joqIqdgrtILkxc&th=4FcC6qN",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5402,7 +5988,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAGQAAAAKvfYLFVVadCSGeR0A_rnEl&th=i7ZPpSj",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5421,7 +6006,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAUgAAAAHyAJ8vrIQUxCu7YuUZ71_j",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5440,7 +6024,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALTtZKoMMJadJQ_ZJIL4zVi",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5459,7 +6042,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALTtYBu2LTBuPi7l02mZeuh",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5479,7 +6061,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5497,7 +6078,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5516,7 +6096,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5534,7 +6113,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5552,7 +6130,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAAgAAAAMaGBYXy0MQXA-KT0PEx66w&th=aPOsRmK",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5571,7 +6148,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAGQAAAAKvlGffPUvQh148Lk2Pn3Jc&th=vmbQveH",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5590,7 +6166,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAGwAAAAKuPINFIqyTZY4HkybcaajZ",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5609,7 +6184,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALTtX21I2ir5mmrV-9h1-_T",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5628,7 +6202,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AHV%3AAAAAKQAAAAKiDhlgpGanWXuw-bmbtBq_",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5647,7 +6220,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AWB%3AAAAAEgAAAALLZRPCR6Zwc0Bx8Qh06ozk",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5666,7 +6238,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AWB%3AAAAADQAAAALKTYoeyNxjwbOMrEMYnn4z",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5685,7 +6256,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AHV%3AAAAAOQAAAAJlfhUs57aM13rmjyGJPFP_",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5705,7 +6275,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAFAAAAAK1lGmJuRHDAmDhCGP8O-gn",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5725,7 +6294,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAPAAAAAJSbjw5d8B_m4vT7FHHQZi9",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5744,7 +6312,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAAgAAAAMZpr1WrlFiyTjgzWgsAIAj",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5763,7 +6330,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAOQAAAAJiuGlO1cFRITFZ_tIWpK2H",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5782,7 +6348,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAFAAAAAK0oe4tUjJlg-212PrtkdJk",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5801,7 +6366,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADAAAAALHz_48ttHQZPYr00AipKCr",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5820,7 +6384,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAMQAAAAKAacNTsbTekPh8axlO-OYf",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5839,7 +6402,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAVQAAAAHwxpGMljT2B27RdESuupOL",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5858,7 +6420,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAVQAAAAHwxSOtcw0cXcv-ApvL4QVF",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5877,7 +6438,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAVQAAAAHwxSGv9qLiBC4WZh1i1AP4",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5897,7 +6457,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAVQAAAAHxxfqHJ1-wSz9O87Xqj7KQ",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5916,7 +6475,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAVQAAAAHxxfsiyZ9e9cyQdvgYexT0",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5936,7 +6494,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAVQAAAAHxxa7ufqlu_6qZv4PKcyfQ",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5955,7 +6512,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALSrjtnTC6GfAlqLbpowKNM",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5974,7 +6530,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALSriRHNkT5yhGtza9tu8AI",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -5993,7 +6548,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALSre9RnJLqcU-tw7kjVDXL",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6013,7 +6567,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAARwAAAAI-KmJMnGxQNNb0e1T9Y6Ga",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "狂暴塔",
@@ -6032,7 +6585,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "毒药塔",
@@ -6050,7 +6602,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6068,7 +6619,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6086,7 +6636,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6104,7 +6653,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6122,7 +6670,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "熔岩发射器",
@@ -6140,7 +6687,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "熔岩发射器",
@@ -6158,7 +6704,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "熔岩发射器",
@@ -6176,7 +6721,6 @@
     "internationalLink": "https://link.clashofclans.com/fr/?action=OpenLayout&id=TH18%3AWB%3AAAAAVwAAAAHmuEWb2kfh-Cj_stLZVato",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "狂暴塔",
@@ -6195,7 +6739,6 @@
     "internationalLink": "https://link.clashofclans.com/pt/?action=OpenLayout&id=TH18%3AWB%3AAAAANAAAAAJq-MRjDLXpyke8ViUzebcF",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "狂暴塔",
@@ -6214,7 +6757,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAANAAAAAJsNgDHJRi3ga6YX4Bp3mXL",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6233,7 +6775,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAVQAAAAHtfZgGkkkl_zqsn-q5pJhF",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6253,7 +6794,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALSVXdBTQJkG6xMYPqS7mNy",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6272,7 +6812,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALSVRy4vnRcygYSblYOL2PI",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6295,7 +6834,6 @@
       "狂暴塔",
       "国服",
       "国际服",
-      "有精致台",
       "第二期",
       "熔岩发射器"
     ],
@@ -6310,7 +6848,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AWB%3AAAAAVQAAAAHwegKULc189c0Ci3mgUREU",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6329,7 +6866,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAANAAAAAJvhtC54_r07dNovqGH_UiU",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6348,7 +6884,6 @@
     "internationalLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAQgAAAAJNeiyvU4znN3BGl5PRQuwM",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6367,7 +6902,6 @@
     "internationalLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAAQgAAAAJNeY-sCOt0tWNDs7TbX9Cd",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6387,7 +6921,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAARwAAAAI9yUvwCOsq4MEbI4DufMXM",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6406,7 +6939,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAARwAAAAI9yUzxG6y19qVQ7FvJ4d3n",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6429,7 +6961,6 @@
       "狂暴塔",
       "国服",
       "国际服",
-      "有精致台",
       "第二期",
       "熔岩发射器"
     ],
@@ -6444,7 +6975,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAARwAAAAI9yd2wOPiKgZWQrJeXLzIT",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6462,7 +6992,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAARwAAAAI9yVBItW1O6PETuYRbf9Ko",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6480,7 +7009,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAARwAAAAI9yU-3d3kNnlPqH6_D1K1k",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6498,7 +7026,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAARwAAAAI9yU8JsJR_JuNeuQpP6xxS",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "狂暴塔",
@@ -6516,7 +7043,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAARwAAAAI9yU56mkdK3kzoW2zIPL0p",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "狂暴塔",
@@ -6534,7 +7060,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAARwAAAAI9yU3zMjWvIMj2iYSSA9we",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6552,7 +7077,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAARwAAAAI9yU2C9w9iGrbaL38CKpGo",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6571,7 +7095,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAARwAAAAI9yUzxG6y19qVQ7FvJ4d3n",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6589,7 +7112,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAARwAAAAI9yUxcAaKUaiuT3i3mTyUI",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6610,7 +7132,6 @@
       "18本",
       "狂暴塔",
       "国际服",
-      "有精致台",
       "第二期",
       "熔岩发射器"
     ],
@@ -6625,7 +7146,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩火炮",
       "18本",
@@ -6644,7 +7164,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩火炮",
       "18本",
@@ -6662,7 +7181,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "狂暴塔",
@@ -6681,7 +7199,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "狂暴塔",
@@ -6699,7 +7216,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩火炮",
       "18本",
@@ -6717,7 +7233,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "狂暴塔",
@@ -6736,7 +7251,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6754,7 +7268,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6772,7 +7285,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6790,7 +7302,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6809,7 +7320,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6827,7 +7337,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6846,7 +7355,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6864,7 +7372,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6883,7 +7390,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "狂暴塔",
@@ -6901,7 +7407,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "狂暴塔",
@@ -6920,7 +7425,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6938,7 +7442,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6956,7 +7459,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6975,7 +7477,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -6994,7 +7495,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7012,7 +7512,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7030,7 +7529,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7048,7 +7546,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7067,7 +7564,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7085,7 +7581,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "国服",
@@ -7103,7 +7598,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7121,7 +7615,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7139,7 +7632,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7157,7 +7649,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7175,7 +7666,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALSVKskE65ruL1ppfm-Gf-o",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7194,7 +7684,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAATQAAAAH-Snk-y0I7Y6G8n9b6Od2i",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7213,7 +7702,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAMgAAAAJ95Q8qLSYtZxuhH_WL_yxb",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7232,7 +7720,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAANQAAAAJwiep-GbbRBf7I0zgqiAib",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7255,7 +7742,6 @@
       "狂暴塔",
       "国服",
       "国际服",
-      "有精致台",
       "第二期",
       "熔岩发射器"
     ],
@@ -7270,7 +7756,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAMQAAAAJ-5u7zTYf5p6S4KaXAf4ky",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7289,7 +7774,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAVQAAAAHwcXCISlcgyRkIGucLVmot",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7309,7 +7793,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALQhedK9N7mJLWSUmasQvyk",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7328,7 +7811,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAFQAAAAK3UIDUpc-QaD1iJsMwPfjd",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7352,7 +7834,6 @@
       "狂暴塔",
       "国服",
       "国际服",
-      "有精致台",
       "第二期",
       "熔岩发射器"
     ],
@@ -7367,7 +7848,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7386,7 +7866,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALRtIOk1nRIoWsiO6cLZgZq",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7405,7 +7884,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALRtGVQj1F0utOnqZG7sn-i",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7424,7 +7902,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALRgqMxbD1dgsegHdwebcEp",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7444,7 +7921,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALRgtYCBXm9O18BZrzNDHGz",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7463,7 +7939,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAXAAAAAHRDFAT30UBAntXf3TX__Nc",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7482,7 +7957,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAXAAAAAHRDCmbs7oXWHnjSD9JYjJC",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7501,7 +7975,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAXAAAAAHRDCQulzQDRHINOs1BZfJF",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7520,7 +7993,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAXAAAAAHRC_YhW5PufW5ntSGMbqa3",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "狂暴塔",
@@ -7541,7 +8013,6 @@
       "冲杯",
       "18本",
       "狂暴塔",
-      "有精致台",
       "第二期",
       "国服",
       "国际服",
@@ -7558,7 +8029,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "狂暴塔",
@@ -7576,7 +8046,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩火炮",
       "18本",
@@ -7594,7 +8063,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "狂暴塔",
@@ -7612,7 +8080,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "毒药塔",
@@ -7630,7 +8097,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "毒药塔",
@@ -7648,7 +8114,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7666,7 +8131,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7685,7 +8149,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7703,7 +8166,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "狂暴塔",
@@ -7721,7 +8183,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩火炮",
       "18本",
@@ -7739,7 +8200,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩火炮",
       "18本",
@@ -7760,7 +8220,6 @@
       "18本",
       "狂暴塔",
       "国服",
-      "有精致台",
       "第二期",
       "熔岩火炮"
     ],
@@ -7775,7 +8234,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAJAAAAAKqXy8qZ7V858WJ9JhcORts",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7793,7 +8251,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAJAAAAAKqXxzXxDzbryUl2kjgZ1Rb",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7811,7 +8268,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAJAAAAAKqXxSxL8Kdwkjc53CG5tsT",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7830,7 +8286,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAJAAAAAKqXwHEN59u5QEPFO39seRS",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7848,7 +8303,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAJAAAAAKqK3AiGm9Nl0IIMk_w18Jc",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7869,7 +8323,6 @@
       "18本",
       "狂暴塔",
       "国际服",
-      "有精致台",
       "第二期",
       "熔岩发射器"
     ],
@@ -7884,7 +8337,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAOQAAAAJoEcGZ8_j-PilmnkDIRbQX",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7902,7 +8354,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAJAAAAAKqJoy6r_wj8Ulq1Vdhnt8r",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7920,7 +8371,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAJAAAAAKqOVMBnTn909MRs5mNWX57",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7938,7 +8388,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAMQAAAAJ_TPRB4XJuf62ssRjVdv7j",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "毒药塔",
@@ -7957,7 +8406,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAVQAAAAHwirVP_FDQiK4H-gN4Cv4Q",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "隐身塔",
@@ -7976,7 +8424,6 @@
     "internationalLink": "https://link.clashofclans.com/vi/?action=OpenLayout&id=TH18%3AWB%3AAAAAPwAAAAJMCjd4ppYUUwuvGgdnDiVb",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -7995,7 +8442,6 @@
     "internationalLink": "https://link.clashofclans.com/vi/?action=OpenLayout&id=TH18%3AWB%3AAAAAPwAAAAJMCj4doU0CXMuhUqocU1-P",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -8013,7 +8459,6 @@
     "internationalLink": "https://link.clashofclans.com/vi/?action=OpenLayout&id=TH18%3AWB%3AAAAAPwAAAAJMCmHXf9rl2o-7W5vtPgPr",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -8031,7 +8476,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAFAAAAAK1Mkb1bHY7RCkcODngAcMA",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -8049,7 +8493,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAAgAAAAMY4glU1kxl8n39CPqL76y5",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -8067,7 +8510,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAMQAAAAJ_XAstS6XerGw45TO6aZEL",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "毒药塔",
@@ -8085,7 +8527,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAACwAAAALJIKLHiMLDbMjh98cpsScm",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "狂暴塔",
@@ -8103,7 +8544,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAOAAAAAJ31_zHyiAGRkfHVCkyDyiw",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -8124,7 +8564,6 @@
       "18本",
       "狂暴塔",
       "国际服",
-      "有精致台",
       "第二期",
       "熔岩发射器"
     ],
@@ -8139,7 +8578,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "狂暴塔",
@@ -8157,7 +8595,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -8176,7 +8613,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -8194,7 +8630,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -8212,7 +8647,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -8230,7 +8664,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -8251,7 +8684,6 @@
       "18本",
       "狂暴塔",
       "国服",
-      "有精致台",
       "第二期",
       "熔岩发射器"
     ],
@@ -8266,7 +8698,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -8285,7 +8716,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "毒药塔",
@@ -8303,7 +8733,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -8321,7 +8750,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -8343,7 +8771,6 @@
       "18本",
       "狂暴塔",
       "国服",
-      "有精致台",
       "第二期",
       "熔岩发射器"
     ],
@@ -8358,7 +8785,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAASAAAAAIYgXH0O16uOZxaxBVxpyWT",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "国际服",
       "18本",
@@ -8376,7 +8802,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAASAAAAAIYgXBs9HJl6Z5E_Bd5ubl0",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "狂暴塔",
@@ -8394,7 +8819,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAASAAAAAIYgW_ZNNomUr1jwcZ1kplm",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "狂暴塔",
@@ -8413,7 +8837,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAASAAAAAIYgW8-XjEr4xvaLgIKzXeT",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -8436,7 +8859,6 @@
       "毒药塔",
       "狂暴塔",
       "国际服",
-      "有精致台",
       "第二期",
       "熔岩发射器"
     ],
@@ -8451,7 +8873,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALPpMzati3mqB-nYnWJcsVr",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "狂暴塔",
@@ -8472,7 +8893,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALP2edb6ut4t2aLGYb1Q6Pg",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "狂暴塔",
@@ -8491,7 +8911,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAGwAAAAKsnQwxCDruZPadZaWP9KIm",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "狂暴塔",
@@ -8510,7 +8929,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAMAAAAAJ_DnLDLhtRHu8RGXiW-_0K",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "狂暴塔",
@@ -8531,7 +8949,6 @@
       "冲杯",
       "18本",
       "狂暴塔",
-      "有精致台",
       "第二期",
       "熔岩火炮",
       "国服",
@@ -8548,7 +8965,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALRV4Q5gYyUo0I31hFuWYzA",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩火炮",
       "18本",
@@ -8566,7 +8982,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALRV0nVMd3Bagz7MXzndLpK",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "18本",
       "毒药塔",
@@ -8584,7 +8999,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAVQAAAAHwSpn-GRwpC_la-gYPsr-t",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -8602,7 +9016,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAVQAAAAHwSMELuZipIQvx7XZluB5o",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -8620,7 +9033,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAASAAAAAIYgW8-XjEr4xvaLgIKzXeT",
     "tags": [
       "冲杯",
-      "有精致台",
       "第二期",
       "熔岩发射器",
       "18本",
@@ -8643,7 +9055,6 @@
       "毒药塔",
       "狂暴塔",
       "国际服",
-      "有精致台",
       "第二期",
       "熔岩发射器"
     ],
@@ -8658,7 +9069,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "无精致台",
       "17本",
       "狂暴塔",
       "隐身塔",
@@ -8676,7 +9086,6 @@
     "internationalLink": "",
     "tags": [
       "冲杯",
-      "无精致台",
       "17本",
       "狂暴塔",
       "国服"
@@ -8696,8 +9105,7 @@
       "17本",
       "狂暴塔",
       "隐身塔",
-      "国服",
-      "无精致台"
+      "国服"
     ],
     "description": "源自：b站ekwaak\r\n2026-04-01测试，国服链接可用",
     "createdAt": "2026-04-01T14:56:34.745Z",
@@ -8712,7 +9120,6 @@
     "tags": [
       "18本",
       "冲杯",
-      "有精致台",
       "狂暴塔",
       "国服",
       "国际服",
@@ -8731,7 +9138,6 @@
     "tags": [
       "18本",
       "冲杯",
-      "有精致台",
       "狂暴塔",
       "国服",
       "第一期"
@@ -8749,7 +9155,6 @@
     "tags": [
       "18本",
       "冲杯",
-      "有精致台",
       "狂暴塔",
       "国服",
       "国际服",
@@ -8768,7 +9173,6 @@
     "tags": [
       "18本",
       "冲杯",
-      "有精致台",
       "狂暴塔",
       "国服",
       "国际服",
@@ -8787,7 +9191,6 @@
     "tags": [
       "18本",
       "冲杯",
-      "有精致台",
       "狂暴塔",
       "国服",
       "国际服",
@@ -8806,7 +9209,6 @@
     "tags": [
       "18本",
       "冲杯",
-      "有精致台",
       "狂暴塔",
       "国服",
       "国际服",
@@ -8825,7 +9227,6 @@
     "tags": [
       "18本",
       "冲杯",
-      "有精致台",
       "狂暴塔",
       "国服",
       "国际服",
@@ -8847,7 +9248,6 @@
       "国际服",
       "18本",
       "冲杯",
-      "有精致台",
       "第一期"
     ],
     "description": "源自：b站coc星辉",
@@ -8862,7 +9262,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAADgAAAALPZh8HG1f46XdXVCsApB1O",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -8881,7 +9280,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAADgAAAALPZeidIQrIo1QQ89-DNMIR",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -8901,7 +9299,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AHV%3AAAAAGAAAAAKrLEDhRSF8HE51I1pd0DpR",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -8920,7 +9317,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AHV%3AAAAARQAAAAI7BS1c7r8VG9NcL-TQBQFv",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -8940,7 +9336,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AWB%3AAAAAGAAAAAKrLJlcRZc7HbLHj5-jvLAM",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -8960,7 +9355,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "毒药塔",
@@ -8979,7 +9373,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -9000,7 +9393,6 @@
       "国服",
       "18本",
       "毒药塔",
-      "有精致台",
       "冲杯",
       "第一期"
     ],
@@ -9017,7 +9409,6 @@
     "tags": [
       "18本",
       "冲杯",
-      "有精致台",
       "国服",
       "国际服",
       "毒药塔",
@@ -9037,7 +9428,6 @@
     "tags": [
       "18本",
       "冲杯",
-      "有精致台",
       "狂暴塔",
       "国服",
       "国际服",
@@ -9056,7 +9446,6 @@
     "tags": [
       "18本",
       "冲杯",
-      "有精致台",
       "狂暴塔",
       "国服",
       "国际服",
@@ -9075,7 +9464,6 @@
     "tags": [
       "18本",
       "冲杯",
-      "有精致台",
       "狂暴塔",
       "国服",
       "国际服",
@@ -9094,7 +9482,6 @@
     "tags": [
       "18本",
       "冲杯",
-      "有精致台",
       "狂暴塔",
       "国服",
       "国际服",
@@ -9113,7 +9500,6 @@
     "tags": [
       "18本",
       "冲杯",
-      "有精致台",
       "国服",
       "国际服",
       "毒药塔",
@@ -9132,7 +9518,6 @@
     "tags": [
       "18本",
       "冲杯",
-      "有精致台",
       "狂暴塔",
       "国服",
       "国际服",
@@ -9154,7 +9539,6 @@
       "国际服",
       "18本",
       "冲杯",
-      "有精致台",
       "隐身塔",
       "第一期"
     ],
@@ -9170,7 +9554,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAVQAAAAHs5OON8yu-WS_x0gyQXK4K",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -9189,7 +9572,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AWB%3AAAAAKgAAAAKNEclOyDFufnYDjW2ejTvo",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -9208,7 +9590,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAOwAAAAJj5ombkZFgDiNUlFMbdGB-",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -9227,7 +9608,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -9245,7 +9625,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AHV%3AAAAARQAAAAI54gCnYbhhQUQGgKz_0YC9",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -9264,7 +9643,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALO1BEDfpO7pT_edfYtdzPR",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -9283,7 +9661,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALOVI8cWmGrmzc2Vcj_dtVi",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -9302,7 +9679,6 @@
     "internationalLink": "https://link.clashofclans.com/en/? action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALOVLKUM9wx3t2M3-6CGH6l",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -9321,7 +9697,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALOVL6pwGA_vmvQY5MP6s9q",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "隐身塔",
@@ -9341,7 +9716,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAAgAAAAMWDbPbTeASV0bq_737E_R5",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -9360,7 +9734,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALOnBeHpIDMO2acyAawhcMf",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -9379,7 +9752,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAJAAAAAKnItWwayNiC3UAiPYK2CkU",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -9398,7 +9770,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALO1IL_bxK6dBHFwaFMFoPd",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "隐身塔",
       "国服",
@@ -9418,7 +9789,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAOwAAAAJlLSpCOkva76gFWXyzNLlQ",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -9437,7 +9807,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAADQAAAALEYVmvQRPKLUmfF5FmDDpC",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -9456,7 +9825,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAANwAAAAJxFoHgmccosSGd1j06b90u",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -9475,7 +9843,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALOVMl_QdPo_H2iErr8O-td",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -9497,7 +9864,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "冲杯",
       "第一期"
     ],
@@ -9513,7 +9879,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAKgAAAAKL7EtHQ7mBYTassV2u55gB",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -9536,7 +9901,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "冲杯",
       "第一期"
     ],
@@ -9552,7 +9916,6 @@
     "internationalLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAAHwAAAAKnGO3TOJaibr4cg8ac4rMY",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国际服",
@@ -9570,7 +9933,6 @@
     "internationalLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAAHwAAAAKnGMOUcUMZs6QQyzJ5mimg",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国际服",
@@ -9588,7 +9950,6 @@
     "internationalLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAAHwAAAAKnGL2kMxK9IFmZBCbGJ8qs",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国际服",
@@ -9606,7 +9967,6 @@
     "internationalLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAAHwAAAAKnGLhVGEXxK5zuOdbSV4-w",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国际服",
@@ -9624,7 +9984,6 @@
     "internationalLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAAHwAAAAKnGLCcaEfG6jE9MSV6E0L9",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国际服",
@@ -9642,7 +10001,6 @@
     "internationalLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAAHwAAAAKnGKBRP-6ajrq9OBgeP5aO",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国际服",
@@ -9660,7 +10018,6 @@
     "internationalLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAAHwAAAAKnGJnYo6R6Ns1p7vJoO_Vs",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国际服",
@@ -9678,7 +10035,6 @@
     "internationalLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAAHwAAAAKnGIfHEovU469k-nbLePYx",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国际服",
@@ -9696,7 +10052,6 @@
     "internationalLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAAHwAAAAKnGHt5ccMwYoxhryt_Oko4",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国际服",
@@ -9714,7 +10069,6 @@
     "internationalLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AHV%3AAAAAHwAAAAKnGHV2ENArdX2sh8Eu1YjG",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国际服",
@@ -9732,7 +10086,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AWB%3AAAAAFAAAAAKxo6ukaa4frTageI5MzX-L",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -9751,7 +10104,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AHV%3AAAAAKgAAAAKMZBj3HeygzY0AXcYBubSr",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -9770,7 +10122,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AHV%3AAAAAKgAAAAKMcvGzfbJxcZecmEJ_b7MU",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "毒药塔",
@@ -9790,7 +10141,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAADQAAAALEq19yunWLQxhEHmXWohTD",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -9809,7 +10159,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAALQAAAAKNG5BmhiFlHfhcqaE3T0hO",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -9828,7 +10177,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -9847,7 +10195,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -9866,7 +10213,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -9884,7 +10230,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAANgAAAAJyzaQmVF3s-JDBXU9cSLOd",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -9903,7 +10248,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALMQBWOpwZCE5fkyj6k37KR",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -9923,7 +10267,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALMQCL3ITeodG-J_8lQx1ET",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "毒药塔",
@@ -9943,7 +10286,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAVQAAAAHsmWQ497ET-2ablZMMn31q",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "毒药塔",
@@ -9963,7 +10305,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALNjgazzS3L99-IjqLtNfc6",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "毒药塔",
@@ -9983,7 +10324,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -10001,7 +10341,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -10019,7 +10358,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -10037,7 +10375,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -10055,7 +10392,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -10073,7 +10409,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "狂暴塔",
@@ -10091,7 +10426,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -10109,7 +10443,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -10127,7 +10460,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -10147,7 +10479,6 @@
       "狂暴塔",
       "国服",
       "18本",
-      "有精致台",
       "冲杯",
       "第一期"
     ],
@@ -10163,7 +10494,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAABAAAAAMI-eHUDYwgS7Opk6XL9MED",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -10182,7 +10512,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAEQAAAALEgmXXNFINFLRXYzsTtsKh",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -10201,7 +10530,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAADQAAAALEhIYnYfgb7eQk9ueba5ga",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -10220,7 +10548,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAADQAAAALEhCmSLPKSduy4TlNawdvo",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -10239,7 +10566,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAADQAAAALEhAY55YALETscM1I-KtB4",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -10258,7 +10584,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAARQAAAAI2XT_ofUmBJ8_6lpGMLJMk",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -10277,7 +10602,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAEwAAAAK52SxTI2j4mDKlni5Fc3C-",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -10296,7 +10620,6 @@
     "internationalLink": "https://link.clashofclans.com/pt/?action=OpenLayout&id=TH18%3AWB%3AAAAAQgAAAAJHm5Q3IFlxnnbRAzVR_CVb",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -10315,7 +10638,6 @@
     "internationalLink": "https://link.clashofclans.com/jp/?action=OpenLayout&id=TH18%3AWB%3AAAAAAwAAAAMIsc5NLVA4Vhsf6xmJXiZZ",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -10334,7 +10656,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAALgAAAAKKTtemMfogmCzHFVN3Zpv3",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -10353,7 +10674,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAPAAAAAJLIv361BxZHytWW_wA5fhP",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -10372,7 +10692,6 @@
     "internationalLink": "https://link.clashofclans.com/fa/?action=OpenLayout&id=TH18%3AHV%3AAAAABAAAAAMIYmGM1_I9EplmeNdHfmS7",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -10391,7 +10710,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAADQAAAALD42bJ6S1lECFBLZ36yf7h",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -10413,7 +10731,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "冲杯",
       "第一期"
     ],
@@ -10429,7 +10746,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALL_3-mWvVGwbLQjuMmwr4g",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -10448,7 +10764,6 @@
     "internationalLink": "https://link.clashofclans.com/fa/?action=OpenLayout&id=TH18%3AHV%3AAAAABAAAAAMJDFhVhfr1f7UnBmeoARG4",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -10467,7 +10782,6 @@
     "internationalLink": "https://link.clashofclans.com/fa/?action=OpenLayout&id=TH18%3AWB%3AAAAABAAAAAMJDIAIG6qAOKaTJwof3HaR",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "隐身塔",
@@ -10487,7 +10801,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAVQAAAAHra5D_t9bpb3Im3zfdCHSa",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国际服",
@@ -10506,7 +10819,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAOwAAAAJhQUq3SJ0yvcKHdd8dccaw",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -10525,7 +10837,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALL_0rp1UaeKLMG24xciO3H",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -10544,7 +10855,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAAAAAAAMUIHoWQt4iwnK_138_FS9E",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -10563,7 +10873,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAALwAAAAJ5rnt1NG_0dJLxWQNRK8Tx",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -10582,7 +10891,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAATAAAAAH60mxxRf_JlT4Pj0Crxbnt",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -10604,7 +10912,6 @@
       "18本",
       "国服",
       "国际服",
-      "有精致台",
       "冲杯",
       "第一期"
     ],
@@ -10620,7 +10927,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH16%3AWB%3AAAAAWQAAAAHY1gWkmKfAaPQHZx7QKMYM",
     "tags": [
       "16本",
-      "无精致台",
       "冲杯",
       "狂暴塔",
       "国际服"
@@ -10637,7 +10943,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH16%3AWB%3AAAAAWQAAAAHY1gTOb-aUBXCtEuLdFIj-",
     "tags": [
       "16本",
-      "无精致台",
       "冲杯",
       "毒药塔",
       "国际服"
@@ -10654,7 +10959,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH16%3AWB%3AAAAAWQAAAAHY1gQQBkq1AczEPjxrj5A1",
     "tags": [
       "16本",
-      "无精致台",
       "冲杯",
       "毒药塔",
       "国际服"
@@ -10671,7 +10975,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH16%3AWB%3AAAAAWQAAAAHY1gLHsiZZQw_biW1TMzzL",
     "tags": [
       "16本",
-      "无精致台",
       "冲杯",
       "隐身塔",
       "狂暴塔",
@@ -10691,7 +10994,6 @@
       "毒药塔",
       "国际服",
       "16本",
-      "无精致台",
       "冲杯"
     ],
     "description": "2026-05-26测试，国际服链接可用",
@@ -10706,7 +11008,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AHV%3AAAAABgAAAALz5O7G8vECpaRGeT7R22t3",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国际服",
@@ -10724,7 +11025,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AHV%3AAAAABgAAAALz5Osp2lgd9CMm7djTkR9f",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国际服",
@@ -10742,7 +11042,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AHV%3AAAAABgAAAALz5OLXdMu5VDsEyZ6BwoFy",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国际服",
@@ -10762,7 +11061,6 @@
       "狂暴塔",
       "国际服",
       "18本",
-      "有精致台",
       "冲杯",
       "第一期"
     ],
@@ -10778,7 +11076,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -10796,7 +11093,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -10814,7 +11110,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -10832,7 +11127,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -10850,7 +11144,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "狂暴塔",
@@ -10869,7 +11162,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -10887,7 +11179,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "毒药塔",
@@ -10908,7 +11199,6 @@
       "狂暴塔",
       "国服",
       "18本",
-      "有精致台",
       "冲杯",
       "第一期"
     ],
@@ -10924,7 +11214,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -10942,7 +11231,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -10960,7 +11248,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -10979,7 +11266,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -10997,7 +11283,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -11015,7 +11300,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -11033,7 +11317,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -11051,7 +11334,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -11070,7 +11352,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -11089,7 +11370,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -11108,7 +11388,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "毒药塔",
@@ -11126,7 +11405,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -11144,7 +11422,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "狂暴塔",
@@ -11162,7 +11439,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "毒药塔",
@@ -11180,7 +11456,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -11198,7 +11473,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "狂暴塔",
@@ -11216,7 +11490,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "毒药塔",
@@ -11234,7 +11507,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "狂暴塔",
@@ -11252,7 +11524,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -11270,7 +11541,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "毒药塔",
@@ -11288,7 +11558,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -11306,7 +11575,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "狂暴塔",
@@ -11324,7 +11592,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -11342,7 +11609,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "隐身塔",
       "国服",
@@ -11361,7 +11627,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "隐身塔",
@@ -11379,7 +11644,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -11397,7 +11661,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "毒药塔",
@@ -11415,7 +11678,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "狂暴塔",
@@ -11433,7 +11695,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "隐身塔",
@@ -11453,7 +11714,6 @@
       "国服",
       "18本",
       "毒药塔",
-      "有精致台",
       "冲杯",
       "第一期"
     ],
@@ -11469,7 +11729,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAALgAAAAKKTtemMfogmCzHFVN3Zpv3",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -11488,7 +11747,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAABAAAAAMI-eHUDYwgS7Opk6XL9MED",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -11507,7 +11765,6 @@
     "internationalLink": "https://link.clashofclans.com/fa/?action=OpenLayout&id=TH18%3AWB%3AAAAABAAAAAMJDIAIG6qAOKaTJwof3HaR",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -11527,7 +11784,6 @@
     "internationalLink": "https://link.clashofclans.com/fa/?action=OpenLayout&id=TH18%3AHV%3AAAAABAAAAAMJDF6Rxpk9qPEjXVGXPdfR",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -11549,7 +11805,6 @@
       "国际服",
       "18本",
       "狂暴塔",
-      "有精致台",
       "冲杯",
       "第一期"
     ],
@@ -11565,7 +11820,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAEQAAAALEgmXXNFINFLRXYzsTtsKh",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国际服",
@@ -11584,7 +11838,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAHgAAAAKhMsa7ILJHn97IRo3QsOl3",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国际服",
       "国服",
@@ -11603,7 +11856,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AHV%3AAAAARQAAAAI2eZyYgWDVc6dQu5OukbsW",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国际服",
       "国服",
@@ -11624,7 +11876,6 @@
     "tags": [
       "18本",
       "狂暴塔",
-      "有精致台",
       "冲杯",
       "国际服",
       "国服",
@@ -11645,7 +11896,6 @@
       "国服",
       "18本",
       "狂暴塔",
-      "有精致台",
       "冲杯",
       "第一期"
     ],
@@ -20323,7 +20573,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "狂暴塔",
@@ -21769,7 +22018,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAVQAAAAHqbnYJ9kLGKeXekr3j2LS7",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -23216,7 +23464,6 @@
     "internationalLink": "https://link.clashofclans.com/de/?action=OpenLayout&id=TH18%3AWB%3AAAAAGAAAAAKl-bKbQfu1VPqNIBfNKM0v",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -24663,7 +24910,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAALwAAAAJ6ZDDWjL2xi8m8934iDWJh",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -26110,7 +26356,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAVgAAAAHg0hdWWtDsEf8VWTBHNp83",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -27557,7 +27802,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALKusvcar2BiesVFWggYEr7",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -29005,7 +29249,6 @@
     "internationalLink": "https://link.clashofclans.com/fa/?action=OpenLayout&id=TH18%3AHV%3AAAAABAAAAAMJDFhVhfr1f7UnBmeoARG4",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -30453,7 +30696,6 @@
     "tags": [
       "18本",
       "毒药塔",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -31904,7 +32146,6 @@
       "18本",
       "毒药塔",
       "隐身塔",
-      "有精致台",
       "冲杯",
       "第一期"
     ],
@@ -33348,7 +33589,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALKSvjxduTWM_1kaLwy_i4z",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -34795,7 +35035,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAVgAAAAHelpUmc14zZSX5SDNaVM70",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -36242,7 +36481,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAHgAAAAKgvPcHO2F1IoaN0DpfSYKy",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "毒药塔",
@@ -37690,7 +37928,6 @@
     "internationalLink": "https://link.clashofclans.com/fa/?action=OpenLayout&id=TH18%3AWB%3AAAAABAAAAAMIjRW4crtXObr2Tpskfi-J",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -39137,7 +39374,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALK-2dfWX8MXQC5WL7rLbxY",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -40588,7 +40824,6 @@
       "国际服",
       "18本",
       "狂暴塔",
-      "有精致台",
       "冲杯",
       "第一期"
     ],
@@ -42036,7 +42271,6 @@
       "国际服",
       "国服",
       "18本",
-      "有精致台",
       "第一期"
     ],
     "description": "源自：b站部落冲突XO",
@@ -53586,7 +53820,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAANQAAAAJn261qs846CbClS916dQkE",
     "tags": [
       "18本",
-      "有精致台",
       "国服",
       "国际服",
       "冲杯",
@@ -55033,7 +55266,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAPAAAAAJI9ykJcprudOmMoSFYLzK5",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -56480,7 +56712,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALK-u0FoAuzzTA6v-tPNLPf",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "隐身塔",
@@ -57928,7 +58159,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADwAAAALM7yGf5XG-PRP3yBietsTa",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -59379,7 +59609,6 @@
       "国际服",
       "18本",
       "毒药塔",
-      "有精致台",
       "冲杯",
       "第一期"
     ],
@@ -60823,7 +61052,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAUQAAAAHqVHsXMiA3N6o_iE_aYaZy",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -62270,7 +62498,6 @@
     "internationalLink": "https://link.clashofclans.com/cn/?action=OpenLayout&id=TH18%3AHV%3AAAAARwAAAAI2PZOTkFE_l4eNP7RFXRBR",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -63717,7 +63944,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAVQAAAAHqbnYJ9kLGKeXekr3j2LS7",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -65164,7 +65390,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAEAAAAALCrDH1VMEgyaObXU8PcYfO",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -66611,7 +66836,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAEwAAAAK4IGE5fMf-WKXEqtM_1P79",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -68062,7 +68286,6 @@
       "国际服",
       "18本",
       "毒药塔",
-      "有精致台",
       "冲杯",
       "第一期"
     ],
@@ -69506,7 +69729,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAACQAAAALaAKi0DhUaJqH2-doiy8D2",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -70953,7 +71175,6 @@
     "internationalLink": "https://link.clashofclans.com/id/?action=OpenLayout&id=TH18%3AWB%3AAAAANAAAAAJo0oQxQAYPOxRpM03hu3r7",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -72400,7 +72621,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAEwAAAAK1ofmYqzL6kflZhcc8ZaU9",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -73847,7 +74067,6 @@
     "internationalLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALK_1gV1kf-Bump8rrq3_Hj",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -75294,7 +75513,6 @@
     "internationalLink": "https://link.clashofclans.com/cn?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALK_0SzSS36PsJgAyH_6NzW",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -76742,7 +76960,6 @@
     "tags": [
       "18本",
       "狂暴塔",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -78190,7 +78407,6 @@
     "tags": [
       "18本",
       "狂暴塔",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -79638,7 +79854,6 @@
       "国服",
       "18本",
       "狂暴塔",
-      "有精致台",
       "冲杯",
       "第一期"
     ],
@@ -81082,7 +81297,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALKS0UyiU2s4BeZbT9iAxss",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -82529,7 +82743,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALKSykRfeWl3VSQRgvm76Sd",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -83977,7 +84190,6 @@
     "internationalLink": "",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "毒药塔",
@@ -85423,7 +85635,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AWB%3AAAAAGAAAAAKluOPJh_edW4f08MppwdQt",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -86871,7 +87082,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AHV%3AAAAATAAAAAH6JUynvL0HeqF3wrCCtx2u",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -88319,7 +88529,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAGAAAAAKl8ypr0gp_jJiSkyJS7D2p",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -89766,7 +89975,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAVQAAAAHqbnYJ9kLGKeXekr3j2LS7",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -91216,7 +91424,6 @@
       "国际服",
       "18本",
       "狂暴塔",
-      "有精致台",
       "冲杯",
       "第一期"
     ],
@@ -92660,7 +92867,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALKSvLBj5QhybmETJhE6jU7",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -94107,7 +94313,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALKStROsQB-e5_EmdMepFK_",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -95554,7 +95759,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAVQAAAAHpbFDtjuofpGqAuPe6YsIx",
     "tags": [
       "18本",
-      "有精致台",
       "狂暴塔",
       "冲杯",
       "国服",
@@ -97001,7 +97205,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AWB%3AAAAACQAAAALZAdmjPrQirPHAUjaRVPrX",
     "tags": [
       "18本",
-      "有精致台",
       "狂暴塔",
       "毒药塔",
       "冲杯",
@@ -98451,7 +98654,6 @@
       "国服",
       "国际服",
       "18本",
-      "有精致台",
       "狂暴塔",
       "毒药塔",
       "冲杯",
@@ -99897,7 +100099,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AHV%3AAAAAPwAAAAIg3js4RbDdLSPuQXuvWu8W",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "国际服",
       "国服",
@@ -101344,7 +101545,6 @@
     "internationalLink": "",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "国服",
       "狂暴塔"
@@ -102789,7 +102989,6 @@
     "internationalLink": "",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "国服",
       "毒药塔"
@@ -104234,7 +104433,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AWB%3AAAAAPwAAAAIglMv7Hd4ylWspvtFwDXO-",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -105681,7 +105879,6 @@
     "internationalLink": "",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "毒药塔",
       "国服"
@@ -107126,7 +107323,6 @@
     "internationalLink": "",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "国服",
       "毒药塔"
@@ -108571,7 +108767,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AWB%3AAAAAPwAAAAIfvfm1ZBYEo6puc5aDMAWm",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "狂暴塔",
       "国服",
@@ -110018,7 +110213,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AWB%3AAAAAPwAAAAIfuk9XTAKVys9UG6IZTj0N",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -111465,7 +111659,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AWB%3AAAAAPwAAAAIfvsCA3Wq9EjuTU5fWSwDM",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -112912,7 +113105,6 @@
     "internationalLink": "",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "国服",
       "狂暴塔"
@@ -114357,7 +114549,6 @@
     "internationalLink": "",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "毒药塔",
       "国服"
@@ -115802,7 +115993,6 @@
     "internationalLink": "",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "毒药塔",
       "国服"
@@ -117247,7 +117437,6 @@
     "internationalLink": "",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -118693,7 +118882,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AHV%3AAAAAPwAAAAIfRH-O78iskRhhe3eFakgJ",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -120139,7 +120327,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AHV%3AAAAAEwAAAAKMqFeDhEwtnqmnjpslVWuO",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -121585,7 +121772,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AWB%3AAAAAVAAAAAHHKLe9CM0PmVDYCiF4HnOO",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -123031,7 +123217,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AHV%3AAAAAVAAAAAHHKaGL--AaXbHhY9g3woL-",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -124477,7 +124662,6 @@
     "internationalLink": "",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "国服",
       "狂暴塔",
@@ -125923,7 +126107,6 @@
     "internationalLink": "",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "毒药塔",
       "国服"
@@ -127368,7 +127551,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AHV%3AAAAAPwAAAAIe4cnoVglvYs5R42Fgboy4",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -128814,7 +128996,6 @@
     "internationalLink": "",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "国服",
       "狂暴塔",
@@ -130260,7 +130441,6 @@
     "internationalLink": "",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -131706,7 +131886,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AHV%3AAAAAEwAAAAKMPXjqUVOYICq1UALCOfHo",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -133153,7 +133332,6 @@
     "internationalLink": "",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "毒药塔",
       "国服"
@@ -134598,7 +134776,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AWB%3AAAAAPwAAAAIevN6FWii5wx4Yfz9LUPXH",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -136044,7 +136221,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AWB%3AAAAAPwAAAAIeabLqFNGzxQoxUELN9bmt",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -137490,7 +137666,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AWB%3AAAAAPwAAAAIeal2Yp7GlytM_qK2UL9k7",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "国服",
       "狂暴塔",
@@ -138936,7 +139111,6 @@
     "internationalLink": "",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "国服",
       "毒药塔"
@@ -140381,7 +140555,6 @@
     "internationalLink": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AWB%3AAAAAPwAAAAIeIf7qPTd-b815MuE60-eP",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -141828,7 +142001,6 @@
     "tags": [
       "17本",
       "毒药塔",
-      "无精致台",
       "冲杯",
       "国服",
       "国际服"
@@ -143274,7 +143446,6 @@
     "tags": [
       "17本",
       "毒药塔",
-      "无精致台",
       "冲杯",
       "国服",
       "国际服"
@@ -144720,7 +144891,6 @@
     "tags": [
       "17本",
       "毒药塔",
-      "无精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -146170,7 +146340,6 @@
       "国际服",
       "17本",
       "毒药塔",
-      "无精致台",
       "冲杯"
     ],
     "description": "源自：b站ekwaak\r\n2026-04-01测试，国服链接可用\r\n2026-03-30测试，国际服链接可用",
@@ -147615,7 +147784,6 @@
       "国际服",
       "17本",
       "狂暴塔",
-      "无精致台",
       "冲杯",
       "防雷龙"
     ],
@@ -149059,7 +149227,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAAUgAAAAHp2PR9kB38TqyYp92ogdar",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -150507,7 +150674,6 @@
     "internationalLink": "https://link.clashofclans.com/fa/?action=OpenLayout&id=TH18%3AHV%3AAAAAEQAAAALDCROY6GZVuE6O72gHz-mE",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -151954,7 +152120,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAPAAAAAJK1lLSYvkHQu8EBQLwhGNV",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -153401,7 +153566,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALJYecZDIP-4F4GZkZ2vJsz",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -154851,7 +155015,6 @@
       "国际服",
       "18本",
       "毒药塔",
-      "有精致台",
       "冲杯",
       "第一期"
     ],
@@ -156295,7 +156458,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALFUpnh7jBXi7KDv3hbHcfh",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -157742,7 +157904,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAAgAAAAMQ2YTsa0t2AOYygryNOs5N&th=MWN9RVk",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -159189,7 +159350,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAADgAAAALJW9v3gzmtpWT19rclngGR",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -160636,7 +160796,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AHV%3AAAAAVwAAAAHggkOHR5aVKF31T6iblWQa",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "国服",
@@ -162083,7 +162242,6 @@
     "internationalLink": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH18%3AWB%3AAAAARQAAAAI0V0-jVBGYukyPtmmVCGHy",
     "tags": [
       "18本",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -163531,7 +163689,6 @@
     "tags": [
       "18本",
       "狂暴塔",
-      "有精致台",
       "冲杯",
       "国服",
       "国际服",
@@ -164981,7 +165138,6 @@
       "18本",
       "狂暴塔",
       "毒药塔",
-      "有精致台",
       "冲杯",
       "第一期"
     ],
@@ -166427,7 +166583,6 @@
       "国服",
       "18本",
       "狂暴塔",
-      "有精致台",
       "防陨石戈仑一字划",
       "第一期"
     ],
@@ -167871,7 +168026,6 @@
     "internationalLink": "",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "防火龙",
       "防根蔓",
@@ -169318,7 +169472,6 @@
     "internationalLink": "",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "防火龙",
       "防根蔓",
@@ -170765,7 +170918,6 @@
     "internationalLink": "",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "防火龙",
       "防根蔓",
@@ -172212,7 +172364,6 @@
     "internationalLink": "",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "防火龙",
       "防根蔓",
@@ -173660,7 +173811,6 @@
     "internationalLink": "",
     "tags": [
       "17本",
-      "无精致台",
       "冲杯",
       "防火龙",
       "防根蔓",
@@ -175108,7 +175258,6 @@
     "tags": [
       "17本",
       "狂暴塔",
-      "无精致台",
       "冲杯",
       "防火龙",
       "防根蔓",
@@ -176557,7 +176706,6 @@
       "国服",
       "17本",
       "狂暴塔",
-      "无精致台",
       "冲杯",
       "防火龙",
       "防根蔓"
@@ -182339,7 +182487,6 @@
       "国服",
       "17本",
       "毒药塔",
-      "无精致台",
       "冲杯",
       "防火龙"
     ],
@@ -183784,7 +183931,6 @@
     "tags": [
       "17本",
       "隐身塔",
-      "无精致台",
       "冲杯",
       "国服"
     ],
@@ -185229,7 +185375,6 @@
     "tags": [
       "17本",
       "隐身塔",
-      "无精致台",
       "冲杯",
       "国服",
       "2026-02-08测试，国服链接可用"
@@ -186675,7 +186820,6 @@
     "tags": [
       "17本",
       "隐身塔",
-      "无精致台",
       "冲杯",
       "国服"
     ],
@@ -188120,7 +188264,6 @@
     "tags": [
       "17本",
       "隐身塔",
-      "无精致台",
       "冲杯",
       "国服"
     ],
@@ -189565,7 +189708,6 @@
     "tags": [
       "17本",
       "隐身塔",
-      "无精致台",
       "冲杯",
       "国服"
     ],
@@ -191010,7 +191152,6 @@
     "tags": [
       "17本",
       "隐身塔",
-      "无精致台",
       "冲杯",
       "国服"
     ],
@@ -192455,7 +192596,6 @@
     "tags": [
       "17本",
       "隐身塔",
-      "无精致台",
       "冲杯",
       "国服"
     ],
@@ -193900,7 +194040,6 @@
     "tags": [
       "17本",
       "隐身塔",
-      "无精致台",
       "冲杯",
       "国服"
     ],
@@ -195346,7 +195485,6 @@
       "国服",
       "17本",
       "隐身塔",
-      "无精致台",
       "冲杯"
     ],
     "description": "源自：b站coc星辉\r\n2026-02-23测试，国服链接可用",
@@ -196790,7 +196928,6 @@
     "tags": [
       "18本",
       "国服",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "隐身塔",
@@ -198238,7 +198375,6 @@
       "18本",
       "国服",
       "狂暴塔",
-      "有精致台",
       "冲杯",
       "国际服",
       "防雷龙",
@@ -199686,7 +199822,6 @@
       "18本",
       "国服",
       "狂暴塔",
-      "有精致台",
       "冲杯",
       "第一期"
     ],
@@ -201131,7 +201266,6 @@
     "tags": [
       "18本",
       "国服",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "第一期"
@@ -202578,7 +202712,6 @@
       "18本",
       "国服",
       "国际服",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "第一期"
@@ -204026,7 +204159,6 @@
       "国服",
       "国际服",
       "狂暴塔",
-      "有精致台",
       "冲杯",
       "防雷龙",
       "第一期"
@@ -205475,7 +205607,6 @@
       "国际服",
       "狂暴塔",
       "隐身塔",
-      "有精致台",
       "冲杯",
       "防雷龙",
       "第一期"
@@ -208366,7 +208497,6 @@
       "18本",
       "国际服",
       "狂暴塔",
-      "有精致台",
       "护资源",
       "第一期"
     ],
@@ -222814,7 +222944,6 @@
     "tags": [
       "18本",
       "国服",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "狂暴塔",
@@ -224261,7 +224390,6 @@
     "tags": [
       "18本",
       "国服",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "第一期"
@@ -225708,7 +225836,6 @@
       "18本",
       "国服",
       "国际服",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "狂暴塔",
@@ -227156,7 +227283,6 @@
       "18本",
       "国服",
       "国际服",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "狂暴塔",
@@ -228604,7 +228730,6 @@
       "18本",
       "国服",
       "国际服",
-      "有精致台",
       "冲杯",
       "毒药塔",
       "第一期"
@@ -230051,7 +230176,6 @@
       "18本",
       "国服",
       "国际服",
-      "有精致台",
       "冲杯",
       "狂暴塔",
       "隐身塔",
@@ -231500,7 +231624,6 @@
       "国服",
       "国际服",
       "毒药塔",
-      "有精致台",
       "冲杯",
       "第一期"
     ],
@@ -232946,7 +233069,6 @@
       "17本",
       "国服",
       "毒药塔",
-      "无精致台",
       "冲杯",
       "部落战",
       "联赛"
@@ -234393,7 +234515,6 @@
       "17本",
       "国服",
       "毒药塔",
-      "无精致台",
       "冲杯",
       "部落战",
       "联赛",
@@ -235841,7 +235962,6 @@
       "17本",
       "国服",
       "毒药塔",
-      "无精致台",
       "冲杯",
       "部落战",
       "联赛"
@@ -237288,7 +237408,6 @@
       "17本",
       "国服",
       "狂暴塔",
-      "无精致台",
       "冲杯",
       "部落战",
       "联赛"
@@ -238735,7 +238854,6 @@
       "17本",
       "国服",
       "狂暴塔",
-      "无精致台",
       "冲杯",
       "部落战",
       "联赛",
@@ -240186,7 +240304,6 @@
       "冲杯",
       "部落战",
       "联赛",
-      "有精致台",
       "狂暴塔"
     ],
     "description": "源自：b站coc星辉\r\n2026-02-23测试，国服链接可用",
@@ -241634,8 +241751,7 @@
       "冲杯",
       "部落战",
       "联赛",
-      "毒药塔",
-      "有精致台"
+      "毒药塔"
     ],
     "description": "源自：b站coc星辉\r\n2026-03-30测试，国际服链接可用",
     "createdAt": "2026-01-30T04:39:33.309Z",
@@ -243082,8 +243198,7 @@
       "冲杯",
       "部落战",
       "联赛",
-      "毒药塔",
-      "有精致台"
+      "毒药塔"
     ],
     "description": "源自：b站coc星辉\r\n2026-03-30测试，国际服链接可用\r\n2026-02-23测试，国服链接可用",
     "createdAt": "2026-01-30T04:39:19.094Z",
@@ -244530,8 +244645,7 @@
       "部落战",
       "联赛",
       "隐身塔",
-      "毒药塔",
-      "有精致台"
+      "毒药塔"
     ],
     "description": "源自：b站coc星辉\r\n2026-02-23测试，国服链接可用",
     "createdAt": "2026-01-30T04:39:04.425Z",
@@ -245978,8 +246092,7 @@
       "冲杯",
       "部落战",
       "联赛",
-      "狂暴塔",
-      "有精致台"
+      "狂暴塔"
     ],
     "description": "源自：b站coc星辉\r\n2026-03-30测试，国际服链接可用",
     "createdAt": "2026-01-30T04:38:44.262Z",
@@ -247426,8 +247539,7 @@
       "冲杯",
       "部落战",
       "联赛",
-      "毒药塔",
-      "有精致台"
+      "毒药塔"
     ],
     "description": "源自：b站coc星辉\r\n2026-03-30测试，国际服链接可用\r\n2026-02-23测试，国服链接可用",
     "createdAt": "2026-01-30T04:38:27.328Z",
@@ -248872,7 +248984,6 @@
       "国服",
       "冲杯",
       "毒药塔",
-      "有精致台",
       "第一期"
     ],
     "description": "源自：b站coc星辉\r\n2026-04-02测试，国服链接可用",
@@ -250318,7 +250429,6 @@
       "国服",
       "冲杯",
       "狂暴塔",
-      "有精致台",
       "第一期"
     ],
     "description": "源自：b站coc星辉",
@@ -251765,7 +251875,6 @@
       "冲杯",
       "狂暴塔",
       "毒药塔",
-      "有精致台",
       "第一期"
     ],
     "description": "源自：b站coc星辉\r\n2026-03-30测试，国服链接可用",
@@ -253212,7 +253321,6 @@
       "冲杯",
       "狂暴塔",
       "毒药塔",
-      "有精致台",
       "第一期"
     ],
     "description": "源自：b站coc星辉",
@@ -254659,7 +254767,6 @@
       "冲杯",
       "狂暴塔",
       "毒药塔",
-      "有精致台",
       "第一期"
     ],
     "description": "源自：b站coc星辉\r\n2026-04-02测试，国服链接可用",
@@ -256105,7 +256212,6 @@
       "国服",
       "冲杯",
       "狂暴塔",
-      "有精致台",
       "防雷龙",
       "第一期"
     ],
@@ -257554,8 +257660,7 @@
       "联赛",
       "17本",
       "毒药塔",
-      "狂暴塔",
-      "有精致台"
+      "狂暴塔"
     ],
     "description": "源自：b站部落冲突XO\r\n2026-03-30测试，国际服链接可用\r\n2026-02-23测试，国服链接可用",
     "createdAt": "2026-01-30T04:25:40.026Z",
@@ -267670,8 +267775,7 @@
       "部落战",
       "联赛",
       "17本",
-      "毒药塔",
-      "有精致台"
+      "毒药塔"
     ],
     "description": "源自：b站部落冲突XO\r\n2026-02-23测试，国服链接可用",
     "createdAt": "2026-01-30T04:16:05.868Z",
@@ -276344,7 +276448,6 @@
       "联赛",
       "18本",
       "毒药塔",
-      "有精致台",
       "第一期"
     ],
     "description": "源自：b站部落冲突XO\r\n2026-04-02测试，国服链接可用",
@@ -277793,7 +277896,6 @@
       "17本",
       "毒药塔",
       "狂暴塔",
-      "无精致台",
       "2026-02-08测试，国服链接可用"
     ],
     "description": "源自：b站部落冲突XO\r\n2026-02-08测试，国服链接可用\r\n2026-03-30测试，国际服链接可用",
@@ -287915,7 +288017,6 @@
       "18本",
       "狂暴塔",
       "隐身塔",
-      "有精致台",
       "第一期"
     ],
     "description": "源自：b站部落冲突XO",
@@ -289363,8 +289464,7 @@
       "部落战",
       "联赛",
       "17本",
-      "狂暴塔",
-      "无精致台"
+      "狂暴塔"
     ],
     "description": "源自：b站部落冲突XO\r\n2026-03-30测试，国际服链接可用\r\n2026-02-23测试，国服链接可用",
     "createdAt": "2026-01-30T02:57:47.921Z",
@@ -299485,8 +299585,7 @@
       "17本",
       "国服",
       "冲杯",
-      "毒药塔",
-      "有精致台"
+      "毒药塔"
     ],
     "description": "源自：b站coc星辉\r\n2026-02-08测试，国服链接可用",
     "createdAt": "2026-01-30T02:04:21.809Z",
@@ -300931,8 +301030,7 @@
       "国服",
       "国际服",
       "冲杯",
-      "狂暴塔",
-      "有精致台"
+      "狂暴塔"
     ],
     "description": "源自：b站coc星辉\r\n2026-03-30测试，国际服链接可用",
     "createdAt": "2026-01-30T02:04:09.000Z",
@@ -302377,8 +302475,7 @@
       "国服",
       "国际服",
       "冲杯",
-      "毒药塔",
-      "有精致台"
+      "毒药塔"
     ],
     "description": "源自：b站coc星辉\r\n2026-05-26测试，国际服链接可用",
     "createdAt": "2026-01-30T02:03:52.178Z",
@@ -303823,8 +303920,7 @@
       "国服",
       "冲杯",
       "狂暴塔",
-      "毒药塔",
-      "有精致台"
+      "毒药塔"
     ],
     "description": "源自：b站coc星辉\r\n2026-02-23测试，国服链接可用",
     "createdAt": "2026-01-30T02:03:31.435Z",
@@ -305270,8 +305366,7 @@
       "国际服",
       "17本",
       "狂暴塔",
-      "隐身塔",
-      "有精致台"
+      "隐身塔"
     ],
     "description": "源自：b站coc星辉\r\n2026-05-26测试，国际服链接可用",
     "createdAt": "2026-01-30T01:56:14.282Z",
@@ -306717,7 +306812,6 @@
       "冲杯",
       "国际服",
       "毒药塔",
-      "有精致台",
       "第一期"
     ],
     "description": "源自：b站coc星辉",
@@ -308164,7 +308258,6 @@
       "冲杯",
       "国际服",
       "狂暴塔",
-      "有精致台",
       "防雷龙",
       "第一期"
     ],
@@ -309613,7 +309706,6 @@
       "国际服",
       "狂暴塔",
       "毒药塔",
-      "有精致台",
       "第一期"
     ],
     "description": "源自：b站coc星辉",
@@ -311061,7 +311153,6 @@
       "国际服",
       "狂暴塔",
       "隐身塔",
-      "有精致台",
       "第一期"
     ],
     "description": "源自：b站coc星辉",
@@ -312509,7 +312600,6 @@
       "国际服",
       "狂暴塔",
       "毒药塔",
-      "有精致台",
       "第一期"
     ],
     "description": "源自：b站coc星辉",
@@ -313955,7 +314045,6 @@
       "国服",
       "冲杯",
       "狂暴塔",
-      "有精致台",
       "第一期"
     ],
     "description": "源自：b站coc星辉",
@@ -315401,7 +315490,6 @@
       "国服",
       "冲杯",
       "狂暴塔",
-      "有精致台",
       "防雷龙",
       "第一期"
     ],
@@ -316849,7 +316937,6 @@
       "冲杯",
       "狂暴塔",
       "毒药塔",
-      "有精致台",
       "第一期"
     ],
     "description": "源自：b站coc星辉",
@@ -318296,7 +318383,6 @@
       "冲杯",
       "狂暴塔",
       "隐身塔",
-      "有精致台",
       "第一期"
     ],
     "description": "源自：b站coc星辉\r\n2026-03-30测试，国服链接可用",
@@ -319742,7 +319828,6 @@
       "国服",
       "冲杯",
       "狂暴塔",
-      "有精致台",
       "第一期"
     ],
     "description": "源自：b站coc星辉",
@@ -321188,7 +321273,6 @@
       "国服",
       "冲杯",
       "毒药塔",
-      "有精致台",
       "第一期"
     ],
     "description": "源自：b站coc星辉",
@@ -322634,7 +322718,6 @@
       "国服",
       "冲杯",
       "狂暴塔",
-      "有精致台",
       "防雷龙",
       "第一期"
     ],
@@ -324081,7 +324164,6 @@
       "国服",
       "冲杯",
       "狂暴塔",
-      "有精致台",
       "第一期"
     ],
     "description": "源自：b站coc星辉",
@@ -325528,7 +325610,6 @@
       "国际服",
       "冲杯",
       "狂暴塔",
-      "有精致台",
       "第一期"
     ],
     "description": "源自：b站coc星辉\r\n2026-05-26测试，国际服链接可用",
@@ -326975,7 +327056,6 @@
       "国际服",
       "冲杯",
       "狂暴塔",
-      "有精致台",
       "第一期"
     ],
     "description": "源自：b站coc星辉\r\n2026-05-26测试，国际服链接可用",
@@ -328423,7 +328503,6 @@
       "冲杯",
       "狂暴塔",
       "隐身塔",
-      "有精致台",
       "第一期"
     ],
     "description": "源自：b站coc星辉\r\n2026-05-26测试，国际服链接可用",
@@ -329871,7 +329950,6 @@
       "冲杯",
       "毒药塔",
       "隐身塔",
-      "有精致台",
       "第一期"
     ],
     "description": "源自：b站coc星辉\r\n2026-05-26测试，国际服链接可用",
@@ -331319,7 +331397,6 @@
       "冲杯",
       "狂暴塔",
       "隐身塔",
-      "有精致台",
       "第一期"
     ],
     "description": "源自：b站coc星辉\r\n2026-05-26测试，国际服链接可用",
@@ -332766,7 +332843,6 @@
       "国际服",
       "冲杯",
       "毒药塔",
-      "有精致台",
       "第一期"
     ],
     "description": "源自：b站coc星辉\r\n2026-05-26测试，国际服链接可用",
