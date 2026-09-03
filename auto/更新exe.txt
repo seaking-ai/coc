@@ -1,0 +1,7 @@
+cd d:\Projects\react\coc\auto
+
+:: 更新单文件版 AutoFormation.exe
+.\.venv\Scripts\pyinstaller AutoFormation.spec
+
+:: 更新极速版 AutoFormation_Fast.exe（-y 强制覆盖输出目录）
+.\.venv\Scripts\pyinstaller -y AutoFormation_Fast.spec

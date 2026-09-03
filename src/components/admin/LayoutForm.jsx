@@ -10,6 +10,7 @@
 
 import { useState, useRef, useEffect } from 'react';
 import { useTags } from '../../hooks/useTags';
+import FolderUpload from './FolderUpload';
 
 /**
  * 全屏图片查看组件
@@ -57,7 +58,7 @@ function LayoutForm({ onSubmit, existingTags = [], initialData = null, onDelete 
   const [chinaLink, setChinaLink] = useState(initialData?.chinaLink || '');
   const [internationalLink, setInternationalLink] = useState(initialData?.internationalLink || '');
   const [description, setDescription] = useState(initialData?.description || '');
-  const [tags, setTags] = useState(initialData?.tags || []);
+  const [tags, setTags] = useState(initialData?.tags || ['冲杯']);
   const [newTag, setNewTag] = useState('');
   const [image, setImage] = useState(null);
   const [preview, setPreview] = useState(initialData?.image || null);
@@ -66,6 +67,7 @@ function LayoutForm({ onSubmit, existingTags = [], initialData = null, onDelete 
   const [isImageViewerOpen, setIsImageViewerOpen] = useState(false);
   const [isDetectingSpellTowers, setIsDetectingSpellTowers] = useState(false);
   const [spellTowerWarning, setSpellTowerWarning] = useState(null);
+  const [showFolderUpload, setShowFolderUpload] = useState(false);
   const fileInputRef = useRef(null);
 
   useEffect(() => {
@@ -121,6 +123,23 @@ function LayoutForm({ onSubmit, existingTags = [], initialData = null, onDelete 
   }, [chinaLink, internationalLink]);
 
   /**
+   * 从文件名中提取标题（移除扩展名）
+   * @param {File} file - 文件对象
+   * @returns {string|null} 提取的标题，如果无法提取则返回null
+   */
+  const getTitleFromFileName = (file) => {
+    if (!file || !file.name) return null;
+    
+    // 移除文件扩展名
+    const fileName = file.name;
+    const lastDotIndex = fileName.lastIndexOf('.');
+    if (lastDotIndex > 0) {
+      return fileName.substring(0, lastDotIndex);
+    }
+    return fileName;
+  };
+
+  /**
    * 处理图片选择
    * @param {Event} e - 文件选择事件
    */
@@ -130,13 +149,19 @@ function LayoutForm({ onSubmit, existingTags = [], initialData = null, onDelete 
       setImage(file);
       setPreview(URL.createObjectURL(file));
       
+      // 从文件名提取标题并设置
+      const fileTitle = getTitleFromFileName(file);
+      if (fileTitle) {
+        setTitle(fileTitle);
+      }
+      
       // 自动检测法术塔
       await detectSpellTowers(file);
     }
   };
   
   /**
-   * 自动检测法术塔
+   * 自动检测法术塔和大本等级
    * @param {File} imageFile - 图片文件
    */
   const detectSpellTowers = async (imageFile) => {
@@ -157,39 +182,95 @@ function LayoutForm({ onSubmit, existingTags = [], initialData = null, onDelete 
       if (result.success) {
         const detectedTowers = result.data.detected || [];
         const count = result.data.count || 0;
+        const detections = result.data.detections || [];
         
-        // 自动添加检测到的法术塔标签（去重，只保留唯一的法术塔类型）
+        // 分离法术塔和大本等级
+        const spellTowerNames = ['狂暴塔', '毒药塔', '隐身塔'];
+        const townHallNames = ['11级大本营', '12级大本营', '13级大本营', '14级大本营', 
+                               '15级大本营', '16级大本营', '17级大本营', '18级大本营'];
+        
+        // 大本等级名称映射（从检测名称到标签名称）
+        const townHallNameMap = {
+          '11级大本营': '11本',
+          '12级大本营': '12本',
+          '13级大本营': '13本',
+          '14级大本营': '14本',
+          '15级大本营': '15本',
+          '16级大本营': '16本',
+          '17级大本营': '17本',
+          '18级大本营': '18本',
+          '19级大本营': '19本',
+          '20级大本营': '20本'
+        };
+        
+        const detectedSpellTowers = detectedTowers.filter(name => spellTowerNames.includes(name));
+        const detectedTownHalls = detectedTowers.filter(name => townHallNames.includes(name));
+
+        // 自动添加检测到的标签
         if (detectedTowers.length > 0) {
           setTags(prevTags => {
-            // 移除已有的法术塔标签
-            const spellTowerTags = ['狂暴塔', '毒药塔', '隐身塔'];
-            const filteredTags = prevTags.filter(tag => !spellTowerTags.includes(tag));
+            // 转换检测到的名称为标签名称
+            const convertedSpellTowers = detectedSpellTowers.map(name => name);
+            const convertedTownHalls = detectedTownHalls.map(name => townHallNameMap[name] || name);
+
+            // 移除已有的法术塔标签（总是替换）
+            const filteredTags = prevTags.filter(tag => !spellTowerNames.includes(tag));
+
+            // 处理大本等级标签：只有检测到新的时才替换，否则保留原有的
+            let finalTags = filteredTags;
+            if (convertedTownHalls.length > 0) {
+              // 检测到大本等级，替换原有的大本等级标签
+              finalTags = finalTags.filter(tag => !Object.values(townHallNameMap).includes(tag));
+              finalTags = [...finalTags, ...convertedTownHalls];
+            }
+            // 如果未检测到大本等级，保留原有的大本等级标签（不做任何操作）
             
-            // 对检测到的法术塔去重（使用Set）
-            const uniqueDetectedTowers = [...new Set(detectedTowers)];
+            // 添加检测到的法术塔标签
+            finalTags = [...finalTags, ...convertedSpellTowers];
             
-            // 添加新检测到的法术塔标签
-            return [...filteredTags, ...uniqueDetectedTowers];
+            // 对标签去重
+            return [...new Set(finalTags)];
           });
         }
         
-        // 检查检测数量并设置警告
-        if (count === 0) {
-          setSpellTowerWarning({
-            type: 'error',
-            message: '未检测到法术塔，请手动选择或检查图片质量'
-          });
-        } else if (count === 1) {
-          setSpellTowerWarning({
-            type: 'warning',
-            message: `只检测到1个法术塔（${detectedTowers[0]}），请确认是否还有另一个法术塔`
-          });
-        } else if (count >= 2) {
-          setSpellTowerWarning({
-            type: 'success',
-            message: `成功检测到 ${count} 个法术塔：${detectedTowers.join('、')}`
-          });
+        // 构建提示消息
+        let messageParts = [];
+        
+        // 法术塔检测信息
+        if (detectedSpellTowers.length === 0) {
+          messageParts.push('未检测到法术塔');
+        } else if (detectedSpellTowers.length === 1) {
+          messageParts.push(`检测到1个法术塔（${detectedSpellTowers[0]}）`);
+        } else {
+          messageParts.push(`检测到 ${detectedSpellTowers.length} 个法术塔：${detectedSpellTowers.join('、')}`);
         }
+        
+        // 大本等级检测信息
+        if (detectedTownHalls.length === 0) {
+          messageParts.push('未检测到大本等级');
+        } else if (detectedTownHalls.length === 1) {
+          const tagName = townHallNameMap[detectedTownHalls[0]] || detectedTownHalls[0];
+          messageParts.push(`检测到大本等级：${tagName}`);
+        } else {
+          // 如果检测到多个大本等级，取置信度最高的
+          const townHallDetections = detections.filter(d => townHallNames.includes(d.type));
+          const bestTownHall = townHallDetections.sort((a, b) => b.confidence - a.confidence)[0];
+          const tagName = townHallNameMap[bestTownHall?.type] || bestTownHall?.type || detectedTownHalls[0];
+          messageParts.push(`检测到大本等级：${tagName}（取最高置信度）`);
+        }
+        
+        // 设置警告/提示类型
+        let warningType = 'success';
+        if (detectedSpellTowers.length === 0 && detectedTownHalls.length === 0) {
+          warningType = 'error';
+        } else if (detectedSpellTowers.length < 2 || detectedTownHalls.length === 0) {
+          warningType = 'warning';
+        }
+        
+        setSpellTowerWarning({
+          type: warningType,
+          message: messageParts.join('；')
+        });
       } else {
         setSpellTowerWarning({
           type: 'error',
@@ -197,7 +278,7 @@ function LayoutForm({ onSubmit, existingTags = [], initialData = null, onDelete 
         });
       }
     } catch (error) {
-      console.error('法术塔检测失败:', error);
+      console.error('检测失败:', error);
       setSpellTowerWarning({
         type: 'error',
         message: `检测失败：${error.message}`
@@ -205,6 +286,19 @@ function LayoutForm({ onSubmit, existingTags = [], initialData = null, onDelete 
     } finally {
       setIsDetectingSpellTowers(false);
     }
+  };
+
+  /**
+   * 获取所有武器分类的标签
+   * @returns {Array} 所有武器标签名称数组
+   */
+  const getAllWeaponTags = () => {
+    const weaponCategories = categories.filter(cat => cat.id.startsWith('weapons-phase'));
+    const weaponTags = [];
+    weaponCategories.forEach(cat => {
+      cat.tags.forEach(tag => weaponTags.push(tag.name));
+    });
+    return weaponTags;
   };
 
   /**
@@ -218,14 +312,21 @@ function LayoutForm({ onSubmit, existingTags = [], initialData = null, onDelete 
     const tagName = tag.name;
     const categoryTagNames = getTagsByCategoryId(categoryId).map(t => t.name);
     const selectedInCategory = tags.filter(t => categoryTagNames.includes(t));
-    
+
     if (categoryType === 'single') {
       // 单选：选择/取消选择
       if (tags.includes(tagName)) {
         const otherCategoryTags = tags.filter(t => !categoryTagNames.includes(t));
         setTags(otherCategoryTags);
       } else {
-        const otherCategoryTags = tags.filter(t => !categoryTagNames.includes(t));
+        let otherCategoryTags = tags.filter(t => !categoryTagNames.includes(t));
+
+        // 如果是切换精致台期数，清除所有武器标签
+        if (categoryId === 'decoration-phase') {
+          const weaponTags = getAllWeaponTags();
+          otherCategoryTags = otherCategoryTags.filter(t => !weaponTags.includes(t));
+        }
+
         setTags([...otherCategoryTags, tagName]);
       }
     } else if (categoryType === 'limited') {
@@ -295,9 +396,11 @@ function LayoutForm({ onSubmit, existingTags = [], initialData = null, onDelete 
       newErrors.internationalLink = '选择国际服标签时必须提供国际服链接';
     }
     
+    // 国服链接支持两种格式：http/https URL 或 国服TH纯文本（如 TH18:WB:...）
     const urlPattern = /^https?:\/.+/;
-    if (chinaLink && !urlPattern.test(chinaLink)) {
-      newErrors.chinaLink = newErrors.chinaLink || '国服链接格式不正确，必须以http://或https://开头';
+    const chinaLinkPattern = /^(https?:\/.+|TH\d+:[A-Za-z0-9_+\-/=:]+)/;
+    if (chinaLink && !chinaLinkPattern.test(chinaLink)) {
+      newErrors.chinaLink = newErrors.chinaLink || '国服链接格式不正确，需以http://或https://开头，或为 TH18:WB:... 格式';
     }
     if (internationalLink && !urlPattern.test(internationalLink)) {
       newErrors.internationalLink = newErrors.internationalLink || '国际服链接格式不正确，必须以http://或https://开头';
@@ -379,11 +482,40 @@ function LayoutForm({ onSubmit, existingTags = [], initialData = null, onDelete 
   };
 
   /**
+   * 检查分类是否应该显示（处理父级依赖关系）
+   * 支持两种模式：
+   * 1. 简单模式：parentCategory + parentTag
+   * 2. 多条件模式：parentConditions（需同时满足所有条件）
+   * @param {Object} category - 分类对象
+   * @returns {boolean} 是否应该显示
+   */
+  const shouldShowCategory = (category) => {
+    // 模式1：简单父级依赖（单一条件）
+    if (category.parentCategory && category.parentTag) {
+      return tags.includes(category.parentTag);
+    }
+
+    // 模式2：多条件依赖（需同时满足所有条件）
+    if (category.parentConditions && Array.isArray(category.parentConditions)) {
+      return category.parentConditions.every(condition => {
+        return tags.includes(condition.tagName);
+      });
+    }
+
+    return true;
+  };
+
+  /**
    * 渲染分类标签组
    * @param {Object} category - 分类对象
    * @returns {JSX} 分类标签组元素
    */
   const renderCategoryGroup = (category) => {
+    // 检查是否应该显示该分类（处理父级依赖）
+    if (!shouldShowCategory(category)) {
+      return null;
+    }
+
     const categoryTags = getTagsByCategoryId(category.id);
     const categoryTagNames = categoryTags.map(t => t.name);
     const selectedInCategory = tags.filter(t => categoryTagNames.includes(t));
@@ -451,9 +583,23 @@ function LayoutForm({ onSubmit, existingTags = [], initialData = null, onDelete 
       )}
 
       <div>
-        <label className="block text-sm font-medium text-gray-700 mb-2">
-          阵型图片 {isEditMode ? '' : '*'}
-        </label>
+        <div className="flex items-center justify-between mb-2">
+          <label className="block text-sm font-medium text-gray-700">
+            阵型图片 {isEditMode ? '' : '*'}
+          </label>
+          {!isEditMode && (
+            <button
+              type="button"
+              onClick={() => setShowFolderUpload(true)}
+              className="text-sm text-blue-600 hover:text-blue-800 flex items-center gap-1 px-2 py-1 hover:bg-blue-50 rounded transition-colors"
+            >
+              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z" />
+              </svg>
+              批量上传文件夹
+            </button>
+          )}
+        </div>
         <div 
           onClick={() => fileInputRef.current?.click()}
           className="border-2 border-dashed border-gray-300 rounded-lg p-8 text-center cursor-pointer hover:border-blue-500 transition-colors relative"
@@ -461,22 +607,19 @@ function LayoutForm({ onSubmit, existingTags = [], initialData = null, onDelete 
           {preview ? (
             <div className="relative inline-block">
               <img src={preview} alt="预览" className="max-h-48 mx-auto rounded" />
-              {isEditMode && (
-                <button
-                  type="button"
-                  onClick={(e) => {
-                    e.stopPropagation();
-                    setIsImageViewerOpen(true);
-                  }}
-                  className="absolute bottom-2 right-2 px-3 py-1.5 bg-black/60 hover:bg-black/80 text-white text-sm rounded-lg transition-colors flex items-center gap-1.5"
-                >
-                  <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />
-                  </svg>
-                  查看图片
-                </button>
-              )}
+              <button
+                type="button"
+                onClick={(e) => {
+                  e.stopPropagation();
+                  setIsImageViewerOpen(true);
+                }}
+                className="absolute bottom-2 right-2 px-3 py-1.5 bg-black/60 hover:bg-black/80 text-white text-sm rounded-lg transition-colors flex items-center gap-1.5"
+              >
+                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 8V4m0 0h4M4 4l5 5m11-1V4m0 0h-4m4 0l-5 5M4 16v4m0 0h4m-4 0l5-5m11 5l-5-5m5 5v-4m0 4h-4" />
+                </svg>
+                全屏查看
+              </button>
             </div>
           ) : (
             <div className="text-gray-500">
@@ -554,13 +697,13 @@ function LayoutForm({ onSubmit, existingTags = [], initialData = null, onDelete 
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-1">国服阵型链接</label>
           <input
-            type="url"
+            type="text"
             value={chinaLink}
             onChange={(e) => setChinaLink(e.target.value)}
             className={`w-full border rounded-lg px-3 py-2 focus:outline-none focus:ring-2 ${
               errors.chinaLink ? 'border-red-500 focus:ring-red-500' : 'border-gray-300 focus:ring-blue-500'
             }`}
-            placeholder="https://link.clashofclans.com/..."
+            placeholder="https://link.clashofclans.com/... 或 TH18:WB:..."
           />
           {errors.chinaLink && (
             <p className="text-red-500 text-sm mt-1">{errors.chinaLink}</p>
@@ -661,7 +804,18 @@ function LayoutForm({ onSubmit, existingTags = [], initialData = null, onDelete 
               const today = new Date();
               const dateStr = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
               const textToAdd = `${dateStr}测试，国服链接可用`;
-              setDescription(prev => prev ? `${prev}\n${textToAdd}` : textToAdd);
+              setDescription(prev => {
+                if (!prev) return textToAdd;
+                // 检查是否已存在国服测试记录，如果存在则替换，否则追加
+                const chinaTestRegex = /\d{4}-\d{2}-\d{2}测试，国服链接可用/;
+                if (chinaTestRegex.test(prev)) {
+                  // 替换现有的国服测试记录
+                  return prev.replace(chinaTestRegex, textToAdd);
+                } else {
+                  // 追加新的国服测试记录
+                  return `${prev}\n${textToAdd}`;
+                }
+              });
             }}
             className="px-3 py-1.5 text-sm bg-green-50 text-green-700 rounded-lg hover:bg-green-100 transition-colors border border-green-200"
           >
@@ -673,7 +827,18 @@ function LayoutForm({ onSubmit, existingTags = [], initialData = null, onDelete 
               const today = new Date();
               const dateStr = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
               const textToAdd = `${dateStr}测试，国际服链接可用`;
-              setDescription(prev => prev ? `${prev}\n${textToAdd}` : textToAdd);
+              setDescription(prev => {
+                if (!prev) return textToAdd;
+                // 检查是否已存在国际服测试记录，如果存在则替换，否则追加
+                const intlTestRegex = /\d{4}-\d{2}-\d{2}测试，国际服链接可用/;
+                if (intlTestRegex.test(prev)) {
+                  // 替换现有的国际服测试记录
+                  return prev.replace(intlTestRegex, textToAdd);
+                } else {
+                  // 追加新的国际服测试记录
+                  return `${prev}\n${textToAdd}`;
+                }
+              });
             }}
             className="px-3 py-1.5 text-sm bg-green-50 text-green-700 rounded-lg hover:bg-green-100 transition-colors border border-green-200"
           >
@@ -731,6 +896,18 @@ function LayoutForm({ onSubmit, existingTags = [], initialData = null, onDelete 
         isOpen={isImageViewerOpen}
         onClose={() => setIsImageViewerOpen(false)}
       />
+
+      {/* 文件夹批量上传弹窗 */}
+      {showFolderUpload && (
+        <FolderUpload
+          onSubmit={onSubmit}
+          onClose={() => {
+            setShowFolderUpload(false);
+            // 刷新页面数据
+            window.location.reload();
+          }}
+        />
+      )}
     </form>
   );
 }

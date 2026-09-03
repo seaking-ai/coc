@@ -19,7 +19,7 @@ start "Node.js Service" cmd /k "cd /d %~dp0 && node server.js"
 echo.
 echo ========================================
 echo Services started!
-echo Python Service: http://localhost:5000
+echo Python Service: http://localhost:6174
 echo Node.js Service: http://localhost:3001
 echo ========================================
 echo.

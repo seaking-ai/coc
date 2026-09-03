@@ -5,11 +5,14 @@
   "homepage": "https://seaking-ai.github.io/coc/",
   "type": "module",
   "scripts": {
-    "dev": "concurrently \"vite\" \"node server.js\" \"npm run dev:python\"",
-    "dev:python": "powershell -Command \"Start-Process -NoNewWindow -FilePath 'E:\\anaconda\\envs\\pytorch\\python.exe' -ArgumentList 'scripts/spell_tower_server.py'\"",
+    "dev": "node scripts/dev-server.js",
+    "dev:python": "powershell -Command \"Start-Process -WindowStyle Hidden -FilePath 'E:\\anaconda\\envs\\pytorch\\python.exe' -ArgumentList 'scripts/spell_tower_server.py'\"",
+    "dev:manual": "npm run dev:python && concurrently \"vite\" \"node server.js\"",
+
     "build": "vite build",
     "predeploy": "npm run build",
     "deploy": "gh-pages  -d dist",
+    "keyidx": "uv run scripts/generate_keypoint_index.py",
     "preview": "vite preview",
     "server": "node server.js"
   },

@@ -31,6 +31,7 @@ from flask_cors import CORS
 import numpy as np
 from PIL import Image
 import cv2
+import torch
 
 app = Flask(__name__)
 CORS(app)
@@ -38,18 +39,35 @@ CORS(app)
 # 全局模型变量
 model = None
 model_type = None
+device = None
 
 # 项目根目录
 PROJECT_ROOT = Path(__file__).parent.parent
 ONNX_MODEL_PATH = PROJECT_ROOT / "models" / "spell_tower_yolo" / "spell_tower_yolo.onnx"
 PT_MODEL_PATH = PROJECT_ROOT / "models" / "spell_tower_yolo" / "train" / "weights" / "best.pt"
 
-# 类别映射
+# 类别映射（与训练脚本的classes.txt顺序一致）
+# 法术塔类别
 CLASS_NAMES = {
-    0: "毒药塔",
-    1: "狂暴塔",
-    2: "隐身塔"
+    0: "狂暴塔",
+    1: "隐身塔",
+    2: "毒药塔"
 }
+
+# 大本等级类别
+TOWNHALL_NAMES = {
+    3: "18级大本营",
+    4: "17级大本营",
+    5: "16级大本营",
+    6: "15级大本营",
+    7: "14级大本营",
+    8: "13级大本营",
+    9: "12级大本营",
+    10: "11级大本营"
+}
+
+# 所有类别（合并）
+ALL_CLASS_NAMES = {**CLASS_NAMES, **TOWNHALL_NAMES}
 
 
 def load_model():
@@ -57,10 +75,16 @@ def load_model():
     加载模型（启动时调用一次）
     
     返回：
-        (模型对象, 模型类型) 元组
+        (模型对象, 模型类型, 设备名称) 元组
     """
+    global device
+    
     print("[*] 正在加载模型...")
     start_time = time.time()
+    
+    # 检测可用设备
+    device = 'cuda' if torch.cuda.is_available() else 'cpu'
+    print(f"[*] 使用设备: {device}")
     
     # 优先加载PyTorch模型（更稳定）
     if PT_MODEL_PATH.exists():
@@ -68,7 +92,7 @@ def load_model():
             from ultralytics import YOLO
             model = YOLO(str(PT_MODEL_PATH))
             print(f"[+] PyTorch模型加载完成，耗时: {time.time() - start_time:.2f}s")
-            return model, 'pytorch'
+            return model, 'pytorch', device
         except Exception as e:
             print(f"[-] PyTorch模型加载失败: {e}")
     
@@ -77,12 +101,12 @@ def load_model():
         try:
             net = cv2.dnn.readNetFromONNX(str(ONNX_MODEL_PATH))
             print(f"[+] ONNX模型加载完成，耗时: {time.time() - start_time:.2f}s")
-            return net, 'onnx'
+            return net, 'onnx', device
         except Exception as e:
             print(f"[-] ONNX模型加载失败: {e}")
     
     print("[-] 错误: 无法加载任何模型")
-    return None, None
+    return None, None, device
 
 
 def detect_with_pytorch_cached(image_bytes):
@@ -95,7 +119,7 @@ def detect_with_pytorch_cached(image_bytes):
     返回：
         检测结果列表
     """
-    global model
+    global model, device
     
     # 将字节转换为numpy数组
     nparr = np.frombuffer(image_bytes, np.uint8)
@@ -104,21 +128,24 @@ def detect_with_pytorch_cached(image_bytes):
     if img is None:
         raise ValueError("无法读取图片")
     
-    # 使用YOLO内置推理
-    results = model(img, verbose=False)
+    # 使用YOLO内置推理，降低置信度阈值以检测更多目标
+    results = model(img, verbose=False, conf=0.25, device=device)  # 置信度阈值设为0.25
     
     detections = []
     for result in results:
         boxes = result.boxes
         if boxes is not None:
+            print(f"[*] 检测到 {len(boxes)} 个目标")
             for box in boxes:
                 class_id = int(box.cls[0])
                 confidence = float(box.conf[0])
                 
-                if class_id in CLASS_NAMES:
+                print(f"    类别ID: {class_id}, 置信度: {confidence:.3f}, 名称: {ALL_CLASS_NAMES.get(class_id, '未知')}")
+                
+                if class_id in ALL_CLASS_NAMES and confidence >= 0.25:
                     detections.append({
                         'class_id': class_id,
-                        'class_name': CLASS_NAMES[class_id],
+                        'class_name': ALL_CLASS_NAMES[class_id],
                         'confidence': confidence
                     })
     
@@ -216,14 +243,14 @@ def health():
 
 def main():
     """主函数"""
-    global model, model_type
+    global model, model_type, device
     
     print("=" * 60)
     print("法术塔检测服务")
     print("=" * 60)
     
     # 加载模型
-    model, model_type = load_model()
+    model, model_type, device = load_model()
     
     if model is None:
         print("[-] 模型加载失败，服务无法启动")
@@ -231,12 +258,12 @@ def main():
     
     print("=" * 60)
     print("启动服务...")
-    print("API地址: http://localhost:5000/detect")
-    print("健康检查: http://localhost:5000/health")
+    print("API地址: http://localhost:6174/detect")
+    print("健康检查: http://localhost:6174/health")
     print("=" * 60)
     
     # 启动Flask服务
-    app.run(host='0.0.0.0', port=5000, debug=False)
+    app.run(host='0.0.0.0', port=6174, debug=False)
 
 
 if __name__ == '__main__':

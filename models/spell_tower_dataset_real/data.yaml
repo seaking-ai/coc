@@ -1,12 +1,22 @@
-# 法术塔检测数据集配置
+# 法术塔和大本等级检测数据集配置
 path: D:\Projects\react\coc\models\spell_tower_dataset_real
 train: images/train
 val: images/val
 test:  # 可选
 
 # 类别
-nc: 3  # 类别数量
+nc: 11  # 类别数量 (3个法术塔 + 8个大本等级)
 names:
-  0: 毒药塔
-  1: 狂暴塔
-  2: 隐身塔
+  # 法术塔类别
+  0: rage_tower           # 狂暴塔
+  1: invisibility_tower   # 隐身塔
+  2: poison_tower         # 毒药塔
+  # 大本等级类别
+  3: level18              # 18级大本营
+  4: level17              # 17级大本营
+  5: level16              # 16级大本营
+  6: level15              # 15级大本营
+  7: level14              # 14级大本营
+  8: level13              # 13级大本营
+  9: level12              # 12级大本营
+  10: level11             # 11级大本营

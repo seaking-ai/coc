@@ -40,19 +40,22 @@ export function initOpenCV() {
       return;
     }
 
-    // 等待OpenCV加载完成
-    const checkInterval = setInterval(() => {
+    // 等待OpenCV异步加载完成（使用递归setTimeout替代setInterval轮询）
+    const tryLoad = () => {
       if (cv && cv.Mat) {
-        clearInterval(checkInterval);
         isOpenCVLoaded = true;
         resolve();
+        return;
       }
-    }, 100);
+      setTimeout(tryLoad, 100);
+    };
+    tryLoad();
 
     // 超时处理（30秒）
     setTimeout(() => {
-      clearInterval(checkInterval);
-      reject(new Error('OpenCV加载超时'));
+      if (!isOpenCVLoaded) {
+        reject(new Error('OpenCV加载超时'));
+      }
     }, 30000);
   });
 

@@ -107,14 +107,8 @@ async function processImage(buffer, filename) {
     }
   }
   
-  // 最终保存
-  await sharp(buffer)
-    .resize(TARGET_WIDTH, TARGET_HEIGHT, { 
-      fit: 'cover',
-      position: 'center'
-    })
-    .webp({ quality })
-    .toFile(outputPath);
+  // 直接写入最后一次迭代的 buffer，避免重复处理
+  await fs.writeFile(outputPath, outputBuffer);
   
   console.log(`[${new Date().toISOString()}] 图片处理完成: ${filename}, 质量: ${quality}, 大小: ${(fileSize / 1024).toFixed(2)}KB, 尺寸: ${TARGET_WIDTH}x${TARGET_HEIGHT}`);
     
@@ -444,19 +438,19 @@ app.get('/api/layouts', async (req, res) => {
 
 import FormData from 'form-data';
 import fetch from 'node-fetch';
-import { createReadStream } from 'fs';
 
 // Python检测服务配置
-const PYTHON_SERVICE_URL = process.env.PYTHON_SERVICE_URL || 'http://localhost:5000';
+const PYTHON_SERVICE_URL = process.env.PYTHON_SERVICE_URL || 'http://localhost:6174';
 
 /**
  * 使用HTTP调用Python检测服务
- * @param {string} imagePath - 图片路径
+ * @param {Buffer} buffer - 图片二进制数据
+ * @param {string} filename - 文件名
  * @returns {Promise<Object>} 检测结果
  */
-async function detectSpellTowersHTTP(imagePath) {
+async function detectSpellTowersHTTP(buffer, filename) {
   const form = new FormData();
-  form.append('image', createReadStream(imagePath));
+  form.append('image', buffer, { filename, contentType: 'image/jpeg' });
   
   const response = await fetch(`${PYTHON_SERVICE_URL}/detect`, {
     method: 'POST',
@@ -474,14 +468,15 @@ async function detectSpellTowersHTTP(imagePath) {
 
 /**
  * 检测图片中的法术塔（使用HTTP服务）
- * @param {string} imagePath - 图片路径
+ * @param {Buffer} buffer - 图片二进制数据
+ * @param {string} filename - 文件名
  * @returns {Promise<Object>} 检测结果
  */
-async function detectSpellTowers(imagePath) {
+async function detectSpellTowers(buffer, filename) {
   // 尝试使用Python HTTP服务
   try {
     console.log(`[${new Date().toISOString()}] 尝试使用Python服务检测...`);
-    const result = await detectSpellTowersHTTP(imagePath);
+    const result = await detectSpellTowersHTTP(buffer, filename);
     console.log(`[${new Date().toISOString()}] Python服务检测完成`);
     return result;
   } catch (e) {
@@ -505,26 +500,17 @@ app.post('/api/detect-spell-towers', upload.single('image'), async (req, res) =>
       });
     }
     
-    // 保存临时图片
-    const tempDir = path.join(__dirname, 'temp');
-    await ensureDir(tempDir);
-    const tempPath = path.join(tempDir, `detect_${Date.now()}.jpg`);
-    
-    await sharp(req.file.buffer)
+    // 在内存中转 JPEG 后直接发送到 Python 检测服务
+    const jpegBuffer = await sharp(req.file.buffer)
       .jpeg({ quality: 90 })
-      .toFile(tempPath);
+      .toBuffer();
     
-    console.log(`[${new Date().toISOString()}] 开始检测法术塔: ${tempPath}`);
+    const filename = `detect_${Date.now()}.jpg`;
     
-    // 调用Python脚本检测
-    const result = await detectSpellTowers(tempPath);
+    console.log(`[${new Date().toISOString()}] 开始检测法术塔...`);
     
-    // 删除临时文件
-    try {
-      await fs.unlink(tempPath);
-    } catch (e) {
-      console.warn(`[${new Date().toISOString()}] 删除临时文件失败:`, e.message);
-    }
+    // 调用Python服务检测，跳过磁盘 I/O
+    const result = await detectSpellTowers(jpegBuffer, filename);
     
     console.log(`[${new Date().toISOString()}] 法术塔检测完成:`, result);
     

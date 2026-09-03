@@ -10,7 +10,7 @@
 3. 生成JSON格式的索引文件
 
 使用方法：
-    uv run scripts/generate-keypoint-index.py
+    uv run scripts/generate_keypoint_index.py
 
 输出：
     public/index/keypoint-index.json
@@ -104,11 +104,37 @@ def extract_keypoints_and_descriptors(image_path: str, max_keypoints: int = 200)
     }
 
 
-def generate_index(data_path: str, images_dir: str, output_path: str) -> Tuple[int, int, List[Dict]]:
+def load_existing_index(output_path: str) -> Dict[str, Any]:
     """
-    生成关键点索引文件
+    加载已存在的索引文件
+    
+    功能：如果索引文件存在，加载其中的数据用于增量更新
+    
+    参数：
+        output_path: 索引文件路径
+    
+    返回：
+        包含已有布局数据的字典，key为layout id
+    """
+    existing_layouts = {}
+    if os.path.exists(output_path):
+        try:
+            with open(output_path, 'r', encoding='utf-8') as f:
+                index = json.load(f)
+                for layout in index.get("layouts", []):
+                    existing_layouts[layout["id"]] = layout
+            print(f"[KeypointIndex] 加载已有索引: {len(existing_layouts)} 个布局")
+        except Exception as e:
+            print(f"[KeypointIndex] 加载已有索引失败: {e}")
+    return existing_layouts
+
+
+def generate_index(data_path: str, images_dir: str, output_path: str) -> Tuple[int, int, int, List[Dict]]:
+    """
+    生成关键点索引文件（支持增量更新）
     
     功能：遍历所有阵型图片，提取关键点特征，生成JSON索引
+    特点：已存在的layout会跳过，只处理新增的
     
     参数：
         data_path: data.json文件路径
@@ -116,11 +142,14 @@ def generate_index(data_path: str, images_dir: str, output_path: str) -> Tuple[i
         output_path: 输出索引文件路径
     
     返回：
-        (成功数量, 总数, 错误列表)
+        (成功数量, 跳过数量, 总数, 错误列表)
     """
     # 加载阵型数据
     with open(data_path, 'r', encoding='utf-8') as f:
         layouts = json.load(f)
+    
+    # 加载已有索引（用于增量更新）
+    existing_layouts = load_existing_index(output_path)
     
     print(f"[KeypointIndex] 开始处理 {len(layouts)} 个阵型...")
     
@@ -134,12 +163,21 @@ def generate_index(data_path: str, images_dir: str, output_path: str) -> Tuple[i
     
     errors = []
     success_count = 0
+    skip_count = 0
     
     for i, layout in enumerate(layouts):
         try:
             layout_id = layout.get("id", f"unknown_{i}")
             layout_title = layout.get("title", "未命名")
             image_path = layout.get("image", "")
+            
+            # 检查是否已存在（增量更新）
+            if layout_id in existing_layouts:
+                # 复用已有数据
+                index["layouts"].append(existing_layouts[layout_id])
+                skip_count += 1
+                print(f"[KeypointIndex] 跳过 {i+1}/{len(layouts)}: {layout_title} ({layout_id}) - 已存在")
+                continue
             
             print(f"[KeypointIndex] 处理 {i+1}/{len(layouts)}: {layout_title} ({layout_id})")
             
@@ -199,14 +237,15 @@ def generate_index(data_path: str, images_dir: str, output_path: str) -> Tuple[i
     
     print(f"\n[KeypointIndex] 索引生成完成!")
     print(f"  成功: {success_count}/{len(layouts)}")
+    print(f"  跳过: {skip_count}/{len(layouts)} (已存在)")
     print(f"  失败: {len(errors)}")
     print(f"  输出: {output_path}")
-    
+
     # 计算文件大小
     file_size = os.path.getsize(output_path)
     print(f"  文件大小: {file_size / 1024 / 1024:.2f} MB")
-    
-    return success_count, len(layouts), errors
+
+    return success_count, skip_count, len(layouts), errors
 
 
 def main():
@@ -239,7 +278,7 @@ def main():
     print("=" * 60)
     
     # 生成索引
-    success, total, errors = generate_index(
+    success, skip_count, total, errors = generate_index(
         str(data_path),
         str(images_dir),
         str(output_path)

@@ -73,37 +73,61 @@ function DetailDrawer({ layout, onClose }) {
     return serverType === 'china' ? layout.chinaLink : layout.internationalLink;
   };
 
+  // 判断国服链接是否为 TH 纯文本格式（如 TH18:WB:...）
+  const isThLink = (link) => /^TH\d+:/u.test((link || '').trim());
+
   /**
-   * 获取国服链接，根据平台添加后缀
-   * @param {string} platform - 平台类型：'android' | 'ios'
-   * @returns {string} 处理后的链接
+   * 将文本写入剪贴板。
+   * navigator.clipboard 只在 HTTPS（或 localhost）下可用，站点在某些
+   * 国服/内置浏览器环境中会没有该 API，因此必须保留 execCommand 降级方案。
    */
-  const getChinaLink = (platform) => {
-    if (!layout?.chinaLink) return '';
-    
-    let link = layout.chinaLink;
-    
-    link = link.replace(/[?&]platform=[^&]*/i, '');
-    
-    const separator = link.includes('?') ? '&' : '?';
-    link = `${link}${separator}platform=${platform}`;
-    
-    return link;
+  const copyText = async (text) => {
+    if (!text) return false;
+
+    try {
+      if (navigator.clipboard?.writeText) {
+        await navigator.clipboard.writeText(String(text));
+        return true;
+      }
+    } catch (err) {
+      // 权限被拒绝时继续尝试兼容方案，而不是让按钮看起来无响应。
+      console.warn('Clipboard API 复制失败，尝试兼容方案:', err);
+    }
+
+    const textarea = document.createElement('textarea');
+    textarea.value = String(text);
+    textarea.setAttribute('readonly', '');
+    textarea.style.position = 'fixed';
+    textarea.style.left = '-9999px';
+    textarea.style.top = '0';
+    document.body.appendChild(textarea);
+    textarea.focus();
+    textarea.select();
+
+    let copied = false;
+    try {
+      copied = document.execCommand('copy');
+    } catch (err) {
+      console.error('复制失败:', err);
+    } finally {
+      document.body.removeChild(textarea);
+    }
+    return copied;
   };
 
   /**
    * 复制国服链接
-   * @param {string} platform - 平台类型：'android' | 'ios'
+   * 直接使用原始链接，不添加平台参数
    */
-  const copyChinaLink = async (platform) => {
-    const link = getChinaLink(platform);
+  const copyChinaLink = async () => {
+    const link = layout?.chinaLink;
     if (!link) return;
-    
-    try {
-      await navigator.clipboard.writeText(link);
-      setToast(platform === 'android' ? '安卓链接已复制' : '苹果链接已复制');
-    } catch (err) {
-      console.error('复制失败:', err);
+
+    const copied = await copyText(link);
+    if (copied) {
+      setToast(isThLink(link) ? '国服链接已复制（TH 格式，可在国服客户端粘贴打开）' : '国服链接已复制');
+    } else {
+      setToast('复制失败，请长按链接手动复制');
     }
   };
 
@@ -113,13 +137,9 @@ function DetailDrawer({ layout, onClose }) {
   const copyInternationalLink = async () => {
     const link = layout?.internationalLink;
     if (!link) return;
-    
-    try {
-      await navigator.clipboard.writeText(link);
-      setToast('国际服链接已复制');
-    } catch (err) {
-      console.error('复制失败:', err);
-    }
+
+    const copied = await copyText(link);
+    setToast(copied ? '国际服链接已复制' : '复制失败，请长按链接手动复制');
   };
 
   /**
@@ -385,23 +405,20 @@ function DetailDrawer({ layout, onClose }) {
               <div className="text-xs text-gray-500 text-center py-2 bg-gray-50 rounded-lg">
                 链接失效是正常情况，超过30天没人复制就会失效
               </div>
+              {/* 国服TH格式提示 */}
+              {isThLink(layout.chinaLink) && (
+                <div className="text-xs text-blue-600 text-center py-2 bg-blue-50 rounded-lg">
+                  当前为国服新格式链接（TH 开头），复制后请粘贴到国服客户端打开
+                </div>
+              )}
               <button
-                onClick={() => copyChinaLink('android')}
+                onClick={copyChinaLink}
                 className="w-full bg-gradient-to-r from-green-500 to-green-600 text-white py-3 rounded-xl font-medium hover:from-green-600 hover:to-green-700 transition-all shadow-lg shadow-green-500/30 flex items-center justify-center gap-2"
               >
                 <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z" />
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
                 </svg>
-                复制安卓链接
-              </button>
-              <button
-                onClick={() => copyChinaLink('ios')}
-                className="w-full bg-gradient-to-r from-gray-800 to-gray-900 text-white py-3 rounded-xl font-medium hover:from-gray-700 hover:to-gray-800 transition-all shadow-lg flex items-center justify-center gap-2"
-              >
-                <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
-                  <path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.81-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/>
-                </svg>
-                复制苹果链接
+                复制国服链接
               </button>
             </div>
           ) : layout?.internationalLink ? (

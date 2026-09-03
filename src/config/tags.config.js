@@ -62,13 +62,55 @@ const tagsConfig = {
       ]
     },
     {
-      id: 'decoration',
-      name: '精致台',
+      id: 'decoration-phase',
+      name: '精致台期数',
       type: 'single',
-      description: '阵型是否包含精致台装饰',
+      description: '选择阵型使用的精致台期数',
       tags: [
-        { id: '有精致台', name: '有精致台', description: '阵型包含精致台装饰' },
-        { id: '无精致台', name: '无精致台', description: '阵型不包含精致台装饰' }
+        { id: '第一期', name: '第一期', description: '第一期精致台' },
+        { id: '第二期', name: '第二期', description: '第二期精致台' },
+        { id: '第三期', name: '第三期', description: '第三期精致台' }
+      ]
+    },
+    {
+      id: 'weapons-phase1',
+      name: '防御武器',
+      type: 'single',
+      description: '第一期精致台专属武器',
+      parentConditions: [
+        { categoryId: 'decoration-phase', tagName: '第一期' }
+      ],
+      tags: [
+        { id: '天鹰火炮', name: '天鹰火炮', description: '天鹰火炮防御武器' },
+        { id: '散射加农炮', name: '散射加农炮', description: '散射加农炮防御武器' }
+      ]
+    },
+    {
+      id: 'weapons-phase2',
+      name: '防御武器',
+      type: 'single',
+      description: '第二期精致台专属武器',
+      parentConditions: [
+        { categoryId: 'decoration-phase', tagName: '第二期' }
+      ],
+      tags: [
+        { id: '熔岩火炮', name: '熔岩火炮', description: '熔岩火炮防御武器' },
+        { id: '空中炸弹发射器', name: '空中炸弹发射器', description: '空中炸弹发射器防御武器' },
+        { id: '熔岩发射器', name: '熔岩发射器', description: '熔岩发射器防御武器' }
+      ]
+    },
+    {
+      id: 'weapons-phase3',
+      name: '防御武器',
+      type: 'single',
+      description: '第三期精致台专属武器',
+      parentConditions: [
+        { categoryId: 'decoration-phase', tagName: '第三期' }
+      ],
+      tags: [
+        { id: '火热蜡烛', name: '火热蜡烛', description: '第三期精致台火热蜡烛' },
+        { id: '英雄猎台', name: '英雄猎台', description: '第三期精致台英雄猎台' },
+        { id: '蛋糕投掷器', name: '蛋糕投掷器', description: '第三期精致台蛋糕投掷器' }
       ]
     },
     {
@@ -83,19 +125,7 @@ const tagsConfig = {
         { id: '种菜', name: '种树', description: '适合采集资源' }
       ]
     },
-    {
-      id: 'defense',
-      name: '防守类型（尽量别选）',
-      type: 'multiple',
-      description: '阵型的防守特点',
-      tags: [
-        { id: '防空', name: '防火龙', description: '防空能力优秀' },
-        { id: '抗狗', name: '防雷龙', description: '对抗狗球流优秀' },
-        { id: '抗矿', name: '防陨石戈仑一字划', description: '对抗矿工流优秀' },
-        { id: '抗猪', name: '防大火球', description: '对抗野猪骑士优秀' },
-        { id: '天女', name: '防根蔓', description: '对抗天使女王优秀' }
-      ]
-    }
+
   ]
 };
 

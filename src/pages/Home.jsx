@@ -13,6 +13,51 @@ import TagFilter from '../components/display/TagFilter';
 import { ImageSearch } from '../components/search/ImageSearch';
 import { useTags } from '../hooks/useTags';
 
+/**
+ * 从描述中提取指定服务器的测试日期
+ * 匹配格式：YYYY-MM-DD测试，国服链接可用 或 YYYY-M-D测试，国际服链接可用
+ * @param {string} description - 阵型描述
+ * @param {string} serverType - 服务器类型：'china' 或 'intl'
+ * @returns {Date|null} 提取到的日期，如果没有则返回null
+ */
+const extractTestDate = (description, serverType = null) => {
+  if (!description) return null;
+
+  if (serverType === 'china') {
+    // 匹配国服测试日期：日期后面跟着"测试，国服链接可用"
+    const chinaMatch = description.match(/(\d{4})-(\d{1,2})-(\d{1,2})测试，国服链接可用/);
+    if (chinaMatch) {
+      const [, year, month, day] = chinaMatch;
+      return new Date(parseInt(year), parseInt(month) - 1, parseInt(day));
+    }
+    return null;
+  } else if (serverType === 'intl') {
+    // 匹配国际服测试日期：日期后面跟着"测试，国际服链接可用"
+    const intlMatch = description.match(/(\d{4})-(\d{1,2})-(\d{1,2})测试，国际服链接可用/);
+    if (intlMatch) {
+      const [, year, month, day] = intlMatch;
+      return new Date(parseInt(year), parseInt(month) - 1, parseInt(day));
+    }
+    return null;
+  }
+  return null;
+};
+
+/**
+ * 检查阵型是否在30天内有指定服务器的测试记录
+ * @param {Object} layout - 阵型数据
+ * @param {string} serverType - 服务器类型：'china' 或 'intl'
+ * @returns {boolean} 是否在30天内有效
+ */
+const isValidWithin30Days = (layout, serverType) => {
+  const testDate = extractTestDate(layout.description, serverType);
+  if (!testDate) return false;
+  const now = new Date();
+  const diffTime = now - testDate;
+  const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+  return diffDays <= 30;
+};
+
 function Home() {
   const navigate = useNavigate();
   const { categories, getTagsByCategoryId } = useTags();
@@ -142,6 +187,7 @@ function Home() {
    * 筛选逻辑：支持单选、多选、限制数量多选标签的组合筛选
    * 法术塔类型使用精确匹配：阵型的法术塔标签必须与选择的完全一致
    * 搜索支持多关键字（空格分隔），可匹配标题和标签
+   * 阵容有效性标签根据描述中的测试日期动态匹配（30天内有效）
    */
   const filteredLayouts = useMemo(() => {
     // 解析搜索关键字（空格分隔）
@@ -150,6 +196,11 @@ function Home() {
       .trim()
       .split(/\s+/)
       .filter(k => k.length > 0);
+
+    // 阵容有效性虚拟标签
+    const validityTags = ['国服有效', '国际服有效'];
+    const selectedValidityTags = selectedTags.filter(t => validityTags.includes(t));
+    const selectedRealTags = selectedTags.filter(t => !validityTags.includes(t));
 
     return layouts.filter(layout => {
       // 搜索匹配：支持多关键字，匹配标题或标签
@@ -168,11 +219,25 @@ function Home() {
       
       let matchTags = true;
       
-      if (selectedTags.length > 0) {
+      // 阵容有效性筛选（动态匹配）
+      let matchValidity = true;
+      if (selectedValidityTags.length > 0) {
+        // 检查是否满足所有选中的有效性条件
+        matchValidity = selectedValidityTags.every(tag => {
+          if (tag === '国服有效') {
+            return isValidWithin30Days(layout, 'china');
+          } else if (tag === '国际服有效') {
+            return isValidWithin30Days(layout, 'intl');
+          }
+          return true;
+        });
+      }
+      
+      if (selectedRealTags.length > 0) {
         // 按分类检查标签匹配
         for (const category of categories) {
           const categoryTagNames = getTagsByCategoryId(category.id).map(t => t.name);
-          const selectedInCategory = selectedTags.filter(t => categoryTagNames.includes(t));
+          const selectedInCategory = selectedRealTags.filter(t => categoryTagNames.includes(t));
           
           if (selectedInCategory.length > 0) {
             if (category.type === 'single') {
@@ -213,7 +278,7 @@ function Home() {
         }
       }
       
-      return matchSearch && matchTags;
+      return matchSearch && matchTags && matchValidity;
     });
   }, [layouts, searchQuery, selectedTags, categories]);
 
